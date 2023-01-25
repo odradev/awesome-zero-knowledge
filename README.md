@@ -17,26 +17,26 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [The Complete Full-Stack Guide to Getting Started with Zero-Knowledge Proofs using Circom and ZK-Snarks](https://dev.to/tonyolendo/the-complete-full-stack-guide-to-getting-started-with-zero-knowledge-proofs-using-circom-and-zk-snarks-part-1-53gi) - Full-Stack Guide for beginners by Tony Olendo.
 * [A Simple Explanation of Zero Knowledge Proofs](https://medium.com/web3studio/a-simple-explanation-of-zero-knowledge-proofs-ca574092e73b) - Short explanation of the ZKP topic by Hadas Zeilberger.
 * [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f) - explanation of the ZKP with example on Tornado Cash by Laszlo Fazekas.
-* [The Evolution of Zero-Knowledge Proofs in Web3](https://medium.com/manta-network/the-evolution-of-zero-knowledge-proofs-in-web3-b92a68c41c04) - explanation explanation of the ZKP with example on Manta Network.
+* [The Evolution of Zero-Knowledge Proofs in Web3](https://medium.com/manta-network/the-evolution-of-zero-knowledge-proofs-in-web3-b92a68c41c04) - description of the ZKP with example on Manta Network.
 * [ZKP Knowledge Base](https://kb.delendum.xyz/) - knowledge base wikia by Delendum 
 * [Commitment Schemes and Zero-Knowledge Protocols, January 1998](https://www.researchgate.net/publication/221621428_Commitment_Schemes_and_Zero-Knowledge_Protocols) - academic text by Ivan Damgård from Aarhus University. 
 * [The Complexity of Zero Knowledge by Harvard University, October 2007](https://people.seas.harvard.edu/~salil/research/complexityZK.pdf) - academic text by Salil Vadhan from Harvard University. 
 
 ### Tutorials and courses
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC
-* [Zero Knowledge on Casper.](https://odra.dev/blog/casper-zk-risc0)
+* [Zero Knowledge on Casper](https://odra.dev/blog/casper-zk-risc0) - implementing ZK on Casper using risc0.
 
 ### Projects 
 Projects that are using ZK-technology.
 
-#### Layers 2
+#### Layer 2
 * [Dymension](https://dymension.xyz/) - Dymension is a home for easily deployable and lightning fast app-chains, called RollApps. RollApps are ultra-fast blockchains that have their own gas token and customizable application logic. 
 * [Stark.net](https://starknet.io/) - StarkWare is building StarkNet, a decentralized, permissionless and censorship-resistant STARK-powered L2 ZK-Rollup that supports general-computation over Ethereum. It is based on the Turing-complete Cairo language.
 * [Eigen Layer](https://www.eigenlayer.com/) - Eigen layer is a general-purpose marketplace for decentralized trust, which is built on Ethereum, the largest programmable decentralized trust network and unbundles the trust layer of Ethereum so components of the trust network can be reused for other purposes.
 * [Fuel Network](https://www.fuel.network/) - Fuel v1 began as a layer-2 (L2) scalability technology for a monolithic Ethereum. It was the first optimistic rollup on mainnet Ethereum, deployed at the end of 2020.
 * [Scroll.io](https://scroll.io/) - Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools.
 * [Celestia](https://celestia.org) - Celestia is the first modular blockchain network that makes it effortless to deploy a new blockchain.
-* [ZK Space](https://zkspace.info/) - The ZKSpace platform consists of three main parts: a Layer 2 AMM DEX utilizing ZK-Rollups technology ZKSwap v3, a payment service called ZKSquare, and an NFT marketplace called ZKSea.
+* [ZKSpace](https://zkspace.info/) - The ZKSpace platform consists of three main parts: a Layer 2 AMM DEX utilizing ZK-Rollups technology ZKSwap v3, a payment service called ZKSquare, and an NFT marketplace called ZKSea.
 * [Aztec Connect](https://aztec.network/) - Aztec Connect is an open source layer 2 network that aims to bring scalability and privacy to Ethereum.
 * [zkSync](https://zksync.io/) - zkSync is a scaling and privacy engine for Ethereum.
 * [Golem](https://www.golem.network/) - Golem is a global, open-source, decentralized supercomputer that anyone can use. It is made up of the combined computing power of the users' machines, from PCs to entire data centers.
