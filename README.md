@@ -5,11 +5,12 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Introduction](#introduction)
 * [Tutorials](#tutorials)
 * [Conferences and workshops](#conferences-and-workshops)
+* [Upcoming events](#upcoming-events)
 * [Projects](#projects)
     * [Layer 2](#layer-2)
         * [Whitepapers](#whitepapers)
     * [Marketplaces](#marketplaces) 
-        * [Whitepapers](#whitepapers-1)
+        * [Whitepapers](#whitepapers)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
@@ -44,16 +45,20 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Circom and SnarkJS tutorial](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html) - tutorial how to create Zero Knowledge zkSnark circuit.
 
 ### Conferences and workshops
-* [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
-* [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course on February 2023 in Bar-Ilan University, Israel.
-* [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal.
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
 * [Luxembourg Zero Knowledge Days](https://zklux.eu/) - conference from 2019 in Luxembourg, slides available on the page.
 * [ZKProof Online Workshop](https://zkproof.org/events/) - online workshops by ZKProof. Slides from five editions are available on the page.
 * [ZK HACK mini](https://zkhack.dev/zkhackIII/) - a virtual event featuring workshops and advanced puzzle-solving competitions.
 * [Devcon Bogotá](https://devcon.org/) - Devcon for new Ethereum explorers in Colombia, October 2022.
+
+### Upcoming events
+
+* [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course on February 2023 in Bar-Ilan University, Israel.
+* [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
 * [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
+* [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal.
 * [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium
+
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
