@@ -8,9 +8,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Upcoming events](#upcoming-events)
 * [Projects](#projects)
     * [Layer 2](#layer-2)
-        * [Whitepapers](#whitepapers)
     * [Marketplaces](#marketplaces) 
-        * [Whitepapers](#whitepapers)
+    * [Whitepapers](#whitepapers)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
@@ -33,20 +32,18 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 
 ### Tutorials
 * [Zero Knowledge on Casper](https://odra.dev/blog/casper-zk-risc0) - implementing ZK on Casper using risc0.
-* [ZKSnark tutorial](https://github.com/TheBojda/zksnark-tutorial) - JavaScript tutorial for Zero-Knowledge Proofs using SnarkJS and Circom.
 * [ZK Machine Learning]( https://0xparc.org/blog/zk-mnist) - A tutorial and demo by Horace Pan, Francis Ho, and Henri Palacci.
 * [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/) - six-part tutorial about the STARK proof system by Alan Szepieniec.
 * [Libsnark Tutorial](https://github.com/christianlundkvist/libsnark-tutorial) - basics of the libsnark software library for creating zk-SNARKs.
 * [RollupNC Tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial) - tutorial how to build RollupNC. 
 * [Zero Knowledge Proofs](https://github.com/ConsenSys/zero-knowledge-proofs) - Zero Knowledge Proofs and how they can be implemented in Quorum.
-* [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html) and [Hash Pre-Image](https://blog.decentriq.com/proving-hash-pre-image-zksnarks-zokrates/) - Tutorial for Zero Knowledge Proofs by Zokrates.
 * [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/) - tutorial by Kendrick Tan.
 * [Build a zkSNARK-based Battleship Game on Bitcoin](https://learn.scrypt.io/en/courses/630b1fe6c26857959e13e160) - tutorial learning how to build a zkSnark app.
 * [Circom and SnarkJS tutorial](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html) - tutorial how to create Zero Knowledge zkSnark circuit.
 
 ### Conferences and workshops
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
-* [Luxembourg Zero Knowledge Days](https://zklux.eu/) - conference from 2019 in Luxembourg, slides available on the page.
+* [Luxembourg Zero Knowledge Days](https://zklux.eu/) - conference from 2019 in Luxembourg,  and videos available on the page.
 * [ZKProof Online Workshop](https://zkproof.org/events/) - online workshops by ZKProof. Slides from five editions are available on the page.
 * [ZK HACK mini](https://zkhack.dev/zkhackIII/) - a virtual event featuring workshops and advanced puzzle-solving competitions.
 * [Devcon Bogotá](https://devcon.org/) - Devcon for new Ethereum explorers in Colombia, October 2022.
@@ -57,8 +54,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
 * [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
 * [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal.
-* [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium
-
+* [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium.
+* [RISC Zero Study Club](https://twitter.com/RiscZero/status/1620058982672117766) - Series of zoom meetings with RISC Zero team explaining all things ZK - from 1st of February to 29th of March 2023.
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
@@ -76,7 +73,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell) -article by Christian Reitwiessner (Ethereum foundation)from December 2016
 * [Plonky2: Fast Recursive Arguments with PLONK and FRI](https://github.com/mir-protocol/plonky2/blob/main/plonky2/plonky2.pdf) - article by Polygon Zero Team from September 2022.
 * [SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](https://eprint.iacr.org/2013/507.pdf) - academic text by Eli Ben-Sasson, Alessandro Chiesa, Daniel Genkin, Eran Tromer, and Madars Virza from October 2013.
-* [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://eprint.iacr.org/2009/211.pdf) - academic text by Endre Bangerter, Stefania Barzan, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider, and Joe-Kai Tsay from 2009
+* [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://eprint.iacr.org/2009/211.pdf) - academic text by Endre Bangerter, Stefania Barzan, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider, and Joe-Kai Tsay from 2009.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -91,13 +88,17 @@ Projects that are using ZK-technology.
 * [ZKSpace](https://zkspace.info/) - The ZKSpace platform consists of three main parts: a Layer 2 AMM DEX utilizing ZK-Rollups technology ZKSwap v3, a payment service called ZKSquare, an NFT marketplace called ZKSea.
 * [Aztec Connect](https://aztec.network/) - Aztec Connect is an open-source layer 2 network that aims to bring scalability and privacy to Ethereum.
 * [zkSync](https://zksync.io/) - zkSync is a scaling and privacy engine for Ethereum.
-* [Golem](https://www.golem.network/) - Golem is a global, open-source, decentralized supercomputer that anyone can use. It is made up of the combined computing power of the user's machines, from PCs to entire data centers.
 * [dYdX](https://dydx.exchange/) - dYdX aims to build a powerful and professional exchange for trading crypto assets where users can truly own their trades and, eventually, the exchange itself.
 * [Arbitrum Nova](https://nova.arbitrum.io/) - Arbitrum Nova is a suite of Ethereum scaling solutions that enable high-throughput, low-cost smart contracts while remaining trustlessly secure.
 * [Loopring](https://loopring.org) - Loopring's zkRollup L2 solution aims to offer the same security guarantees as Ethereum mainnet, with a big scalability boost: throughput increased by 1000x, and cost reduced to just 0.1% of L1.
 
+#### Marketplaces
+* [zkPoD](https://github.com/sec-bit/zkPoD-node) - decentralized platform for data exchange between untrusted parties realizing "Payment on Delivery" without any trusted third party.
+* [Ruby Protocol](https://wiki.ruby.xyz/) - private data management framework for Web 3.0. 
+* [Modulo Zero](https://modulozero.xyz/) - on-chain solution for private data exchange.
+
 ##### Whitepapers
-List of whitepapers to the Layer 2 projects.
+List of whitepapers to the described projects.
 * [Dymension](https://litepaper.dymension.xyz/ )
 * [Stark.net](https://starknet.io/what-is-starknet/)
 * [Eigen Layer](https://blockchain.ece.uw.edu/research/)
@@ -111,14 +112,6 @@ List of whitepapers to the Layer 2 projects.
 * [dYdX](https://whitepaper.dydx.exchange/)
 * [Arbitrum Nova](https://github.com/OffchainLabs/nitro/blob/master/docs/Nitro-whitepaper.pdf)
 * [Loopring](https://whitepaper.io/document/26/loopring-whitepaper)
-
-#### Marketplaces
-* [zkPoD](https://github.com/sec-bit/zkPoD-node) - decentralized platform for data exchange between untrusted parties realizing "Payment on Delivery" without any trusted third party.
-* [Ruby Protocol](https://wiki.ruby.xyz/) - private data management framework for Web 3.0. 
-* [Modulo Zero](https://modulozero.xyz/) - on-chain solution for private data exchange.
-
-##### Whitepapers
-
 * [Ruby Protocol](https://docsend.com/view/bby2zmdj2b86yue9)
 
 ### YouTube clips
@@ -171,4 +164,4 @@ List of whitepapers to the Layer 2 projects.
 * [Matter Labs - Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 * [Ventali - Awesome-zk](https://github.com/ventali/awesome-zk)
 * [sCrypt-Inc - Awesome ZKPs](https://github.com/sCrypt-Inc/awesome-zero-knowledge-proofs)
-* [Zero Knowledge Canon](https://a16zcrypto.com/zero-knowledge-canon/)
+* [Zero Knowledge Canon](https://a16zcrypto.com/zero-knowledge-canon/) 
