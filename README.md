@@ -10,11 +10,13 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
     * [Layer 2](#layer-2)
     * [Marketplaces](#marketplaces) 
     * [Whitepapers](#whitepapers)
+* [Tools from GitHub](#tools-from-github)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
     * [Code](#code)
     * [Math](#math)
+* [Podcasts](#podcasts)    
 * [Books](#books)
 * [Other awesomes](#other-awesomes)
 
