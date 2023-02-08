@@ -12,21 +12,21 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Polygon’s Zero Knowledge Odyssey Part I](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-1-6-3abb67cb5da8), [Part II](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-2-89ad9f6533f0), [Part III](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-3-cfb9c8d81cf1) - 3 parts of 6-part series of articles, they take a closer look at some of the key acquisitions and developments that have helped shape the future of Polygon using the power of Zero Knowledge (ZK). (01-07.02.2023)
 
 ### Layer 2 projects
-* [Dymension](https://medium.com/@dymensionXYZ/dymension-35-c-4dc8ac1c987c) announced that their public testnet is coming in *Q2 2023*. (1.02.2023)
+* [Dymension](https://medium.com/@dymensionXYZ/dymension-35-c-4dc8ac1c987c) announced that their public testnet is coming in *Q2 2023*. (01.02.2023)
+* [Thread about a testnet bridge connecting Ethereum and Near blockchains](https://twitter.com/labs_electron/status/1621131535901663233) (03.02.2023)
 * [Announcment of the Starknet](https://twitter.com/StarkWareLtd/status/1622197933025251328) - StarkWare has announced that it will be making its software open-source. (05.02.2023)
 
 ### YouTube Clips
 * [Common Zero-Knowledge Proof Vulnerabilities](https://www.youtube.com/watch?v=1RQSwj8h8rM) - lecture by D-Square. (02.02.2023)
-* [Lecture 2: Overview of Modern SNARK Constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
-* [Lecture 3: Programming ZKPs ](https://www.youtube.com/watch?v=UpRSaG6iuks) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
-* [Lesson 8: Zero Knowledge Proof (Part 1)](https://www.youtube.com/watch?v=S11RWf3ZOFQ) - lecture by Bitcoin Class with Satoshi. (03.02.2023)
+* [Zero Knowledge Proofs MOOC - Lecture 2: Overview of Modern SNARK Constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
+* [Zero Knowledge Proofs MOOC - Lecture 3: Programming ZKPs](https://www.youtube.com/watch?v=UpRSaG6iuks) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
+* [Bitcoin Smart Contracts - Lesson 8: Zero Knowledge Proof (Part 1)](https://www.youtube.com/watch?v=S11RWf3ZOFQ) - lecture by Bitcoin Class with Satoshi. (03.02.2023)
 * [Associate Professor Ron Steinfield : Post Quantum ZK proofs and Blockchain applications](https://www.youtube.com/watch?v=t__N_OXF7Kw) - a lecture from Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School 2023. (05.02.2023)
 * [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference. (05-06.02.2023)
 
 ### Twitter
 * [Thread about RaisePay wallet testnet on zkSync](https://twitter.com/raise_fi/status/1621501323094147075) (03.02.2023)
 * [Thread about a market map](https://twitter.com/wagmi_vc/status/1621598427883741187) (03.02.2023)
-* [Thread about a testnet bridge connecting Ethereum and Near blockchains](https://twitter.com/labs_electron/status/1621131535901663233) (03.02.2023)
 * [Thread about ZK-rollups](https://twitter.com/Bambocha5/status/1621951354636746755) (04.02.2023)
 * [Thread about Data avalibility by Celesttia](https://twitter.com/CelestiaOrg/status/1622641545949364224/photo/1) (06.02.2023)
 * [ZKSpace Monthly Dev](https://twitter.com/ZKSpaceOfficial/status/1622426221622738944) (06.02.2023)
