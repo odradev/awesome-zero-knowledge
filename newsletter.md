@@ -1,46 +1,51 @@
-# ZK-newsletter for 2023-02-08
+# ZK-newsletter for 2023-02-15
 Summary of the most important things, which happened in Zero Knowledge world, in the previous week.
 
 ### New articles
-* [Understanding Zero Knowledge Proofs — A Beginner’s Guide](https://medium.com/@info.marcinjedral/understanding-zero-knowledge-proofs-a-beginners-guide-a78bc5bf5644) - article introducing ZKP by Marcin Jedral. (01.02.2023) 
-* [Zeroing in on Security: The Concept of Zero-Knowledge Proofs](https://jaylanthedev.medium.com/zeroing-in-on-security-the-concept-of-zero-knowledge-proofs-ac67c3cb9825) - article by Jaylan Snelson. (02.02.2023)
-* [Zero-Knowledge Proof and ZKP Projects: Exploring the Future of Privacy and Security](https://earlyminter.com/zero-knowledge-proof-and-zkp-projects-exploring-the-future-of-privacy-and-security/) - article by Matheus Villas Boas. (03.02.2023)
-* [Wasm0 (ZKWasm): A New Blockchain Environment for Mass Adoption](https://medium.com/@0xwasm/wasm0-zkwasm-a-new-blockchain-environment-for-mass-adoption-15aab385a7ee) - article by ZKWasm. (03.02.2023)
-* [Zero Knowledge Proofs (ZKPs) and ZK-Rollups in Crypto: Everything You Need to Know](https://fxdailyreport.com/zero-knowledge-proofs-zkps-zk-rollups/) - article diving into ZKPs and Zk-Rollups by Daffa Zaky (03.02.2023)
-* [Zero-Knowledge Rollup — Part 1](https://medium.com/integraate/zero-knowledge-rollup-part-1-7584327e19d) - article about ZKRollups with code examples by Kushagra Jindal. (05.02.2023)
-* [Let’s dissect a zkSNARK! (part 1)](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-1-a82fc092f58a) - article explainig ZKSnarks by Yu Jiang Tham. (06.02.2023)
-* [Polygon’s Zero Knowledge Odyssey Part I](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-1-6-3abb67cb5da8), [Part II](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-2-89ad9f6533f0), [Part III](https://medium.com/@sanilshah1999/polygons-zero-knowledge-odyssey-part-3-cfb9c8d81cf1) - 3 parts of 6-part series of articles, they take a closer look at some of the key acquisitions and developments that have helped shape the future of Polygon using the power of Zero Knowledge (ZK). (01-07.02.2023)
+* [Zero Knowledge Proof: Interactive vs. Non-Interactive](https://nfting.medium.com/zero-knowledge-proof-interactive-vs-non-interactive-a8ba6e2cd7c7) - article comparing interactive and non-interactive ZKPs by NFTing. (08.02.2023)
+* [Exploring Findora’s Implementation of Zero-knowledge Proofs (ZKPs) in Privacy-focused Blockchain Technology](https://medium.com/@eclipsenodes/exploring-findoras-implementation-of-zero-knowledge-proofs-zkps-in-privacy-focused-blockchain-4ab20dcbbed9) - article about Findora - blockchain platform by Eclipse Nodes. (10.02.2023)
+* [How to Design a Compliant, Privacy-Preserving Fiat Stablecoin via Zero-Knowledge Proofs](https://jonasgross.medium.com/how-to-design-a-compliant-privacy-preserving-fiat-stablecoin-via-zero-knowledge-proofs-b76f6fdff75d) - article by Jonas Gross, Johannes Sedlmeir, Simon Seiter. (10.02.2023)
+* [Scaling The Ethereum Using Rollups-Layer 2](https://kbaiiitmk.medium.com/scaling-the-ethereum-using-rollups-layer-2-a9b488ca2fe) - article by Sumi Maria Abraham. (10.02.2023)
+* [Polygon Exploring Use of ZK Technology for Main Chain, Co-Founder Bjelic Says](https://www.coindesk.com/tech/2023/02/10/polygon-exploring-use-of-zk-technology-for-main-chain-co-founder-bjelic-says/) - article by Margaux Nijkerk. (10.02.2023)
+* [ZkRollups: All You Need to Know](https://www.cryptopolitan.com/zkrollups-all-you-need-to-know/) - article introducing ZkRollups by Micah Abiodun. (11.02.2023)
+* [Zero-Knowledge Rollup — Part 2](https://medium.com/cumberlandlabs/zero-knowledge-rollup-erc-20-token-part-2-ab4309725398) and [Part 3](https://medium.com/cumberlandlabs/zero-knowledge-rollup-erc-20-token-part-3-631666188d4c) - article about ZKRollups with code examples by Kushagra Jindal. (13.02.2023)
+* [EVM at Risc0](https://odra.dev/blog/evm-at-risc0/) - article by Maciej Zieliński. (13.02.2023)
 
 ### Layer 2 projects
-* [Dymension](https://medium.com/@dymensionXYZ/dymension-35-c-4dc8ac1c987c) announced that their public testnet is coming in *Q2 2023*. (01.02.2023)
-* [Thread about a testnet bridge connecting Ethereum and Near blockchains](https://twitter.com/labs_electron/status/1621131535901663233) (03.02.2023)
-* [Announcment of the Starknet](https://twitter.com/StarkWareLtd/status/1622197933025251328) - StarkWare has announced that it will be making its software open-source. (05.02.2023)
+* [What new breakthrough is zkSync making to become the leader of ZK Rollup?](https://cryptosaurus.tech/what-new-breakthrough-is-zksync-making-to-become-the-leader-of-zk-rollup/) - article by Daniel Warren. (09.02.2023)
+* [ZKSpace 2-Year Anniversary Campaign announcment](https://twitter.com/ZKSpaceOfficial/status/1623610267845427201). (09.02.2023)
+* [What's going on with ***zkSync*** and what's coming up from co-founder Alex Gluchowski](https://twitter.com/gluk64/status/1624037875581845505?s=20&t=SCg6pg-QAzm5OWdoD2gKXw) (10.02.2023)
+* [An Overview of ZKSpace Layer 2 Products](https://twitter.com/ZKSpaceOfficial/status/1624743035350446089). (12.02.2023)
+* [Scaling Ethereum: Introduction to MatterLabs and zkSync 2.0](https://medium.com/@greentusker/scaling-ethereum-introduction-to-matterlabs-and-zksync-2-0-6e2c90a45030) - article by MSP. (13.02.2023)
 
 ### YouTube Clips
-* [Common Zero-Knowledge Proof Vulnerabilities](https://www.youtube.com/watch?v=1RQSwj8h8rM) - lecture by D-Square. (02.02.2023)
-* [Zero Knowledge Proofs MOOC - Lecture 2: Overview of Modern SNARK Constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
-* [Zero Knowledge Proofs MOOC - Lecture 3: Programming ZKPs](https://www.youtube.com/watch?v=UpRSaG6iuks) - lecture from Zero Knowledge Proofs MOOC Spring '23. (02.02.2023)
-* [Bitcoin Smart Contracts - Lesson 8: Zero Knowledge Proof (Part 1)](https://www.youtube.com/watch?v=S11RWf3ZOFQ) - lecture by Bitcoin Class with Satoshi. (03.02.2023)
-* [Associate Professor Ron Steinfield : Post Quantum ZK proofs and Blockchain applications](https://www.youtube.com/watch?v=t__N_OXF7Kw) - a lecture from Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School 2023. (05.02.2023)
-* [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference. (05-06.02.2023)
+* [Zero Knowledge Proof on Casper Network! ZK for dummies](https://www.youtube.com/watch?v=yd6mbuAmwMA) - interview with CEO of Odra.dev - Maciej Zieliński about ZKP. (08.02.2023)
+* [Projective Rollups: a class of rollups supporting data projections](https://www.youtube.com/watch?v=XgOK4Gf9tO8) - explanation of projective rollups and how this class relates to existing rollup categories like zk rollups, optimistic rollups, sovereign rollups as well as sidechains by Sebastien Guillemot. (10.02.2023)
+* [Bitcoin Class with Satoshi -  Lesson 10: Zero Knowledge Proof (Part 2)](https://www.youtube.com/watch?v=9WhjSKQjoW4) - second part of the lesson by Bitcoin Class with Satoshi. (10.02.2023)
 
 ### Twitter
-* [Thread about RaisePay wallet testnet on zkSync](https://twitter.com/raise_fi/status/1621501323094147075) (03.02.2023)
-* [Thread about a market map](https://twitter.com/wagmi_vc/status/1621598427883741187) (03.02.2023)
-* [Thread about ZK-rollups](https://twitter.com/Bambocha5/status/1621951354636746755) (04.02.2023)
-* [Thread about Data avalibility by Celesttia](https://twitter.com/CelestiaOrg/status/1622641545949364224/photo/1) (06.02.2023)
-* [ZKSpace Monthly Dev](https://twitter.com/ZKSpaceOfficial/status/1622426221622738944) (06.02.2023)
+* [Binance Upgrades Proof of Reserves Verification with ZK-SNARKS.](https://twitter.com/cz_binance/status/1623971713431007232?s=46&t=Fhkwnhf23CfJnPVx-bfDnA) (10.02.2023)
+* [Thread about how ZK can change our everyday life](https://twitter.com/CryptoHub210/status/1624139650225868800). (10.02.2023)
+* [CoinGecko added a new category for zero-knowledge coins](https://twitter.com/coingecko/status/1624471356057456640) - it is available [here](https://www.coingecko.com/en/categories/zero-knowledge-zk). (11.02.2023) 
+* [Thread about what exactly are ZKPs and how do they work](https://twitter.com/voidcasherc/status/1624789571685810178). (12.02.2023)
+* [Thread about ZK privacy protocol: Lelantus Spark](https://twitter.com/firoorg/status/1624823968090951680). (12.02.2023)
+* [Landscape of ZK Technology](https://twitter.com/hc_capital/status/1624713803131940869). (12.02.2023)
+* [Thread about ZK Coins](https://twitter.com/CryptoShlug/status/1624954728726646786). (13.02.2023)
+* [Thread about zk-narratives](https://twitter.com/0xSalazar/status/1625065205754388482). (13.02.2023)
  
 ### Podcasts and other talks
-* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/262-2/) episode - *Episode 262: Ethereum’s KZG Ceremony with Trent & Carl.* (01.02.2023) 
-* [Arbitrum](https://twitter.com/arbitrum/status/1621346547022630919) - Friday Chat. (03.02.2023)
-* Weekly [Polygon ZK](https://twitter.com/0xPolygonZK/status/1621188844308807685) talk. (07.02.2023) 
+* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/263-2/) episode - *Episode 263: Cosmos, Sommelier and Emerging Assets with Zaki Manian.* (08.02.2023) 
+* [Arbitrum talk](https://twitter.com/arbitrum/status/1623410004765155328) - Right Here, Right Dao. (08.02.2023)
+* [Adopting Zero Trust](https://open.spotify.com/episode/5iGoPEomjIlkYaNsvYFWHW?si=4bbb023ab551443b) - Zero Knowledge Authority episode. (10.02.2023)
+* Weekly [Polygon ZK](https://twitter.com/0xPolygonZK/status/1625205997286596608) talk. (14.02.2023) 
 
 ### Upcoming events
-
+* [Dora Hacks - Zero-Knowledge Proof: PlONK](https://www.youtube.com/watch?v=VbXO88Cm9-E) - online workshop on 15.02.2023. 
+* [StarkEx and Starknet in 2023](https://twitter.com/i/spaces/1gqxvyZpVgWJB) - online event on 16.02.2023.
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course on February 2023 in Bar-Ilan University, Israel.
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
 * [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
 * [ZK Hack](https://zkhack.dev/?utm_source=substack&utm_medium=email) - ZK hackathon on March/April 2023 in Lisbon, Portugal.
 * [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal.
 * [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium
+* [RISC Zero Study Club](https://twitter.com/RiscZero/status/1620058982672117766) - Series of zoom meetings with RISC Zero team explaining all things ZK - from 1st of February to 29th of March 2023.
