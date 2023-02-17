@@ -103,6 +103,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [On-Chain Trusted Setup Ceremony](https://a16zcrypto.com/on-chain-trusted-setup-ceremony/) - article about trusted setup ceremony by Valeria Nikolaenko and Sam Ragsdale from September 2022.
 * [Probabilistically checkable proof](https://en.wikipedia.org/wiki/Probabilistically_checkable_proof) - Wikipedia page explaining what probabilistically checkable proof (PCP) is.
 * [A Guide to Understanding Trusted Setups](https://blog.pantherprotocol.io/a-guide-to-understanding-trusted-setups/) - guide by Panther Team from September 2022.
+* [EVM at Risc0](https://odra.dev/blog/evm-at-risc0/) - article by Maciej Zieliński from February 2023.
 
 ### Projects 
 Projects that are using ZK-technology.

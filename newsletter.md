@@ -9,6 +9,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Polygon Exploring Use of ZK Technology for Main Chain, Co-Founder Bjelic Says](https://www.coindesk.com/tech/2023/02/10/polygon-exploring-use-of-zk-technology-for-main-chain-co-founder-bjelic-says/) - article by Margaux Nijkerk. (10.02.2023)
 * [ZkRollups: All You Need to Know](https://www.cryptopolitan.com/zkrollups-all-you-need-to-know/) - article introducing ZkRollups by Micah Abiodun. (11.02.2023)
 * [Zero-Knowledge Rollup — Part 2](https://medium.com/cumberlandlabs/zero-knowledge-rollup-erc-20-token-part-2-ab4309725398) and [Part 3](https://medium.com/cumberlandlabs/zero-knowledge-rollup-erc-20-token-part-3-631666188d4c) - article about ZKRollups with code examples by Kushagra Jindal. (13.02.2023)
+* [EVM at Risc0](https://odra.dev/blog/evm-at-risc0/) - article by Maciej Zieliński. (13.02.2023)
 
 ### Layer 2 projects
 * [What new breakthrough is zkSync making to become the leader of ZK Rollup?](https://cryptosaurus.tech/what-new-breakthrough-is-zksync-making-to-become-the-leader-of-zk-rollup/) - article by Daniel Warren. (09.02.2023)
@@ -34,7 +35,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
  
 ### Podcasts and other talks
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/263-2/) episode - *Episode 263: Cosmos, Sommelier and Emerging Assets with Zaki Manian.* (08.02.2023) 
-* [Arbitrum talk](1623410004765155328) - Right Here, Right Dao. (08.02.2023)
+* [Arbitrum talk](https://twitter.com/arbitrum/status/1623410004765155328) - Right Here, Right Dao. (08.02.2023)
 * [Adopting Zero Trust](https://open.spotify.com/episode/5iGoPEomjIlkYaNsvYFWHW?si=4bbb023ab551443b) - Zero Knowledge Authority episode. (10.02.2023)
 * Weekly [Polygon ZK](https://twitter.com/0xPolygonZK/status/1625205997286596608) talk. (14.02.2023) 
 
