@@ -123,7 +123,7 @@ Projects that are using ZK-technology.
 
 #### Layer 1
 * [Zeisha Network](https://ziesha.network/) - layer-1 cryptocurrency which uses Zero Knowledge proofs as the back-end of its smart-contracts, focusing on a more scalable (Yet maintainable) blockchain by compressing transactions through zkRollup-like circuits.
-* [Dusk Network](https://dusk.network) - layer-1 blockchain protocol capable of powering privacy-preserving smart contracts that satisfy business compliance criteria
+* [Dusk Network](https://dusk.network) - layer-1 blockchain protocol capable of powering privacy-preserving smart contracts that satisfy business compliance criteria.
 
 #### Layer 2
 * [Dymension](https://dymension.xyz/) - Dymension is a home for easily deployable and lightning fast app-chains, called RollApps. RollApps are ultra-fast blockchains that have their own gas token and customizable application logic. 
@@ -200,7 +200,7 @@ List of whitepapers to the described projects.
 * [Associate Professor Ron Steinfield : Post Quantum ZK proofs and Blockchain applications](https://www.youtube.com/watch?v=t__N_OXF7Kw) - a lecture from Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School 2023.
 * [Snark Design, Part I](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Part II](https://www.youtube.com/watch?v=cMAI7g3UcoI) and [Part III](https://www.youtube.com/watch?v=ZEjuh1UBg6A) - series from a16z crypto research talks about Snark survey, rollups and more by Justin Thaler.
 * [Arrr ZK Trusted Setup Pirate Chain Capt. Draeth In Miami](https://www.youtube.com/watch?v=mGhCpkAB0p0) - interview with discussion on Zero Knowledge proofs trusted setup and misconceptions about it. 
-* [Zero-Knowledge Proof: PLONK](https://www.youtube.com/watch?v=VbXO88Cm9-E) - interview with CEO of Odra.dev - video by DoraHacks. (15.02.2023)
+* [Zero-Knowledge Proof: PLONK](https://www.youtube.com/watch?v=VbXO88Cm9-E) - video by DoraHacks. (15.02.2023)
 
 #### Code 
 * [Zero Knowledge Proofs in Node.JS - Federico Rampazzo](https://www.youtube.com/watch?v=cMoD0wIxIpQ) - talk about ZK by Federico Rampazzo presented at London Node User Group. 

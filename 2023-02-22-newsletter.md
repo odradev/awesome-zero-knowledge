@@ -28,7 +28,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Blockchain-Web3 MOOCs - ZKP Lecture 5: The Plonk SNARK](https://www.youtube.com/watch?v=A0oZVEXav24) - lecture by Dan Boneh from Zero Knowledge Proofs MOOC '23. (15.02.2023)
 * [Bitcoin Class with Satoshi -  Lesson 11: Zero Knowledge Proof (Part 3)](https://www.youtube.com/watch?v=5HNk6h5HYkM) - the third part of the lesson by Bitcoin Class with Satoshi. (17.02.2023)
 
-
 ### Twitter
 * [Thread about Polygon's definition of a zkEVM mainnet.](https://twitter.com/davidsrz/status/1626603788676239361) (17.02.2023)
 * [Thread about a future battle of ZK, Rollups, and highly modular projects.](https://twitter.com/thehiddenmaze/status/1626666167900200977) (17.02.2023)
