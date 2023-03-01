@@ -16,6 +16,8 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Arbitrum One processed more transactions than Ethereum](https://twitter.com/arbitrum/status/1628410398058708992?s=20). (22.02.2023)
 * [Horizen EON is Now Live on Yuma Public Testnet – Horizen’s First Public EVM is Open for Testing](https://blog.horizen.io/horizen-evm-eon-is-now-live-on-yuma-public-testnet/?utm_source=social&utm_medium=social&utm_campaign=Yuma). (23.02.2023)
 * [dYdX Q1 Community Town Hall](https://dydx.foundation/blog/dydx-q1-community-town-hall). (24.02.2023)
+* [The Audit-Upgraded Testnet for Polygon zkEVM](https://www.polygon.technology/blog/the-audit-upgraded-testnet-for-polygon-zkevm?utm_source=substack&utm_medium=email). (24.02.2023)
+* [zkMint: The First ZK-friendly Tendermint Consensus Engine](https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9). (24.02.2023)
 
 ### Conferences
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course from 20-23 February 2023 in Bar-Ilan University, Israel. Slides are available on the page.
@@ -32,6 +34,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Thread about some missunderstandings of how a zkRollup works](https://twitter.com/jbaylina/status/1629352597445394432). (25.02.2023)
 * [Starknet ecosystem map](https://twitter.com/odin_free/status/1629431642421854209/photo/1). (25.02.2023)
 * [Thread about a EigenLayer.](https://twitter.com/0xDino_/status/1630051886333042688) (27.02.2023)
+* [Another thread about a EigenLayer.](https://twitter.com/nuss_eli/status/1630632582554460165?t=-HzWm-9T7xEcvKbJfXStyw&s=19) (28.02.2023)
  
 ### Podcasts and other talks
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/265-2/) episode - *Episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang.* (22.02.2023) 
