@@ -13,7 +13,6 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
     * [Marketplaces](#marketplaces) 
     * [Tools](#tools)
     * [Whitepapers](#whitepapers)
-* [Tools from GitHub](#tools-from-github)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
@@ -132,11 +131,6 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 ### Projects 
 Projects that are using ZK-technology.
 
-
-#### Blockchain ecosystems
-* [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
-* [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it
-
 #### Layer 1
 * [Mina](https://minaprotocol.com) - layer one protocol designed to deliver on the original promise of blockchain — true decentralization, scale and security.
 * [Zeisha Network](https://ziesha.network/) - layer-1 cryptocurrency which uses Zero Knowledge proofs as the back-end of its smart-contracts, focusing on a more scalable (Yet maintainable) blockchain by compressing transactions through zkRollup-like circuits.
@@ -164,6 +158,17 @@ Projects that are using ZK-technology.
 
 #### Tools
 * [Risc Zero ZKEVM](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
+* [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
+* [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it
+* [ZoKrates](https://github.com/Zokrates/ZoKrates) - a toolbox for zkSNARKs on Ethereum.
+* [Circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
+* [Snarkjs](https://github.com/iden3/snarkjs) - zkSNARK implementation in JavaScript & WASM.
+* [Winterfell](https://github.com/facebook/winterfell) - a STARK prover and verifier for arbitrary computations.
+* [zkWASM](https://github.com/DelphinusLab/zkWasm) - the crucial part which served as a trustless adopter between the rich application running on WASM runtime and smart contracts on various blockchains.
+* [zkLLVM Circuit Compiler](https://github.com/NilFoundation/zkllvm) - compiler from high-level programming languages into an input for provable computations protocols.
+* [Arkwork](https://github.com/arkworks-rs) - a Rust ecosystem for zkSNARK programming.
+* [Py_plonk](https://github.com/ethereum/research/tree/master/py_plonk) - simple python implementation of the PLONK protocol.
+* [EthSnarks](https://github.com/HarryR/ethsnarks) - a collection of zkSNARK circuits and supporting libraries to use them with Ethereum smart contracts.
 
 ##### Whitepapers
 List of whitepapers to the described projects.
@@ -186,17 +191,6 @@ List of whitepapers to the described projects.
 * [Loopring](https://whitepaper.io/document/26/loopring-whitepaper)
 * [Ruby Protocol](https://docsend.com/view/bby2zmdj2b86yue9)
 * [Risc Zero](https://www.risczero.com/proof-system-in-detail.pdf)
-
-### Tools from GitHub
-* [ZoKrates](https://github.com/Zokrates/ZoKrates) - a toolbox for zkSNARKs on Ethereum.
-* [Circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
-* [Snarkjs](https://github.com/iden3/snarkjs) - zkSNARK implementation in JavaScript & WASM.
-* [Winterfell](https://github.com/facebook/winterfell) - a STARK prover and verifier for arbitrary computations.
-* [zkWASM](https://github.com/DelphinusLab/zkWasm) - the crucial part which served as a trustless adopter between the rich application running on WASM runtime and smart contracts on various blockchains.
-* [zkLLVM Circuit Compiler](https://github.com/NilFoundation/zkllvm) - compiler from high-level programming languages into an input for provable computations protocols.
-* [Arkwork](https://github.com/arkworks-rs) - a Rust ecosystem for zkSNARK programming.
-* [Py_plonk](https://github.com/ethereum/research/tree/master/py_plonk) - simple python implementation of the PLONK protocol.
-* [EthSnarks](https://github.com/HarryR/ethsnarks) - a collection of zkSNARK circuits and supporting libraries to use them with Ethereum smart contracts.
 
 ### YouTube clips
 
