@@ -11,6 +11,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
     * [Layer 1](#layer-1)
     * [Layer 2](#layer-2)
     * [Marketplaces](#marketplaces) 
+    * [Tools](#tools)
     * [Whitepapers](#whitepapers)
 * [Tools from GitHub](#tools-from-github)
 * [YouTube Clips](#youtube-clips)
@@ -131,10 +132,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 ### Projects 
 Projects that are using ZK-technology.
 
-* [Coingecko](https://www.coingecko.com/en/categories/zero-knowledge-zk?) - list of top Zero Knowledge Coins by Coingecko.
 
 #### Blockchain ecosystems
-* [Horizen](https://www.horizen.io/) - the most secure interoperable blockchain ecosystem supported by the largest and most decentralized multi-tiered node infrastructure in the industry.
+* [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
 * [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it
 
 #### Layer 1
@@ -143,6 +143,7 @@ Projects that are using ZK-technology.
 * [Dusk Network](https://dusk.network) - layer-1 blockchain protocol capable of powering privacy-preserving smart contracts that satisfy business compliance criteria.
 
 #### Layer 2
+* [Coingecko](https://www.coingecko.com/en/categories/zero-knowledge-zk?) - list of top Zero Knowledge Coins by Coingecko.
 * [Dymension](https://dymension.xyz/) - Dymension is a home for easily deployable and lightning fast app-chains, called RollApps. RollApps are ultra-fast blockchains that have their own gas token and customizable application logic. 
 * [Stark.net](https://starknet.io/) - StarkWare is building StarkNet, a decentralized, permissionless, and censorship-resistant STARK-powered L2 ZK-Rollup that supports general computation over Ethereum. It is based on the Turing-complete Cairo language.
 * [Eigen Layer](https://www.eigenlayer.com/) - Eigen layer is a general-purpose marketplace for decentralized trust, which is built on Ethereum, the largest programmable decentralized trust network, and unbundles the trust layer of Ethereum so components of the trust network can be reused for other purposes.
@@ -161,7 +162,7 @@ Projects that are using ZK-technology.
 * [Ruby Protocol](https://wiki.ruby.xyz/) - private data management framework for Web 3.0. 
 * [Modulo Zero](https://modulozero.xyz/) - on-chain solution for private data exchange.
 
-#### zkEVMs
+#### Tools
 * [Risc Zero ZKEVM](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 
 ##### Whitepapers
