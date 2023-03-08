@@ -12,11 +12,11 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Polygon’s technical lead explains what to expect from zkEVM](https://cryptoslate.com/polygons-technical-lead-explains-what-to-expect-from-zkevm/) - article by Dorian Batycka. (05.03.2023)
 * [[ZK] Part 1: ZK-Proofs](https://medium.com/@encodinglabs/zk-part-1-zk-proofs-d91815d89b93) - article covering the basic principles of zk-proofs by Encoding Labs. (06.03.2023) 
 * [ZK Cross-chain Message Protocol: Secure, Cheap, Foundation of Multichain Dapps](https://medium.com/@unblock256_en/zk-cross-chain-message-protocol-secure-cheap-foundation-of-multichain-dapps-66adc65cedc9) - article by un.Block Newsletter. (06.03.2023)
-* [L2 report vol. 17](https://medium.com/paradigm-research/l2-report-vol-17-b956f9c36e68) - biweekly update on Layer 2 protocols. (06.03.2023)
 
 ### Layer 2 projects
 * [Polygon zkEVM: The Audit-Upgraded Testnet Is Now Live](https://www.polygon.technology/blog/polygon-zkevm-the-audit-upgraded-testnet-is-now-live). (01.03.2023)
 * [zkSync: A Grand Transformation of Decentralized Finance on the Blockchain](https://medium.com/@cryptoon/zksync-a-grand-transformation-of-decentralized-finance-on-the-blockchain-852599283a70) - article describing what zkSync project is. (02.03.2023)
+* [L2 report vol. 17](https://medium.com/paradigm-research/l2-report-vol-17-b956f9c36e68) - biweekly update on Layer 2 protocols. (06.03.2023)
 
 ### Conferences
 * [ETHDenver 2023](https://www.ethdenver.com/) - Ethereum event from February 24 to March 5, 2023. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
