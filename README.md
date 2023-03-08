@@ -43,6 +43,10 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [What Are ZK-Rollups and Optimistic Rollups?](https://www.altcoinbuzz.io/reviews/crypto-education/what-are-zk-rollups-and-optimistic-rollups/) - article introducing ZK-Rollups by Lawrence Mike Woriji.
 * [What is Zero Knowledge Proof? A simple explanation](https://priyalwalpita.medium.com/what-is-zero-knowledge-proof-a-simple-explanation-c1e204493edf) - article explaining ZKPs by Piryal Walpita.
 * [An introduction to zero-knowledge machine learning (ZKML)](https://worldcoin.org/blog/engineering/intro-to-zkml) - article introducing ZKML.
+* [What is Zero-knowledge technology?](https://oakchain.medium.com/what-is-zero-knowledge-technology-cc5abe53aa02) - article introducing ZK by Oak.
+* [What Are Ethereum Rollups? A Step Forward to Scale Ethereum](https://unilend.medium.com/what-are-ethereum-rollups-a-step-forward-to-scale-ethereum-de89a5df8c4) - article shortly explaining Rollups by UniLend Finance.
+* [zk-SNARK Concepts Explained Like You’re 15](https://sjkelleyjr.medium.com/zk-snark-concepts-explained-like-youre-15-54755f87c6d1) - article explaining zk-SNARKs by Jackson Kelley.
+* [What Is Proof of Knowledge?](https://blog.chain.link/proof-of-knowledge/) - article explaining what Proof of Knowledge is.
 
 ### Tutorials
 * [Zero Knowledge on Casper](https://odra.dev/blog/casper-zk-risc0) - implementing ZK on Casper using risc0.
@@ -54,6 +58,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/) - tutorial by Kendrick Tan.
 * [Build a zkSNARK-based Battleship Game on Bitcoin](https://learn.scrypt.io/en/courses/630b1fe6c26857959e13e160) - tutorial learning how to build a zkSnark app.
 * [Circom and SnarkJS tutorial](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html) - tutorial how to create Zero Knowledge zkSnark circuit.
+* [A Developer’s Guide to the zkGalaxy](https://blockchain.capital/a-developers-guide-to-the-zkgalaxy/) - article from February 2023.
 
 ### Conferences and workshops
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
@@ -65,6 +70,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference.
 * [TCC 2020](https://tcc.iacr.org/2020/program.php) - a virtual event from 2020. Videos are available on the page.
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course from February 2023 in Bar-Ilan University, Israel. Slides are available on the page.
+* [ETHDenver 2023](https://www.ethdenver.com/) - Ethereum event from February 24 to March 5, 2023. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
 
 ### Upcoming events
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
@@ -114,7 +120,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - article by Georgios Konstantopoulos from April 2022.
 * [What Are the Different Types of zkEVMs?](https://sinoglobalcapital.substack.com/p/what-are-the-different-types-of-zkevms?r=1c4o4b&utm_campaign=post&utm_medium=web) - article by Sino Global Capital from January 2023.
 * [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf) - academic text by Rosario Gennaro, Craig Gentry, Bryan Parno and Mariana Raykova from 2012.
-* [Let’s dissect a zkSNARK! part 1](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-1-a82fc092f58a) and [part 2](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-2-5f92f1d7d2e9) - next part of the article explaining ZKSnarks by Yu Jiang Tham. from February 2023.
+* [Let’s dissect a zkSNARK! part 1](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-1-a82fc092f58a), [part 2](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-2-5f92f1d7d2e9) and [part 3](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-3-a53350f93417) - article explaining ZKSnarks by Yu Jiang Tham from February 2023.
 * [State Proofs: Making Smart Contracts Smarter](https://ambergroup.medium.com/state-proofs-making-smart-contracts-smarter-996ae4842ebd) - article about State Proofs by Amber Group from February 2023.
 * [Navigating the ZK ecosystem: A taxonomy.](https://public-goods.medium.com/navigating-the-zk-ecosystem-a-taxonomy-7324a88628a9) - article by public goods society from February 2023.
 * [Removing the need for trust](https://medium.com/@richardchen_81235/removing-the-need-for-trust-ab5bee14d2fa) - article by Richard Chen from February 2023.
@@ -127,6 +133,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Use of zk-SNARKs inside Blockchain Infrastructure](https://medium.com/@strnad.eth/use-of-zk-snarks-inside-blockchain-infrastructure-daaef7a18551) - article by Jakub Strnad from February 2023.
 * [Zero-Knowledge Proof for Privacy over Ethereum: Permutations over Lagrange-Bases for Oecumenical Non-Interactive Arguments of Knowledge (PLONK) [step-by-step] (Part 1)](https://medium.com/@iamagnix/zero-knowledge-proof-for-privacy-over-ethereum-permutations-over-lagrange-bases-for-oecumenical-dc7838e0bc8b) - article by Agnish Gnosh from February 2023.
 * [Overview of Modern SNARK Constructions - part 1](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-1-2325e04883a1) and [part 2](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-2-4f73ad67aa2c/)  - an article with overview of modern SNARK constructions from January and February 2023.
+* [[ZK] Part 1: ZK-Proofs](https://medium.com/@encodinglabs/zk-part-1-zk-proofs-d91815d89b93) - article covering the basic principles of zk-proofs by Encoding Labs from March 2023.
+* [ZK Cross-chain Message Protocol: Secure, Cheap, Foundation of Multichain Dapps](https://medium.com/@unblock256_en/zk-cross-chain-message-protocol-secure-cheap-foundation-of-multichain-dapps-66adc65cedc9) - article by un.Block Newsletter from March 2023.
+* [SHARP? SuperChain? Layer-3s? Temporary Rollups?](https://stonecoldpat.substack.com/p/sharp-superchain-layer-3s-temporary) - artivle by Patrick McCorry from March 2023. 
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -143,13 +152,13 @@ Projects that are using ZK-technology.
 * [Eigen Layer](https://www.eigenlayer.com/) - Eigen layer is a general-purpose marketplace for decentralized trust, which is built on Ethereum, the largest programmable decentralized trust network, and unbundles the trust layer of Ethereum so components of the trust network can be reused for other purposes.
 * [Fuel Network](https://www.fuel.network/) - Fuel v1 began as a layer-2 (L2) scalability technology for a monolithic Ethereum. It was the first optimistic rollup on mainnet Ethereum, deployed at the end of 2020.
 * [Scroll.io](https://scroll.io/) - Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools.
-* [Celestia](https://celestia.org) - Celestia is the first modular blockchain network that makes it effortless to deploy a new blockchain.
 * [ZKSpace](https://zkspace.info/) - The ZKSpace platform consists of three main parts: a Layer 2 AMM DEX utilizing ZK-Rollups technology ZKSwap v3, a payment service called ZKSquare, an NFT marketplace called ZKSea.
 * [Aztec Connect](https://aztec.network/) - Aztec Connect is an open-source layer 2 network that aims to bring scalability and privacy to Ethereum.
 * [zkSync](https://zksync.io/) - zkSync is a scaling and privacy engine for Ethereum.
 * [dYdX](https://dydx.exchange/) - dYdX aims to build a powerful and professional exchange for trading crypto assets where users can truly own their trades and, eventually, the exchange itself.
 * [Arbitrum Nova](https://nova.arbitrum.io/) - Arbitrum Nova is a suite of Ethereum scaling solutions that enable high-throughput, low-cost smart contracts while remaining trustlessly secure.
 * [Loopring](https://loopring.org) - Loopring's zkRollup L2 solution aims to offer the same security guarantees as Ethereum mainnet, with a big scalability boost: throughput increased by 1000x, and cost reduced to just 0.1% of L1.
+* [Mantle](https://www.mantle.xyz/) - Ethereum layer-2 network built with modular architecture delivering low fees and high security.
 
 #### Marketplaces
 * [zkPoD](https://github.com/sec-bit/zkPoD-node) - decentralized platform for data exchange between untrusted parties realizing "Payment on Delivery" without any trusted third party.
@@ -159,7 +168,8 @@ Projects that are using ZK-technology.
 #### Tools
 * [Risc Zero ZKEVM](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
-* [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it
+* [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it.
+* [Sovereign](https://www.sovereign.xyz) - an ecosystem of seamlessly interoperable and scalable rollups that can run on any blockchain.
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) - a toolbox for zkSNARKs on Ethereum.
 * [Circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
 * [Snarkjs](https://github.com/iden3/snarkjs) - zkSNARK implementation in JavaScript & WASM.
@@ -169,6 +179,7 @@ Projects that are using ZK-technology.
 * [Arkwork](https://github.com/arkworks-rs) - a Rust ecosystem for zkSNARK programming.
 * [Py_plonk](https://github.com/ethereum/research/tree/master/py_plonk) - simple python implementation of the PLONK protocol.
 * [EthSnarks](https://github.com/HarryR/ethsnarks) - a collection of zkSNARK circuits and supporting libraries to use them with Ethereum smart contracts.
+* [Fusion](https://github.com/leonardoalt/fusion#readme) - Ethereum zkRollup written in Rust and focuses on performance, modularity, and applying Verifiable Computation proof systems.
 
 ##### Whitepapers
 List of whitepapers to the described projects.
@@ -182,7 +193,6 @@ List of whitepapers to the described projects.
 * [Eigen Layer](https://blockchain.ece.uw.edu/research/)
 * [Fuel Network](https://fuellabs.github.io/fuel-docs/master/index.html/)
 * [Scroll.io](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
-* [Celestia](https://arxiv.org/pdf/1905.09274.pdf)
 * [ZKSpace](https://github.com/l2labs/zkspace-whitepaper/)
 * [Aztec Connect](https://eprint.iacr.org/2019/953.pdf)
 * [zkSync](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites) 
@@ -209,6 +219,8 @@ List of whitepapers to the described projects.
 * [Projective Rollups: a class of rollups supporting data projections](https://www.youtube.com/watch?v=XgOK4Gf9tO8) - explanation of projective rollups and how this class relates to existing rollup categories like zk rollups, optimistic rollups, sovereign rollups as well as sidechains by Sebastien Guillemot. 
 * [ZK Tech You Should Now - part 1](https://www.youtube.com/watch?v=liOn-n4lqfA), [part 2](https://www.youtube.com/watch?v=C0QEudA5qUU) and [part 3](https://www.youtube.com/watch?v=ibJntppYEgo) - series of quick videos explaining SNARKs, STARKs, ZK Rollups and zkApps.
 * [What Are Zero-Knowledge Rollups and How Do They Work](https://www.youtube.com/watch?v=LKRAx19O1M8) - simple explanation of the zkRollups.
+* [zk-SNARKs Explained - Binance’s Proof of Reserves System](https://www.youtube.com/watch?v=N5Qip04KIfo) - video sortly explaining zk-SNARKs.
+* [Delendum -  Daniel Kang, Scaling Zero Knowledge Proofs to ImageNet Scale Models](https://www.youtube.com/watch?v=am20GH2nEpM) - lecture by Daniel Kang. 
 
 #### Blockchain
 * [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/) - series of videos explaining all things zero knowledge.
@@ -223,6 +235,7 @@ List of whitepapers to the described projects.
 * [Arrr ZK Trusted Setup Pirate Chain Capt. Draeth In Miami](https://www.youtube.com/watch?v=mGhCpkAB0p0) - interview with discussion on Zero Knowledge proofs trusted setup and misconceptions about it. 
 * [Zero-Knowledge Proof: PLONK](https://www.youtube.com/watch?v=VbXO88Cm9-E) - video by DoraHacks.
 * [S21 // Tweet Size Zero-Knowledge Proof Blockchain by Brian McKenna](https://www.youtube.com/watch?v=D1btJADO3_g)- presentation of the Head of Product of Mina Foundation.
+* [STARKDenver Conference 2023 - Defining Onchain Possibilities](https://www.youtube.com/watch?v=0ugBSFxaJjA) - lecture from ETHDenver 2023.
 
 #### Code 
 * [Zero Knowledge Proofs in Node.JS - Federico Rampazzo](https://www.youtube.com/watch?v=cMoD0wIxIpQ) - talk about ZK by Federico Rampazzo presented at London Node User Group. 
@@ -231,6 +244,7 @@ List of whitepapers to the described projects.
 * [Are Your Zero-Knowledge Proofs Correct? by Jon Stephens | Devcon Bogotá](https://www.youtube.com/watch?v=ettgm3ZVYOk) - lecture given by Jon Stephens at Devcon Bogotá. 
 * [Zero Knowledge Proof Study Group (playlist)](https://www.youtube.com/watch?v=yaiQgqRacpc&list=PL0Kn1t30VSpHz27Cvp-pBhOfV3nXhRlH9) - lectures by Bitcoin Class with Satoshi.
 * [Zero Knowledge Programming with TypeScript - Jack Servia | Mina zkApps | Devfolio](https://www.youtube.com/watch?v=guDz6B2dGGM) - lecture about SnarkyJS by Jack Servia.
+* [How to build and deploy on-chain AI/ML with zero-knowledge machine learning](https://www.youtube.com/watch?v=YqnVAL3kkMk) - lecture from ETHDenver 2023 by Jason Morton. 
 
 #### Math 
 * [Vitalik Buterin: Zero Knowledge Proofs and Ethereum Update @ Ethereum HK Meetup](https://www.youtube.com/watch?v=n8zsPf4FzO4) - 1-hour meetup from 2017 with Vitalik Buterin (founder of Ethereum) speaking about Zero Knowledge Proofs and ZKSnarks.
@@ -244,15 +258,17 @@ List of whitepapers to the described projects.
 * [Public-Coin Zero-Knowledge Arguments with (almost) Minimal Time and Space Overheads](https://www.youtube.com/watch?v=ce6mxVDZjfk) - lecture presented at TCC 2020.
 * [Common Zero-Knowledge Proof Vulnerabilities](https://www.youtube.com/watch?v=1RQSwj8h8rM) - lecture about common vulnerabilities found in ZK programs by Dylan Davis.
 * [Zero-knowledge proof composition and recursion (playlist)](https://www.youtube.com/playlist?list=PLBJMt6zV1c7GeKkR2SUhzx9KSJ9TsEx6n) - series about how proof composition and recursion work with different schemes by David Wong.
+* [HCPP22 | Ariel Gabizon - Zero-knowledge proofs: From novice to master](https://www.youtube.com/watch?v=z8-U2oABnaA) - lecture from Hackers Congress Paralelni Polis by Ariel Gabizon.
+* [Zero-Knowledge Proof: Groth16](https://www.youtube.com/watch?v=VQyDSxB9Bls) - workshop by Alexey Kalmykov.
 
 ### Podcasts
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/). 
 * Weekly [Devs Do Something Podcast](https://www.devsdosomething.fm/episodes/dcbuilder-eth-zero-knowledge-ml-and-becoming-a-web3-developer).
-* [STARK-Struck Podcast](https://www.youtube.com/playlist?list=PLcIyXLwiPilU-qOgGEPno8LGN9qiBVlZS) - bi-weekly podcast with guests from the StarkNet ecosystem and the blockchain space.
+* Bi-weekly [STARK-Struck Podcast](https://www.youtube.com/playlist?list=PLcIyXLwiPilU-qOgGEPno8LGN9qiBVlZS)  with guests from the StarkNet ecosystem and the blockchain space.
 * [Anna Rose & Kobi Gurkan: Zero Knowledge Proofs – State of the ZK Ecosystem Part I](https://open.spotify.com/episode/5NPnD9CP1u9dPNE1CkZYIW?si=2bce39120c8c4d46) and [Part II](https://open.spotify.com/episode/6KWFpq2ZZFlgEGL5Am2OlY?si=91ee189ff68d4c9f) - episodes from Epicenter podcast from December 2022 and January 2023.
 * [Learning about Zero Knowledge Proof](https://open.spotify.com/episode/3gS1Axn2MAxXFEgRu8QcZz?si=d54d51234e6c4377) - an episode from The Bad Crypto podcast from January 2023.
 * [Setting the record straight on zkEVM | Polygon Pod](https://open.spotify.com/episode/2rYddR8AAu0nEtcm0YcJVM?si=cf29c3781f0749cd) - episode from Polygon Pod podcast from December 2022.
-* [Adopting Zero Trust](https://open.spotify.com/episode/5iGoPEomjIlkYaNsvYFWHW?si=4bbb023ab551443b) - Zero Knowledge Authority episode from February 2023.
+* [Zero Knowledge Authority](https://open.spotify.com/episode/5iGoPEomjIlkYaNsvYFWHW?si=4bbb023ab551443b) - Adopting Zero Trust episode from February 2023.
 * [The Ceremony](https://radiolab.org/episodes/ceremony) - episode from Radiolab about ZCash ceremony from February 2021.
 * [Tasha Labs episode](https://www.youtube.com/watch?v=UOOYiltdjm8) -  How to Increase Staking Yields on Ethereum from February 2023.
 * [Data Science episode](https://open.spotify.com/episode/0rvz4Vbu0YookkCRzT9Dbh?si=e67487796d0b4d76) - *Prove It Without Revealing It: Exploring the Power of Zero-Knowledge Proofs in Data Science (Ep. 218)* from February 2023.
