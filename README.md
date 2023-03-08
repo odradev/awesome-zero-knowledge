@@ -134,8 +134,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Zero-Knowledge Proof for Privacy over Ethereum: Permutations over Lagrange-Bases for Oecumenical Non-Interactive Arguments of Knowledge (PLONK) [step-by-step] (Part 1)](https://medium.com/@iamagnix/zero-knowledge-proof-for-privacy-over-ethereum-permutations-over-lagrange-bases-for-oecumenical-dc7838e0bc8b) - article by Agnish Gnosh from February 2023.
 * [Overview of Modern SNARK Constructions - part 1](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-1-2325e04883a1) and [part 2](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-2-4f73ad67aa2c/)  - an article with overview of modern SNARK constructions from January and February 2023.
 * [[ZK] Part 1: ZK-Proofs](https://medium.com/@encodinglabs/zk-part-1-zk-proofs-d91815d89b93) - article covering the basic principles of zk-proofs by Encoding Labs from March 2023.
-* [Rollups as Sovereign Chains](https://blog.celestia.org/sovereign-rollup-chains/) - article about Rollups by Mustafa Al-Bassam, Ertem Nusret Tas, Nima Vaziri from July 2022.
 * [ZK Cross-chain Message Protocol: Secure, Cheap, Foundation of Multichain Dapps](https://medium.com/@unblock256_en/zk-cross-chain-message-protocol-secure-cheap-foundation-of-multichain-dapps-66adc65cedc9) - article by un.Block Newsletter from March 2023.
+* [SHARP? SuperChain? Layer-3s? Temporary Rollups?](https://stonecoldpat.substack.com/p/sharp-superchain-layer-3s-temporary) - artivle by Patrick McCorry from March 2023. 
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -152,7 +152,6 @@ Projects that are using ZK-technology.
 * [Eigen Layer](https://www.eigenlayer.com/) - Eigen layer is a general-purpose marketplace for decentralized trust, which is built on Ethereum, the largest programmable decentralized trust network, and unbundles the trust layer of Ethereum so components of the trust network can be reused for other purposes.
 * [Fuel Network](https://www.fuel.network/) - Fuel v1 began as a layer-2 (L2) scalability technology for a monolithic Ethereum. It was the first optimistic rollup on mainnet Ethereum, deployed at the end of 2020.
 * [Scroll.io](https://scroll.io/) - Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools.
-* [Celestia](https://celestia.org) - Celestia is the first modular blockchain network that makes it effortless to deploy a new blockchain.
 * [ZKSpace](https://zkspace.info/) - The ZKSpace platform consists of three main parts: a Layer 2 AMM DEX utilizing ZK-Rollups technology ZKSwap v3, a payment service called ZKSquare, an NFT marketplace called ZKSea.
 * [Aztec Connect](https://aztec.network/) - Aztec Connect is an open-source layer 2 network that aims to bring scalability and privacy to Ethereum.
 * [zkSync](https://zksync.io/) - zkSync is a scaling and privacy engine for Ethereum.
@@ -180,6 +179,7 @@ Projects that are using ZK-technology.
 * [Arkwork](https://github.com/arkworks-rs) - a Rust ecosystem for zkSNARK programming.
 * [Py_plonk](https://github.com/ethereum/research/tree/master/py_plonk) - simple python implementation of the PLONK protocol.
 * [EthSnarks](https://github.com/HarryR/ethsnarks) - a collection of zkSNARK circuits and supporting libraries to use them with Ethereum smart contracts.
+* [Fusion](https://github.com/leonardoalt/fusion#readme) - Ethereum zkRollup written in Rust and focuses on performance, modularity, and applying Verifiable Computation proof systems.
 
 ##### Whitepapers
 List of whitepapers to the described projects.
@@ -193,7 +193,6 @@ List of whitepapers to the described projects.
 * [Eigen Layer](https://blockchain.ece.uw.edu/research/)
 * [Fuel Network](https://fuellabs.github.io/fuel-docs/master/index.html/)
 * [Scroll.io](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
-* [Celestia](https://arxiv.org/pdf/1905.09274.pdf)
 * [ZKSpace](https://github.com/l2labs/zkspace-whitepaper/)
 * [Aztec Connect](https://eprint.iacr.org/2019/953.pdf)
 * [zkSync](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites) 
