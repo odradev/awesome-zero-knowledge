@@ -42,7 +42,8 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * Weekly [Devs Do Something](https://www.devsdosomething.fm/episodes/jordi-baylina-a-deep-dive-into-the-polygon-zkevm) episode - *A Deep Dive into the Polygon zkEVM with Jordi Baylina*. (02.03.2023)
 * [Arbitrum talk](https://twitter.com/arbitrum/status/1631353111397662720) - Arbitrum x Vela. (02.03.2023)
 * [Mina’s zkBridge to Ethereum — with =nil; Foundation](https://twitter.com/i/spaces/1YqJDoANeWDGV?s=20). (03.03.2023)
-* [Zero-Knowledge Cryptography in 2023: Privacy Becomes Practical](https://twitter.com/connect3world/status/1632383969215000578). (03
+* [Zero-Knowledge Cryptography in 2023: Privacy Becomes Practical](https://twitter.com/connect3world/status/1632383969215000578). (03.03.2023)
+
 ### Upcoming events
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
 * [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
