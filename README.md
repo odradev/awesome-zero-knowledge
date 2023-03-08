@@ -166,7 +166,7 @@ Projects that are using ZK-technology.
 * [Modulo Zero](https://modulozero.xyz/) - on-chain solution for private data exchange.
 
 #### Tools
-* [Risc Zero ZKEVM](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
+* [Risc Zero](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
 * [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it.
 * [Sovereign](https://www.sovereign.xyz) - an ecosystem of seamlessly interoperable and scalable rollups that can run on any blockchain.
