@@ -276,7 +276,6 @@ List of whitepapers to the described projects.
 ### Podcasts
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/). 
 * Weekly [Devs Do Something Podcast](https://www.devsdosomething.fm/episodes/dcbuilder-eth-zero-knowledge-ml-and-becoming-a-web3-developer).
-* Weekly [Validated](https://solana.com/validated) podcast by Solana.
 * Bi-weekly [STARK-Struck Podcast](https://www.youtube.com/playlist?list=PLcIyXLwiPilU-qOgGEPno8LGN9qiBVlZS)  with guests from the StarkNet ecosystem and the blockchain space.
 * [The Ceremony](https://radiolab.org/episodes/ceremony) - episode from Radiolab about ZCash ceremony from February 2021.
 * [Setting the record straight on zkEVM | Polygon Pod](https://open.spotify.com/episode/2rYddR8AAu0nEtcm0YcJVM?si=cf29c3781f0749cd) - episode from Polygon Pod podcast from December 2022.
@@ -285,6 +284,7 @@ List of whitepapers to the described projects.
 * [Zero Knowledge Authority](https://open.spotify.com/episode/5iGoPEomjIlkYaNsvYFWHW?si=4bbb023ab551443b) - Adopting Zero Trust episode from February 2023.
 * [Tasha Labs episode](https://www.youtube.com/watch?v=UOOYiltdjm8) -  How to Increase Staking Yields on Ethereum from February 2023.
 * [Data Science episode](https://open.spotify.com/episode/0rvz4Vbu0YookkCRzT9Dbh?si=e67487796d0b4d76) - *Prove It Without Revealing It: Exploring the Power of Zero-Knowledge Proofs in Data Science (Ep. 218)* from February 2023.
+* [Are Zero-Knowledge Proofs All They're Hyped Up to Be?](https://solana.com/validated/episodes/are-zero-knowledge-proofs-all-theyre-hyped-up-to-be) - episode from Validated podcast from February 2023.
 
 ### Books
 * [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - book by Sanjeev Arora and Boaz Barak from Princeton University, January 2007.

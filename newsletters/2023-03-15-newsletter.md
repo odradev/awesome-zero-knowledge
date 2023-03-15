@@ -23,7 +23,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 ### Twitter
 * [Thread about ICICLE - an Open-Source GPU Library for accelerating ZKPs](https://twitter.com/Ingo_zk/status/1633482638877925376?t=dp2rq1xQhCcjmmB3CnvUZQ&s=19). (08.03.2023)
 * [Thread about zkSNARKs](https://twitter.com/hinkal_protocol/status/1633571528959721474). (08.03.2023)
-* [Thread about ZKPs](https://twitter.com/th3nfthunt3r/status/1633531732384178187). (08.03.2023)
 * [zkSync's highlights from ETHDenver](https://twitter.com/zksync/status/1633884829287849986). (09.03.2023)
 * [Thread about ZKPs by Ruby Protocol](https://twitter.com/RubyProtocol/status/1634150160778383362). (10.03.2023)
 * [Ziesha's Development Progress](https://twitter.com/ZieshaNetwork/status/1634552977246527488?s=20). (11.03.2023)
