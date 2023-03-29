@@ -14,7 +14,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 
 ### ZK projects
 * [Hyper Oracle: A Programmable zkOracle Network](https://mirror.xyz/hyperoracleblog.eth/qbefsToFgFxBZBocwlkX-HXbpeUzZiv2UB5CmxcaFTM). (14.03.2023)
-* x
 * [Qredo Labs: Home of Our Big Bold Bets](https://www.qredo.com/blog/qredo-labs-home-of-our-big-bold-bets). (20.03.2023)
 * [Aztec - Zero-knowledge gaming with BattleZips x Noir](https://medium.com/aztec-protocol/zero-knowledge-gaming-with-battlezips-x-noir-50b046c158b3). (22.03.2023)
 * [Taiko Alpha-2 Testnet is Live](https://mirror.xyz/labs.taiko.eth/A6G6TNN-CXDAhl42k_bNHg_20fyGcT0xH-LBBSOPNzU). (22.03.2023)
