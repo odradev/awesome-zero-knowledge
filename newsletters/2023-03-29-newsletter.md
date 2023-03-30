@@ -5,7 +5,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Qredo 101s: Just What Exactly Is a Zero-Knowledge Proof?](https://www.qredo.com/blog/qredo-101s-just-what-exactly-is-a-zero-knowledge-proof) - article by QredoTeam. (15.03.2023)
 * [How to Leverage ZKPs as a Web3 Builder](https://medium.com/alliancedao/how-to-leverage-zkps-as-a-web3-builder-ae504783973d) - article by Mohamed Fouda. (22.03.2023)
 * [Throne of ZK: SNARK vs STARK](https://medium.com/@kido.kim/throne-of-zk-snark-vs-stark-e449984d5c36) - article by Kido Kim. (23.03.2023)
-* [Is Account Abstraction the Future for Digital Assets?](https://www.qredo.com/blog/is-account-abstraction-the-future-for-digital-assets) - article by QredoTeam. (23.03.2023)
 * [Zero Knowledge 101](https://blog.pontem.network/zero-knowledge-101-fc7476e984c3) and [201](https://blog.pontem.network/zero-knowledge-201-16864126768d) - articles by Pontem Network. (24.03.2023)
 * [What is zkEVM: Things You Need to Know About The Future of Dapps — Bits By Blocks](https://medium.com/@ashwin.yar/what-is-zkevm-things-you-need-to-know-about-the-future-of-dapps-bits-by-blocks-378d272fa48) - article by Ashwin Yardi. (25.03.2023)
 * [Top 6 zkEVM Projects: The Key to Ethereum’s Scalable Future](https://medium.com/@henrydj9060/top-6-zkevm-projects-the-key-to-ethereums-scalable-future-baa7317f2cec) - article by Henry DJ. (25.03.2023)
