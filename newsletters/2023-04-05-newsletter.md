@@ -25,7 +25,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Tutorial — How to install a Node on Polygon zkEVM](https://medium.com/@akabane.kurodo786/tutorial-how-to-install-a-node-on-polygon-zkevm-23c4c2028583). (31.03.2023)
 * [How to deploy smart contracts on Scroll Alpha Testnet with Hardhat](https://hanspham.medium.com/how-to-deploy-smart-contracts-on-scroll-alpha-testnet-with-hardhat-d86e7a7f2add). (31.03.2023)
 * [Ruby Protocol Monthly Review — March 2023](https://rubyprotocol.medium.com/ruby-protocol-monthly-review-march-2023-69c5a045e2c8). (31.03.2023)
-* [The Future of Finance Is in Your Hands](https://www.qredo.com/blog/the-future-of-finance-is-in-your-hands) (?) (31.03.2023)
+* [The Future of Finance Is in Your Hands](https://www.qredo.com/blog/the-future-of-finance-is-in-your-hands) (31.03.2023)
 * [The dYdX v4 Private Testnet has launched](https://twitter.com/AntonioMJuliano/status/1641872682592395280?s=20). (31.03.2023)
 * [Adding zkEVM network to MetaMask](https://medium.com/@Juan_In_The_Chain/adding-zkevm-network-to-metamask-84f56c363522). (01.04.2023)
 * [Mantle Milestones | Q1 2023 in a Gist](https://medium.com/0xmantle/mantle-milestones-q1-2023-in-a-gist-668eb09a9e7d). (01.04.2023)
