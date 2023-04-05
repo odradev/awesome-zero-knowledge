@@ -22,6 +22,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Y00ts Migration to Polygon is 77% Complete](https://polygon.technology/blog/y00ts-migration-to-polygon-is-77-complete). (30.03.2023)
 * [ZKSpace: What is ZKMarket and why we build it](https://www.zks.org/blog/326). (30.03.2032)
 * [MinaProtocol -  Mainnet Beta Release 1.4.0beta2](https://github.com/MinaProtocol/mina/releases/tag/1.4.0beta2). (30.03.2023)
+* [risc0 v0.14 released](https://github.com/risc0/risc0/releases/tag/v0.14.0). (31.03.2023)
 * [Tutorial — How to install a Node on Polygon zkEVM](https://medium.com/@akabane.kurodo786/tutorial-how-to-install-a-node-on-polygon-zkevm-23c4c2028583). (31.03.2023)
 * [How to deploy smart contracts on Scroll Alpha Testnet with Hardhat](https://hanspham.medium.com/how-to-deploy-smart-contracts-on-scroll-alpha-testnet-with-hardhat-d86e7a7f2add). (31.03.2023)
 * [Ruby Protocol Monthly Review — March 2023](https://rubyprotocol.medium.com/ruby-protocol-monthly-review-march-2023-69c5a045e2c8). (31.03.2023)
