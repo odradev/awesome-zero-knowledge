@@ -47,7 +47,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [What Are Ethereum Rollups? A Step Forward to Scale Ethereum](https://unilend.medium.com/what-are-ethereum-rollups-a-step-forward-to-scale-ethereum-de89a5df8c4) - article shortly explaining Rollups by UniLend Finance.
 * [zk-SNARK Concepts Explained Like You’re 15](https://sjkelleyjr.medium.com/zk-snark-concepts-explained-like-youre-15-54755f87c6d1) - article explaining zk-SNARKs by Jackson Kelley.
 * [What Is Proof of Knowledge?](https://blog.chain.link/proof-of-knowledge/) - article explaining what Proof of Knowledge is.
-* [Zero Knowledge 101](https://blog.pontem.network/zero-knowledge-101-fc7476e984c3) and [201](https://blog.pontem.network/zero-knowledge-201-16864126768d) - articles introducing ZK by Pontem Network from March 2023.
+* [Zero Knowledge 101](https://blog.pontem.network/zero-knowledge-101-fc7476e984c3), [201](https://blog.pontem.network/zero-knowledge-201-16864126768d) and [301](https://blog.pontem.network/zk-proofs-301-zksync-other-zkevm-b28641dc8565) - articles introducing ZK by Pontem Network from March 2023.
 * [Qredo 101s: Just What Exactly Is a Zero-Knowledge Proof?](https://www.qredo.com/blog/qredo-101s-just-what-exactly-is-a-zero-knowledge-proof?utm_source=zk-newsletter) - article by QredoTeam from March 2023.
 
 ### Tutorials
@@ -74,14 +74,13 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference from February 2023.
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course from February 2023 in Bar-Ilan University, Israel. Slides are available on the page.
 * [ETHDenver 2023](https://www.ethdenver.com/) - Ethereum event from February 24 to March 5, 2023. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
+* [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal. Recording from event is available [here](https://www.youtube.com/watch?v=YwSGyNr_yUU).
 * [ZK HACK mini](https://zkhack.dev/zkhackIII/) - a virtual event featuring workshops and advanced puzzle-solving competitions.
 * [ZKProof Online Workshop](https://zkproof.org/events/) - online workshops by ZKProof. Slides from five editions are available on the page.
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
 
 ### Upcoming events
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
-* [ZK Hack](https://zkhack.dev/?utm_source=substack&utm_medium=email) - ZK hackathon on March/April 2023 in Lisbon, Portugal.
-* [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal.
 * [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
 * [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium
 * [The Ethereum Community Conference 2023](https://www.ethcc.io/) - conference on July 2023 in Paris, France.
@@ -140,7 +139,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Use of zk-SNARKs inside Blockchain Infrastructure](https://medium.com/@strnad.eth/use-of-zk-snarks-inside-blockchain-infrastructure-daaef7a18551) - article by Jakub Strnad from February 2023.
 * [Zero-Knowledge Proof for Privacy over Ethereum: Permutations over Lagrange-Bases for Oecumenical Non-Interactive Arguments of Knowledge (PLONK) [step-by-step] (Part 1)](https://medium.com/@iamagnix/zero-knowledge-proof-for-privacy-over-ethereum-permutations-over-lagrange-bases-for-oecumenical-dc7838e0bc8b) - article by Agnish Gnosh from February 2023.
 * [Overview of Modern SNARK Constructions - part 1](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-1-2325e04883a1) and [part 2](https://medium.com/@dragotanqueray/overview-of-modern-snark-constructions-part-2-4f73ad67aa2c/)  - an article with overview of modern SNARK constructions from January and February 2023.
-* [[ZK] Part 1: ZK-Proofs](https://medium.com/@encodinglabs/zk-part-1-zk-proofs-d91815d89b93) and [Part 2: ZK-SNARK Generation](https://medium.com/@encodinglabs/zk-part-2-zk-snark-generation-1b03233fce11)- article covering the basic principles of zk-proofs by Encoding Labs from March 2023.
+* [[ZK] Part 1: ZK-Proofs](https://medium.com/@encodinglabs/zk-part-1-zk-proofs-d91815d89b93), [Part 2: ZK-SNARK Generation](https://medium.com/@encodinglabs/zk-part-2-zk-snark-generation-1b03233fce11) and [Part 3: zkEVM](https://medium.com/@encodinglabs/zk-part-3-zkevm-882369f45f21)- article covering the basic principles of zk-proofs by Encoding Labs from March 2023.
 * [ZK Cross-chain Message Protocol: Secure, Cheap, Foundation of Multichain Dapps](https://medium.com/@unblock256_en/zk-cross-chain-message-protocol-secure-cheap-foundation-of-multichain-dapps-66adc65cedc9) - article by un.Block Newsletter from March 2023.
 * [SHARP? SuperChain? Layer-3s? Temporary Rollups?](https://stonecoldpat.substack.com/p/sharp-superchain-layer-3s-temporary) - artivle by Patrick McCorry from March 2023. 
 * [Unlock the Secrets of ZK-SNARKs](https://mybrandt.medium.com/unlock-the-secrets-of-zk-snarks-a40e4cd034a6) - article about ZK-Snarks by My Brandt from March 2023.
@@ -152,6 +151,12 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [What is zkEVM: Things You Need to Know About The Future of Dapps — Bits By Blocks](https://medium.com/@ashwin.yar/what-is-zkevm-things-you-need-to-know-about-the-future-of-dapps-bits-by-blocks-378d272fa48) - article by Ashwin Yardi from March 2023.
 * [What is ZK Rollup? Advantages, limitations of Zk Rollup and prominent projects](https://medium.com/leclevietnam/what-is-zk-rollup-advantages-limitations-of-zk-rollup-and-prominent-projects-5883872cbc71) - article by Optimus Finance from March 2023.
 * [Qredo Labs: Home of Our Big Bold Bets](https://www.qredo.com/blog/qredo-labs-home-of-our-big-bold-bets?utm_source=zk-newsletter&utm_medium=collaboration&utm_campaign=zk-post) - article by QredoTeam from March 2023.
+* [How will Ethereum's multi-client philosophy interact with ZK-EVMs?](https://vitalik.eth.limo/general/2023/03/31/zkmulticlient.html) - article by Vitalik Buterin from March 2023.
+* [eSTARK: Extending STARKs with Arguments](https://eprint.iacr.org/2023/474) - article by Héctor Masip-Ardevol, Marc Guzmán-Albiol, Jordi Baylina-Melé and Jose Luis Muñoz-Tapia from April 2023.
+* [Why calculating your public key is hard in ZK-Snarks?](https://medium.com/@rishotics/why-calculating-your-public-key-is-hard-in-zk-snarks-6f83029503fb) - article by Rishotics from April 2023.
+* [The Surprising Efficiency of Zero Knowledge Proofs in Logistics](https://medium.com/@zuhayr.reaz/as-i-wandered-through-the-crowded-terminals-of-laguardia-airport-an-intriguing-question-crossed-my-3b389f797223) - article by Zuhayr Reaz from April 2023.
+* [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - article by Daniel Kang from April 2023.
+* [Introducing zkTree: a zk recursion tree with ZKP membership proofs](https://polymerlabs.medium.com/introducing-zktree-a-zk-recursion-tree-with-zkp-membership-proofs-571a244e3169) - article by Polymer Labs from April 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -243,6 +248,7 @@ List of whitepapers to the described projects.
 * [Delendum -  Daniel Kang, Scaling Zero Knowledge Proofs to ImageNet Scale Models](https://www.youtube.com/watch?v=am20GH2nEpM) - lecture by Daniel Kang. 
 * [Scaling Ethereum Summit | An Introduction to zkRollup and zkEVM - Haichen Shen](https://www.youtube.com/watch?v=JdjRcW13LME) - talk by Haichen Shen from Scroll.
 * [How Zero Knowledge Proofs Change the Narrative Around Privacy](https://www.youtube.com/watch?v=74Ial-yvyik) - discussion with Horizen Co-founder Rob Viglione. 
+* [Session on Privacy and ZKP](https://www.youtube.com/watch?v=MwTK6ZQhOQg) - lectures by TheIACR from March 2023.
 
 #### Blockchain
 * [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/) - series of videos explaining all things zero knowledge.
@@ -305,6 +311,7 @@ List of whitepapers to the described projects.
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) - book by Dan Boneh and Victor Shoup, 2020.
 * [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - book by Justin Thaler, Octobr 2022.
 * [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual) - book by Mirco Richter.
+* [Pairing for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf) - book by Craig Costello.
 
 ### Community
 * [ZK Hack discord](https://discord.com/invite/tHXyEbEqVN)
