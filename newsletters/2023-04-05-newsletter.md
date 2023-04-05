@@ -4,7 +4,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 ### New articles 
 * [The EU’s Data Act | Balancing Regulations and Innovation in the Age of Smart Contracts](https://dusk.network/news/the-eus-data-act-balancing-regulations-and-innovation-in-the-age-of-smart-contracts) - article by Hein Dauven. (28.03.2023)
 * [Cryptography Research Booklet H2 2022](https://geometry.xyz/notebook-pdf/cryptography-research-booklet-h2-2022) - booklet by Geometry. (29.03.2023)
-* [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452) - research academic text by Mingxun Zhou, Andrew Park, Elaine Shi and Wenting Zheng. (29.03.2023)
 * [ZK-SNARKs and ZK-STARKs; How ZK-Rollups are Solving Ethereum’s Scalability Issues](https://medium.com/coinmonks/zk-snarks-and-zk-starks-how-zk-rollups-are-solving-ethereums-scalability-issues-bb4282be2dfd) - article by Aderemi Lanre. (30.03.2023)
 * [ZK Proofs 301: zkSync & other zkEVM](https://blog.pontem.network/zk-proofs-301-zksync-other-zkevm-b28641dc8565) - article by Pontem Network. (30.03.2023)
 * [[ZK] Part 3: zkEVM](https://medium.com/@encodinglabs/zk-part-3-zkevm-882369f45f21) - article by Encoding Labs. (30.03.2023)
