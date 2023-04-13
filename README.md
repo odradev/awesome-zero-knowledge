@@ -81,10 +81,15 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 
 ### Upcoming events
 * [Zero Knowledge Proofs](https://zk-learning.org/) - course on Spring 2023, made by MOOC.
-* [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy
-* [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium
+* [ZPrize 2023](https://www.zprize.io/blog/announcing-zprize-2023) - next edition of ZPrize competition.
+* [WEB3 digital summit](https://web3digitalsummit.com/) - Summit in April 2023 in Verona, Italy.
+* [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium.
 * [The Ethereum Community Conference 2023](https://www.ethcc.io/) - conference on July 2023 in Paris, France.
+* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
+* [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany.
+* [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
+* [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
@@ -157,6 +162,10 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [The Surprising Efficiency of Zero Knowledge Proofs in Logistics](https://medium.com/@zuhayr.reaz/as-i-wandered-through-the-crowded-terminals-of-laguardia-airport-an-intriguing-question-crossed-my-3b389f797223) - article by Zuhayr Reaz from April 2023.
 * [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - article by Daniel Kang from April 2023.
 * [Introducing zkTree: a zk recursion tree with ZKP membership proofs](https://polymerlabs.medium.com/introducing-zktree-a-zk-recursion-tree-with-zkp-membership-proofs-571a244e3169) - article by Polymer Labs from April 2023.
+* [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - article by Elena Burger from April 2023.
+* [On Scalability, Transparency and Argument of Knowledge: ZK-STARK](https://kayprasla.medium.com/on-scalability-transparency-and-argument-of-knowledge-zk-stark-f3366922b668) - article by Krinza Momin from April 2023.
+* [What are ZK-SNARKs and how they work](https://taiko.mirror.xyz/9kGUby8h_dyu-t8jcPkDADfbWUMJw3mlGxvZAZk9sV0) - article by Lisa A. and Aleksei Vambol from April 2023.
+* [Automated Detection of Underconstrained Circuits for Zero-Knowledge Proofs](https://eprint.iacr.org/2023/512) - academic text by Shankara Pailoor, Yanju Chen, Franklyn Wang, Clara Rodríguez, Jacob Van Gaffen, Jason Morton, Michael Chu, Brian Gu, Yu Feng and Isil Dillig from April 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -292,6 +301,7 @@ List of whitepapers to the described projects.
 * [HCPP22 | Ariel Gabizon - Zero-knowledge proofs: From novice to master](https://www.youtube.com/watch?v=z8-U2oABnaA) - lecture from Hackers Congress Paralelni Polis by Ariel Gabizon.
 * [Zero-Knowledge Proof: Groth16](https://www.youtube.com/watch?v=VQyDSxB9Bls) - workshop by Alexey Kalmykov.
 * [STARKs: a tool for computational integrity](https://www.youtube.com/watch?v=flyxXq8WFww) - video explaining how STARKs work by Diego Kingston.
+* [FRI Mechanics: Folding, Committing, and Batching](https://www.youtube.com/watch?v=wqRuoyH3Mqk) - talk about FRI Protocol by Paul Gafni. 
 
 ### Podcasts
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/). 
