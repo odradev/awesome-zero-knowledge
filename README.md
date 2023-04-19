@@ -74,7 +74,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference from February 2023.
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course from February 2023 in Bar-Ilan University, Israel. Slides are available on the page.
 * [ETHDenver 2023](https://www.ethdenver.com/) - Ethereum event from February 24 to March 5, 2023. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
-* [zkSummit](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2023 in Lisbon, Portugal. Recording from event is available [here](https://www.youtube.com/watch?v=YwSGyNr_yUU).
+* [zkSummit](https://www.zksummit.com/) - a cyclical summit on Zero Knowledge. Recordings from events are available [here](https://www.youtube.com/watch?v=sj5yY3wguIo&list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7).
 * [ZK HACK mini](https://zkhack.dev/zkhackIII/) - a virtual event featuring workshops and advanced puzzle-solving competitions.
 * [ZKProof Online Workshop](https://zkproof.org/events/) - online workshops by ZKProof. Slides from five editions are available on the page.
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
@@ -166,6 +166,11 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [On Scalability, Transparency and Argument of Knowledge: ZK-STARK](https://kayprasla.medium.com/on-scalability-transparency-and-argument-of-knowledge-zk-stark-f3366922b668) - article by Krinza Momin from April 2023.
 * [What are ZK-SNARKs and how they work](https://taiko.mirror.xyz/9kGUby8h_dyu-t8jcPkDADfbWUMJw3mlGxvZAZk9sV0) - article by Lisa A. and Aleksei Vambol from April 2023.
 * [Automated Detection of Underconstrained Circuits for Zero-Knowledge Proofs](https://eprint.iacr.org/2023/512) - academic text by Shankara Pailoor, Yanju Chen, Franklyn Wang, Clara Rodríguez, Jacob Van Gaffen, Jason Morton, Michael Chu, Brian Gu, Yu Feng and Isil Dillig from April 2023.
+* [Bridging the Gap: How ZK-SNARKs Bring Transparency to Private ML Models with zkml](https://medium.com/@danieldkang/bridging-the-gap-how-zk-snarks-bring-transparency-to-private-ml-models-with-zkml-e0e59708c2fc) - article by Daniel Kang from April 2023.
+* [Transforming the Future with Zero-Knowledge Proofs, Fully Homomorphic Encryption and new Distributed Systems algorithms](https://www.notamonadtutorial.com/transforming-the-future-with-zero-knowledge-proofs-fully-homomorphic-encryption-and-new-distributed-systems-algorithms/) - article by Not a Monad from April 2023.
+* [Zero Knowledge IoT - How the Baseline Protocol Can Secure the Edge of Networks](https://consensysmesh.medium.com/zero-knowledge-iot-a4d0a9ce9300) - article by ConsenSys Mesh from April 2023.
+* [Zero-knowledge Proof; IZKs, NIZKs, SNARKS, STARKS](https://medium.com/@olatunjimayowa0396/zero-knowledge-proof-izks-nizks-snarks-starks-5bc06c96c7ee) - article by Mayowa Olatunji from April 2023.
+* [Empowering Users to Verify Twitter’s Algorithmic Integrity with zkml](https://medium.com/@danieldkang/empowering-users-to-verify-twitters-algorithmic-integrity-with-zkml-65e56d0e9dd9) - article by Daniel Kang from April 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -274,6 +279,7 @@ List of whitepapers to the described projects.
 * [S21 // Tweet Size Zero-Knowledge Proof Blockchain by Brian McKenna](https://www.youtube.com/watch?v=D1btJADO3_g)- presentation of the Head of Product of Mina Foundation.
 * [STARKDenver Conference 2023 - Defining Onchain Possibilities](https://www.youtube.com/watch?v=0ugBSFxaJjA) - lecture from ETHDenver 2023.
 * [Pioneering Use Cases of Zero-Knowledge Tech, ZKEX, Holonym, BTQ, and zkLink](https://www.youtube.com/watch?v=0kpTTDJsGOo) - panel discussion on the application of ZK at ETHDenver 2023.
+* [Private Smart Contracts Using Homomorphic Encryption - Rand Hindi (Zama)](https://www.youtube.com/watch?v=KVJT1h6Qca0) - lecture by Rand Hindi from April 2023.
 
 #### Code 
 * [Zero Knowledge Proofs in Node.JS - Federico Rampazzo](https://www.youtube.com/watch?v=cMoD0wIxIpQ) - talk about ZK by Federico Rampazzo presented at London Node User Group. 
