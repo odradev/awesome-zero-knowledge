@@ -1,9 +1,12 @@
 # ZK Newsletter for 2023-05-24
-Summary of the most important things, which happened in Zero Knowledge world, in the previous week. **Now, you can subscribe our newsletter [HERE.](https://zknewsletter.com/)**
+Summary of the most important things, which happened in Zero Knowledge world, in the previous week. 
+
+**Now, you can subscribe to our newsletter [HERE.](https://zknewsletter.com/)**
 
 ### New articles 
-* [Building zk-SNARKs (volume 3)](https://medium.com/iovlabs-innovation-stories/building-zk-snarks-volume-2-444ec711efe0) - article by Ramsès Fernàndez-València. (18.05.2023)
+* [Building zk-SNARKs (volume 3)](https://medium.com/iovlabs-innovation-stories/building-zk-snarks-volume-3-7fc6dd0cf903) - article by Ramsès Fernàndez-València. (18.05.2023)
 * [A Comprehensive Guide to zkEVM: Enhancing Blockchain Security](https://medium.com/@team_18862/a-comprehensive-guide-to-zkevm-enhancing-blockchain-security-16632457f26d) - article by Ginoice Team. (18.05.2023)
+* [Starknet: Scaling Ethereum with Rollups and ZK-STARK](https://cryptonewsbtc.org/2023/05/18/starknet-scaling-ethereum-with-rollups-and-zk-stark/) - article by Crypto News BTC. (18.05.2023)
 * [Unveiling ZK in Blockchain: A Comprehensive Overview of ZKEVM and Innovative Projects](https://medium.com/@geraldlee0825/unveiling-zk-in-blockchain-a-comprehensive-overview-of-zkevm-and-innovative-projects-2917420d2253) - article by Gerald Lee. (19.05.2023)
 * [Unveiling the Enigma: How Zero-Knowledge Proofs Revolutionize Web3](https://hackernoon.com/unveiling-the-enigma-how-zero-knowledge-proofs-revolutionize-web3) - article by Stephan Bauva. (19.05.2023)
 * [Zero-Knowledge Proofs from the Action Subgraph](https://eprint.iacr.org/2023/718.pdf) - academic text by Giacomo Borin, Edoardo Persichetti and Paolo Santini. (22.05.2023)
@@ -16,11 +19,13 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 
 ### ZK projects
 * [What's New in Polygon Supernets v0.9 Release](https://polygon.technology/blog/whats-new-in-polygon-supernets-v0-9-release). (17.05.2023)
-* [Starknet: Scaling Ethereum with Rollups and ZK-STARK](https://cryptonewsbtc.org/2023/05/18/starknet-scaling-ethereum-with-rollups-and-zk-stark/). (18.05.2023)
 * [Ruby Protocol — Your Privacy & Access Control & Parallel Universe](https://medium.com/@rubyprotocol/ruby-protocol-your-privacy-access-control-parallel-universe-3c7ebe95b5e7). (18.05.2023)
+* [Thread about Mina’s Incentivized Testnet - Testworld Mission 2.0!](https://twitter.com/MinaProtocol/status/1659596504628183047). (19.05.2023)
+* [Scroll - Weekly Update](https://twitter.com/Scroll_ZKP/status/1659693797960450048). (20.05.2023)
+* [Weekly update - dYdX](https://twitter.com/dydxfoundation/status/1660707592899797011). (22.05.2023)
 * [Ziesha Network announces their incentivized Deruny testnet](https://twitter.com/ZieshaNetwork/status/1660585275712585731). (22.05.2023)
 * [RiscZero and Layer N have joined forces to develop the first ZK Fraud Proof system,](https://twitter.com/RiscZero/status/1660712143032041472) (22.05.2023)
-
+* [Taiko Tuesday](https://twitter.com/umededoteth/status/1661054599007191040). (23.05.2023)
 
 ### Conferences
 * [EDCON 2023](https://www.edcon.io/) - global Ethereum conference in May 2023 in Montenegro. 
@@ -29,11 +34,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 ### Twitter
 * [Thread explaining ZKPs](https://twitter.com/CryptoKoryo/status/1658772876504252417). (17.05.2023)
 * [Thread about L2 transaction finality](https://twitter.com/bkiepuszewski/status/1659296086945591310). (18.05.2023)
-* [Thread about Mina’s Incentivized Testnet - Testworld Mission 2.0!](https://twitter.com/MinaProtocol/status/1659596504628183047). (19.05.2023)
-* [Scroll - Weekly Update](https://twitter.com/Scroll_ZKP/status/1659693797960450048). (20.05.2023)
-* [Weekly update - dYdX](https://twitter.com/dydxfoundation/status/1660707592899797011). (22.05.2023)
 * [Thread with example what a Zk-coprocessor is](https://twitter.com/0xevevm/status/1660641995126370304). (22.05.2023)
-* [Taiko Tuesday](https://twitter.com/umededoteth/status/1661054599007191040). (23.05.2023)
 
 ### YouTube Clips
 * [What is ZKML and how can Devs get involved](https://www.youtube.com/watch?v=GYWkRIZeANE). (17.05.2023)
