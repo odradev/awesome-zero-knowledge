@@ -87,14 +87,17 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [ZK HACK](https://zkhack.dev/zkhackIII/) - a virtual events featuring workshops and advanced puzzle-solving competitions. Recordings are available [here](https://www.youtube.com/playlist?list=PLj80z0cJm8QFGB6AsiAG3EB06L7xr5S1c).
 * [ZKProof Online Workshop](https://zkproof.org/events/) - online workshops by ZKProof. Slides from five editions are available on the page.
 * [Crypto Economics Security Conference](https://cesc.io/) - conference in UC Berkeley, usually in November.
+* [ZK360](https://www.youtube.com/watch?v=PYcfFH0q9FI) - event organised by Mina.
 
 ### Upcoming events
+* [Mina’s zkIgnite, Cohort 2](https://minaprotocol.com/join-zkignite-cohort-2?utm_medium=social&utm_source=twitter&utm_campaign=zkignite/) - Cohort 2 starts on June 14th, 2023 and will provide hands-on support and funding to those wanting to build on zero knowledge (ZK).
 * [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can be send to the end of the June 2023. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
 * [ZPrize 2023](https://www.zprize.io/blog/announcing-zprize-2023) - next edition of ZPrize competition.
 * [ETH Prague](https://ethprague.com/) - Summit in June 2023 in Prague, Czechia.
 * [The Ethereum Community Conference 2023](https://www.ethcc.io/) - conference on July 2023 in Paris, France.
 * [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
 * [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany.
+* [Applied ZKP: The Benefits of zkWasm](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/projects/zero-knowledge-cryptography/) - conference on September 2023 in Stanford, United Kingdom.
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Turkey.
 * [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
@@ -144,6 +147,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [State Proofs: Making Smart Contracts Smarter](https://ambergroup.medium.com/state-proofs-making-smart-contracts-smarter-996ae4842ebd) - article about State Proofs by Amber Group from February 2023.
 * [Navigating the ZK ecosystem: A taxonomy.](https://public-goods.medium.com/navigating-the-zk-ecosystem-a-taxonomy-7324a88628a9) - article by public goods society from February 2023.
 * [Removing the need for trust](https://medium.com/@richardchen_81235/removing-the-need-for-trust-ab5bee14d2fa) - article by Richard Chen from February 2023.
+* [A Developer’s Guide to the zkGalaxy](https://blockchain.capital/a-developers-guide-to-the-zkgalaxy/) - article by Ryan Sproule from February 2023.
 * [PLONK by Hand - part 1](https://research.metastate.dev/plonk-by-hand-part-1/), [part 2](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/) and [part 3](https://research.metastate.dev/plonk-by-hand-part-3-verification/) - an article deeply explaining PLONK from September and October 2020.
 * [zkEVM Explained. What It Is and Why It Matters](https://changehero.medium.com/zkevm-explained-what-it-is-and-why-it-matters-dcb80f9c6b39) - article by ChangeHero from February 2023.
 * [Zero Knowledge Proofs: Unlocking the Potential of Blockchain Technology](https://medium.com/@geniidata/zero-knowledge-proofs-unlocking-the-potential-of-blockchain-technology-9d5a3718ddcb) - article by GeniiData from February 2023.
@@ -192,6 +196,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Zero Knowledge Blockchain Bridge](https://medium.com/@victoryeo-62924/zero-knowledge-blockchain-bridge-c75b3638e8c6) - article by Victor Yeo from May 2023.
 * [zkML: Evolving the Intelligence of Smart Contracts Through Zero-Knowledge Cryptography](https://medium.com/1kxnetwork/zkml-evolving-the-intelligence-of-smart-contracts-through-zero-knowledge-cryptography-e6725412bbd1) - article by Justin McAfee from May 2023.
 * [Zero-Knowledge Proofs from the Action Subgraph](https://eprint.iacr.org/2023/718.pdf) - academic text by Giacomo Borin, Edoardo Persichetti and Paolo Santini from May 2023.
+* [Exploring zk-SNARKs: Privacy, Efficiency, and Vitalik Buterin’s Perspective](https://medium.com/@0xwasm/exploring-zk-snarks-privacy-efficiency-and-vitalik-buterins-perspective-70bba06321bb) - article by ZKWasm from May 2023.
+* [ZK EVM: Revolutionizing Ethereum’s Scalability and Privacy with Zero-Knowledge Proofs](https://medium.com/coinmonks/zk-evm-revolutionizing-ethereums-scalability-and-privacy-with-zero-knowledge-proofs-85a068d6ba41) - article by Hari Pandey from May 2023.
+* [Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs)](https://eprint.iacr.org/2023/778.pdf) - academic text by Alex Ozdemir, Riad S. Wahby, Fraser Brown and Clark Barrett from May 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -284,6 +291,7 @@ List of whitepapers to the described projects.
 * [Scaling Ethereum Summit | An Introduction to zkRollup and zkEVM - Haichen Shen](https://www.youtube.com/watch?v=JdjRcW13LME) - talk by Haichen Shen from Scroll.
 * [How Zero Knowledge Proofs Change the Narrative Around Privacy](https://www.youtube.com/watch?v=74Ial-yvyik) - discussion with Horizen Co-founder Rob Viglione. 
 * [Session on Privacy and ZKP](https://www.youtube.com/watch?v=MwTK6ZQhOQg) - lectures by TheIACR from March 2023.
+* [Zero knowledge proofs simplified - Paweł Kowalewski](https://www.youtube.com/watch?v=AoG1wzCibJQ) - talk by Paweł Kowalewski from May 2023.
 
 #### Blockchain
 * [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/) - series of videos explaining all things zero knowledge.
