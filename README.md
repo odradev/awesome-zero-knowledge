@@ -199,6 +199,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Exploring zk-SNARKs: Privacy, Efficiency, and Vitalik Buterin’s Perspective](https://medium.com/@0xwasm/exploring-zk-snarks-privacy-efficiency-and-vitalik-buterins-perspective-70bba06321bb) - article by ZKWasm from May 2023.
 * [ZK EVM: Revolutionizing Ethereum’s Scalability and Privacy with Zero-Knowledge Proofs](https://medium.com/coinmonks/zk-evm-revolutionizing-ethereums-scalability-and-privacy-with-zero-knowledge-proofs-85a068d6ba41) - article by Hari Pandey from May 2023.
 * [Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs)](https://eprint.iacr.org/2023/778.pdf) - academic text by Alex Ozdemir, Riad S. Wahby, Fraser Brown and Clark Barrett from May 2023.
+* [ZK programmability adds a whole new layer to worry about](https://www.zksecurity.xyz/blog/posts/zksecurity/) - article by David Wong from May 2023.
+* [Do in secret. Assert in public. Don't under-constrain your prover's witness computation in ZK programs](https://www.zksecurity.xyz/blog/posts/underconstrain-bugs/) - article by Brandon Kase from June 2023.
+* [ZK app developers should be able to see down to the constraints](https://www.zksecurity.xyz/blog/posts/noname/) - article by David Wong  from June 2023. 
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -292,6 +295,7 @@ List of whitepapers to the described projects.
 * [How Zero Knowledge Proofs Change the Narrative Around Privacy](https://www.youtube.com/watch?v=74Ial-yvyik) - discussion with Horizen Co-founder Rob Viglione. 
 * [Session on Privacy and ZKP](https://www.youtube.com/watch?v=MwTK6ZQhOQg) - lectures by TheIACR from March 2023.
 * [Zero knowledge proofs simplified - Paweł Kowalewski](https://www.youtube.com/watch?v=AoG1wzCibJQ) - talk by Paweł Kowalewski from May 2023.
+* [Zero knowledge made simple | Justin Thaler](https://www.youtube.com/watch?v=7SwTy1MCgEY) - lecture by Justin Thaler from June 2023. (02.06.2023)
 
 #### Blockchain
 * [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/) - series of videos explaining all things zero knowledge.
@@ -343,6 +347,7 @@ List of whitepapers to the described projects.
 * [FRI Mechanics: Folding, Committing, and Batching](https://www.youtube.com/watch?v=wqRuoyH3Mqk) - talk about FRI Protocol by Paul Gafni. 
 * [Proving UNSAT in Zero Knowledge](https://www.youtube.com/watch?v=p3oYJJjR7M0) - lecture by Ning Luo.
 * [Zero Knowledge Proofs: A Technical Deep Dive](https://www.youtube.com/watch?v=JOCUTtEeXyk) - webinar by Jim Zhang.
+* [ASPLOS'23 - Session 7B - GZKP: A GPU Accelerated Zero-Knowledge Proof System](https://www.youtube.com/watch?v=5HsW8iQRUk8) - lecture by Nathan Dautenhahn.
 
 ### Podcasts
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/). ZK bot containing the entirety of the ZKPodcast knowledge is [here](http://zkpod.ai/).
