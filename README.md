@@ -73,6 +73,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Building a Zero Knowledge web app with Halo 2 and Wasm - Part 1](https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-1-80858c8d16ee) and [Part 2](https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-2-379477444dc3) - article by Yu Jiang Tham from April 2023.
 * [A Guide To Building Your Web3 Project Proposal: ZK Edition](https://minaprotocol.com/blog/a-guide-to-building-your-web3-project-proposal-zk-edition) - article by Mina Foundation from May 2023.
 * [Zero knowledge rollup using circom for beginner](https://victoryeo-62924.medium.com/zero-knowledge-rollup-using-circom-for-beginner-276ff1a96d5b) - tutorial by Victor Yeo from May 2023.
+* [How To Create a ZK Smart Contract](https://betterprogramming.pub/how-to-create-a-zk-smart-contract-cd948a673749) - tutorial by Alex Roan from June 2023.
 
 ### Conferences and workshops
 * [Luxembourg Zero Knowledge Days](https://zklux.eu/) - conference from June 2019 in Luxembourg, slides and videos available on the page.
@@ -201,7 +202,12 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs)](https://eprint.iacr.org/2023/778.pdf) - academic text by Alex Ozdemir, Riad S. Wahby, Fraser Brown and Clark Barrett from May 2023.
 * [ZK programmability adds a whole new layer to worry about](https://www.zksecurity.xyz/blog/posts/zksecurity/) - article by David Wong from May 2023.
 * [Do in secret. Assert in public. Don't under-constrain your prover's witness computation in ZK programs](https://www.zksecurity.xyz/blog/posts/underconstrain-bugs/) - article by Brandon Kase from June 2023.
-* [ZK app developers should be able to see down to the constraints](https://www.zksecurity.xyz/blog/posts/noname/) - article by David Wong  from June 2023. 
+* [ZK app developers should be able to see down to the constraints](https://www.zksecurity.xyz/blog/posts/noname/) - article by David Wong from June 2023. 
+* [SoK: Vector OLE-Based Zero-Knowledge Protocols](https://eprint.iacr.org/2023/857.pdf) - academic text by Carsten Baum, Samuel Dittmer, Peter Scholl and Xiao Wang from June 2023.
+* [What are Verkle Trees & KZG Commitments, and could they be applied on Bitcoin?](https://medium.com/@shymaa.arafat/what-are-verkle-trees-kzg-commitments-and-could-they-be-applied-on-bitcoin-cbf4838d18ac) - article by Shymaa Arafat from June 2023.
+* [Why is there a need to construct ZKEVM?](https://rootzlab.medium.com/why-is-there-a-need-to-construct-zkevm-part-1-zk-circuit-compilation-eb578c4c9150) - article by Jeremy from Rootz Labs from June 2023.
+* [zkSaaS: Zero-Knowledge SNARKs as a Service](https://eprint.iacr.org/2023/905.pdf) - academic text by Sanjam Garg, Aarushi Goel, Abhishek Jain, Guru-Vamsi Policharla and Sruthi Sekar from June 2023.
+* [Fighting AI-generated Audio with Attested Microphones and ZK-SNARKs: the Attested Audio Experiment](https://medium.com/@danieldkang/fighting-ai-generated-audio-with-attested-microphones-and-zk-snarks-the-attested-audio-experiment-d6ea0fc296ac) - article by Daniel Kang, Kobi Gurkan, and Anna Rose from June 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -295,7 +301,8 @@ List of whitepapers to the described projects.
 * [How Zero Knowledge Proofs Change the Narrative Around Privacy](https://www.youtube.com/watch?v=74Ial-yvyik) - discussion with Horizen Co-founder Rob Viglione. 
 * [Session on Privacy and ZKP](https://www.youtube.com/watch?v=MwTK6ZQhOQg) - lectures by TheIACR from March 2023.
 * [Zero knowledge proofs simplified - Paweł Kowalewski](https://www.youtube.com/watch?v=AoG1wzCibJQ) - talk by Paweł Kowalewski from May 2023.
-* [Zero knowledge made simple | Justin Thaler](https://www.youtube.com/watch?v=7SwTy1MCgEY) - lecture by Justin Thaler from June 2023. (02.06.2023)
+* [Jason Morton - What Is Unlocked by Practical Zero-Knowledge Proofs? | EDCON2023](https://www.youtube.com/watch?v=b8WwlHFBXfs) - lecture by Jason Morton from May 2023.
+* [Zero knowledge made simple | Justin Thaler](https://www.youtube.com/watch?v=7SwTy1MCgEY) - lecture by Justin Thaler from June 2023. 
 
 #### Blockchain
 * [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/) - series of videos explaining all things zero knowledge.
