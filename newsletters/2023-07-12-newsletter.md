@@ -3,7 +3,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 
 ### New articles 
 * [Where’s Waldo? How to Mathematically Prove You Found Him without Revealing Where He Is](https://www.scientificamerican.com/article/wheres-waldo-how-to-prove-you-found-him-without-revealing-where-he-is/) - article by Jack Murtagh. (01.07.2023)
-* [Automated Analysis of Halo2 Circuits](https://eprint.iacr.org/2023/1051.pdf/) - academic text by Fatemeh Heidari Soureshjani, Mathias Hall-Andersen, MohammadMahdi Jahanara, Jeffrey Kam, Jan Gorzny, Mohsen Ahmadvand. (05.07.2023)
+* [Automated Analysis of Halo2 Circuits](https://eprint.iacr.org/2023/1051.pdf) - academic text by Fatemeh Heidari Soureshjani, Mathias Hall-Andersen, MohammadMahdi Jahanara, Jeffrey Kam, Jan Gorzny, Mohsen Ahmadvand. (05.07.2023)
 * [Guide on guides on Zero-knowledge proofs](https://medium.com/@grehovodovbo/guide-to-understanding-guides-on-zero-knowledge-proofs-9ec4e8c4dff2) - article by Bogdan Grehovodov. (06.07.2023)
 * [ZKML (part 2): How ZKML fit into theAIGC ownership issues](https://medium.com/@rootzlab/zkml-part-2-how-zkml-fit-into-theaigc-ownership-issues-4d284272de68) - article by Rootz Lab. (06.07.2023)
 * [Exploring the Role of ZK Knowledge in Decentralized Communication](https://medium.com/push-protocol/exploring-the-role-of-zk-knowledge-in-decentralized-communication-58d6bc7aa6dc) - article by Push Protocol. (07.07.2023)
@@ -17,7 +17,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 ### ZK projects
 * [Announcing the Axiom mainnet alpha](https://www.axiom.xyz/blog/alpha). (05.07.2023)
 * [Starknet Quantum Leap: Major Throughput Improvements are Here!](https://www.starknet.io/en/posts/ecosystem/starknet-quantum-leap-major-throughput-improvements-are-here). (05.07.2023)
-* [Taiko - Alpha-3 testnet update: stats & future plans](https://taiko.mirror.xyz/LBukIvc5nRfNdbzk3_bDZNkBRSmavFp_D90IkBYCuFk). (07.07.2023)
 * [Qredo - Monthly Update](https://twitter.com/QredoNetwork/status/1677311101111812096). (07.07.2023)
 * [Scroll - Weekly Update](https://twitter.com/Scroll_ZKP/status/1677462410939236352). (08.07.2023)
 * [How to Deploy and Use Subgraphs on Mantle Network](https://www.mantle.xyz/blog/developers/deploy-and-use-subgraphs-mantle-network). (10.07.2023)
