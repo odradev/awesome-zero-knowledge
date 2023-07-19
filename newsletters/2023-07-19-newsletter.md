@@ -26,7 +26,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [The Horizen Q2 2023 Report](https://blog.horizen.io/the-horizen-q2-2023-report/?utm_source=social&utm_medium=social&utm_campaign=Marketing). (14.07.2023)
 * [Taiko - Announcing our first community grant program](https://taiko.mirror.xyz/G7dmuoR42S4D55vT8bs_lAxPZP63kAgRu2IfqkJdf6U). (14.07.2023)
 * [Bridging on Mantle Mainnet](https://www.mantle.xyz/blog/announcements/bridging-on-mantle-mainnet). (17.07.2023)
-* [zkSync launches new proof system called Boojum for Era mainnet](https://www.theblock.co/post/239880/zksync-launches-new-proof-system-called-boojum-for-era-mainnet). (17.07.2023)
+* [zkSync launches new proof system called Boojum for Era mainnet](https://twitter.com/zksync/status/1680820952991408129). (17.07.2023)
 * [Weekly update - dYdX](https://twitter.com/dydxfoundation/status/1681037877809930242). (17.07.2023) 
 * [Starknet Quantum Leap: Major Throughput Improvements are Here!](https://starkware.co/resource/starknet-quantum-leap-major-throughput-improvements-are-here/). (17.07.2023)
 * [Taiko Eldfell L3 (alpha-4) is live!](https://taiko.mirror.xyz/HJCWBluTwmNyWRkhzIXXr0k5xAaalRNtmlyDMJTu_ws). (18.07.2023)
