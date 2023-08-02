@@ -237,8 +237,12 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [17 misconceptions about SNARKs (and why they hold us back)](https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/) - article by Justin Thaler from July 2023.
 * [Cycles of curves: what are they and do we need them?](https://blog.icme.io/can-we-avoid-cycles-of-curves/) - article ny Wyatt Benno from July 2023.
 * [Moving the Real World to web3 With zk-Oracle](https://medium.com/@talhauns96/moving-the-real-world-to-web3-with-zk-oracle-675517bdbcfb) - article by talhauns96 from July 2023.
-* [Zero-Knowledge Proofs Unveiled: From Theory to Practice with Aleo. Chapter 1](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-1d29d51a6543), [Chapter 2](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-2259d36f9f8a), [Chapter 3](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-6d12f98d5832), [Chapter 4](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-31f950e9cbf9), [Chapter 5](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-62167f1e563f), [Chapter 6](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-5d803ac90c0d) and [Chapter 7](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-fc263603598b) - series of articles by Illy’s Web3 blog from June and July 2023.
+* [Zero-Knowledge Proofs Unveiled: From Theory to Practice with Aleo. Chapter 1](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-1d29d51a6543), [Chapter 2](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-2259d36f9f8a), [Chapter 3](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-6d12f98d5832), [Chapter 4](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-31f950e9cbf9), [Chapter 5](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-62167f1e563f), [Chapter 6](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-5d803ac90c0d) and [Chapter 7](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-fc263603598b), [Chapter 7](https://web3illy.medium.com/zero-knowledge-proofs-unveiled-from-theory-to-practice-with-aleo-24ad72a229b0) - series of articles by Illy’s Web3 blog from June and July 2023.
 * [Uncover the mystery of ZKML — Part 1](https://rootzlab.medium.com/uncover-the-mystery-of-zkml-part-1-the-basics-ad846d6c6b5e) and [Part 2](https://medium.com/@rootzlab/zkml-part-2-how-zkml-fit-into-theaigc-ownership-issues-4d284272de68) - series of articles by Rootz Lab from June and July 2023.
+* [Algebraic Attacks on RAIN and AIM Using Equivalent Representations](https://eprint.iacr.org/2023/1133.pdf) - academic text by Fukang Liu and Mohammad Mahzoun from July 2023.
+* [Instant Zero Knowledge Proof of Reserve](https://eprint.iacr.org/2023/1156.pdf) - academic text by Xiang Fu from July 2023.
+* [zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training](https://eprint.iacr.org/2023/1174.pdf) - academic text by Haochen Sun and Hongyang Zhang from July 2023.
+* [ZK Bridges: Empowering the Cross-Chain World with Zero Knowledge Proofs](https://medium.com/@scalingx/zk-bridges-empowering-the-cross-chain-world-with-zero-knowledge-proofs-9e53eec91443) - article by ScalingX from July 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -379,6 +383,7 @@ List of whitepapers to the described projects.
 * [Building zkApps with TypeScript on Mina (tutorials)](https://www.youtube.com/watch?v=eRkqAE8TrMM):
 [tutorial 1](https://www.youtube.com/watch?v=Sj9lTmgjDXY), [tutorial 2](https://www.youtube.com/watch?v=B5mniTExWaY), [tutorial 3](https://www.youtube.com/watch?v=VaewbDp28jU) and [tutorial 4](https://www.youtube.com/watch?v=nxM7VmJqoU4). 
 * [SISMO: Redefining Privacy with Zero-Knowledge Proofs](https://www.youtube.com/watch?v=ztISBU-JwVw) - video explaining SISMO. 
+* [Build a Decentralized Application on Polygon zkEVM part 1](https://www.youtube.com/watch?v=XSf3ElMaoEM), [part 2](https://www.youtube.com/watch?v=chaKjnnA8wY) and [part 3](https://www.youtube.com/watch?v=W75TTA6f1VE) - tutorial by Charming Data.
 
 #### Math 
 * [Vitalik Buterin: Zero Knowledge Proofs and Ethereum Update @ Ethereum HK Meetup](https://www.youtube.com/watch?v=n8zsPf4FzO4) - 1-hour meetup from 2017 with Vitalik Buterin (founder of Ethereum) speaking about Zero Knowledge Proofs and ZKSnarks.
@@ -402,6 +407,7 @@ List of whitepapers to the described projects.
 * [The Mathematics behind zkSNARKS](https://www.youtube.com/watch?v=iRQw2RpQAVc) - lecture by Mirco Richter.
 * [Plonk-DIZK GPU Acceleration - Allen Au, Chengru Zhang (PolyU)](https://www.youtube.com/watch?v=jVUsojs2IJA) - lecture by Allen Au and Chengru Zhang (PolyU).
 * [A Unifying Framework for Folding and Accumulation Schemes - Nicolas Mohnblatt (Geometry)](https://www.youtube.com/watch?v=Dt6Hru4Ki28) - lecture by Nicolas Mohnblatt. 
+* [Proof Recursion in ZKML](https://www.youtube.com/watch?v=3YYxMkNScH8) - lecture by Cathie So.
 
 ### Podcasts
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/). ZK bot containing the entirety of the ZKPodcast knowledge is [here](http://zkpod.ai/).
@@ -419,6 +425,7 @@ List of whitepapers to the described projects.
 * [Web3 Deep Dive](https://open.spotify.com/episode/3GiE4RTYjYXjlZMOPUdLBX?si=0226c0982f80484c) episode - *What are zero-knowledge proofs and how will this technology advance Web3?* from May 2023.
 * [The Y-Axis Podcast episode](https://www.youtube.com/watch?v=Sb7jQa6u0EU) - *Tarun Chitra: Mathematics, Zero Knowledge Proofs & LLMs* from June 2023.
 * [The No Execution podcast](https://open.spotify.com/episode/4cqP18hSre0TP0jbLWzRRl?si=eUIHo8RgQF6-rRwFy0gygA&nd=1) episode - *Exploring ZK proofs in the modular stack* from July 2023.
+* [The Bell Curve](https://open.spotify.com/episode/2q5HvTg3WEkMBDTBcpq7Gh?si=a04e2974b9484c72) episode - *The Intersection of Restaking and Liquid Staking | Sreeram Kannan* from July 2023.
 
 ### Books
 * [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - book by Sanjeev Arora and Boaz Barak from Princeton University, January 2007.
