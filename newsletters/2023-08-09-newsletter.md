@@ -2,8 +2,9 @@
 Summary of the most important things, which happened in Zero Knowledge world, in the previous week. **Now, you can subscribe our newsletter [HERE.](https://zknewsletter.com/)**
 
 ### Top picks
-* [ZK Paris: Kevin Jue - Recursive Proofs](https://www.youtube.com/watch?v=Y8MOVvbC3xQ) - lecture by Kevin Jue. (05.08.2023)
+* [ZK Paris: Tarrance Van As - Applications of Zero Knowledge Primitives to Gaming](https://www.youtube.com/watch?v=b1F0W8Wy3kw) - lecture by Tarrance Van As. (04.08.2023)
 * [A Primer for the Zero-Knowledge Cryptography: Part I](https://medium.com/@rabiafatima/a-primer-for-the-zero-knowledge-cryptography-part-i-85b5d5190aef) -  article by Rabia Fatima. (06.08.2023)
+* [Endgame: Proof of Governance](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk) - article by Jon Charbonneau. (07.08.2023)
 
 ### New articles 
 * [A Relational Credential System from q-SDH-based Graph Signatures](https://eprint.iacr.org/2023/1181.pdf) - academic text by Syh-Yuan Tan, Ioannis Sfyrakis and Thomas Gross. (02.08.2023)
@@ -12,9 +13,7 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 * [Tamper Proofing in the Digital Age: A Look at Proof of SQL](https://hackernoon.com/tamper-proofing-in-the-digital-age-a-look-at-proof-of-sql) - article by Gabriel Mangalindan. (03.08.2023)
 * [SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](https://eprint.iacr.org/2023/1185.pdf) - academic text by Nan Wang, Sid Chi-Kin Chau and Dongxi Liu. (04.08.2023)
 * [How I learn Zero Knowledge](https://medium.com/coinmonks/how-i-learn-zero-knowledge-45a1afb7d789) - blog post by Lauri Peltonen. (06.08.2023)
-* [Resolving a Cairo 2 error building a Smart Contract : “internal error: entered unreachable code”](https://medium.com/@elielmathe/resolving-a-puzzling-cairo-2-syntax-error-in-smart-contracts-a70368480ec8) - tutorial by El Mathe. (06.08.2023)
 * [A Primer for the Zero-Knowledge Cryptography: Part I](https://medium.com/@rabiafatima/a-primer-for-the-zero-knowledge-cryptography-part-i-85b5d5190aef) - article by Rabia Fatima. (06.08.2023)
-* [Scaling Ethereum with zkRollups: Empowering the Future of Blockchain Technology](https://www.deadlinenews.co.uk/2023/08/07/scaling-ethereum-with-zkrollups-empowering-the-future-of-blockchain-technology/) - article by guest_deadline. (07.08.2023)
 * [Endgame: Proof of Governance](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk) - article by Jon Charbonneau. (07.08.2023)
 * [What is Zero Knowledge Proof and zkEVM](https://medium.com/@nufailismath15/what-zero-knowledge-proof-and-zkevm-f365dc7f08ef) - article by Nufail.Eth. (07.08.2023)
 * [ZkUniverse #2](https://medium.com/@ZkCampus/zkuniverse-2-e7675f6dc0f8). (07.08.2023)
@@ -31,7 +30,6 @@ Summary of the most important things, which happened in Zero Knowledge world, in
 
 ### Twitter
 * [Diagram of how a zero knowledge proof system is constructed](https://twitter.com/iam_preethi/status/1687131541581762560). (03.08.2023)
-* [Cośtam](https://twitter.com/0xSachinK/status/1687816562202292224). (05.08.2023)
 * [Layer 2 Landscape #66](https://twitter.com/bitsplaining/status/1688397926685708288). (07.08.2023)
 
 ### YouTube Clips

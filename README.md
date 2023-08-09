@@ -243,6 +243,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Instant Zero Knowledge Proof of Reserve](https://eprint.iacr.org/2023/1156.pdf) - academic text by Xiang Fu from July 2023.
 * [zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training](https://eprint.iacr.org/2023/1174.pdf) - academic text by Haochen Sun and Hongyang Zhang from July 2023.
 * [ZK Bridges: Empowering the Cross-Chain World with Zero Knowledge Proofs](https://medium.com/@scalingx/zk-bridges-empowering-the-cross-chain-world-with-zero-knowledge-proofs-9e53eec91443) - article by ScalingX from July 2023.
+* [Honey, I Shrunk the Proof: Enabling on-chain verification for RISC Zero & Bonsai](https://www.risczero.com/news/on-chain-verification) - article from August 2023.
+* [A Primer for the Zero-Knowledge Cryptography: Part I](https://medium.com/@rabiafatima/a-primer-for-the-zero-knowledge-cryptography-part-i-85b5d5190aef) -  article by Rabia Fatima from August 2023.
+* [Endgame: Proof of Governance](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk) - article by Jon Charbonneau from August 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -362,6 +365,7 @@ List of whitepapers to the described projects.
 * [Pioneering Use Cases of Zero-Knowledge Tech, ZKEX, Holonym, BTQ, and zkLink](https://www.youtube.com/watch?v=0kpTTDJsGOo) - panel discussion on the application of ZK at ETHDenver 2023.
 * [Private Smart Contracts Using Homomorphic Encryption - Rand Hindi (Zama)](https://www.youtube.com/watch?v=KVJT1h6Qca0) - lecture by Rand Hindi from April 2023.
 * [ZK Symposium (playlist)](https://www.youtube.com/playlist?list=PLrzRr7okCcmbAlgYpuFjzUJv8tAyowDQY) - lectures by Scroll.
+* [ZK Paris: Tarrance Van As - Applications of Zero Knowledge Primitives to Gaming](https://www.youtube.com/watch?v=b1F0W8Wy3kw) - lecture by Tarrance Van As from August 2023.
 
 #### Code 
 * [Zero Knowledge Proofs in Node.JS - Federico Rampazzo](https://www.youtube.com/watch?v=cMoD0wIxIpQ) - talk about ZK by Federico Rampazzo presented at London Node User Group. 
