@@ -98,12 +98,14 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [The Ethereum Community Conference 2023](https://www.ethcc.io/) - conference on July 2023 in Paris, France. All recordings can be found [here](https://www.ethcc.io/livestreams).
 
 ### Upcoming events
-* [Mina’s zkIgnite, Cohort 2](https://minaprotocol.com/join-zkignite-cohort-2?utm_medium=social&utm_source=twitter&utm_campaign=zkignite/) - Cohort 2 starts on June 14th, 2023 and will provide hands-on support and funding to those wanting to build on zero knowledge (ZK).
-* [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can be send to the end of the June 2023. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
+* [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can be send to the end of the July 2023. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
 * [ZPrize 2023](https://www.zprize.io/blog/announcing-zprize-2023) - next edition of ZPrize competition.
+* [zkWarsaw Day 2023](https://zkwarsaw.dev/) - event on August 2023 in Warsaw, Poland.
 * [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
 * [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany.
 * [Applied ZKP: The Benefits of zkWasm](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/projects/zero-knowledge-cryptography/) - conference on September 2023 in Stanford, United Kingdom.
+* [zkSummit 10](https://www.zksummit.com/) - summit on September 2023 in London, United Kingdom.
+* [Ethereum Singapore 2023](https://www.ethereumsingapore.com/) - summit on September 2023 in Singapore.
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Turkey.
 * [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.

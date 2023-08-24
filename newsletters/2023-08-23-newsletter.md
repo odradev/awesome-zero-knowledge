@@ -2,8 +2,9 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [The Cross-Domain Thesis Part 1: Setting The Stage](https://mirror.xyz/0x59567ea31347ba1430939E8a8aC58fDa014aBed9/e2pIdHzlaBi6m5GhsRGK0g5DyjgCVuU4lE614XmES5s) - article by Maven11 Research. (17.08.2023)
 * [How to code FRI from scratch](https://blog.lambdaclass.com/how-to-code-fri-from-scratch/) - tutorial by Not A Monad. (18.08.2023)
-* [Beyond ZK: Next Steps for Compliance and Constrained Encryption on Blockchains with Matthew D. Green](https://www.youtube.com/watch?v=UZDFhdYshcU) - lecture by Matthew D. Green. (22.08.2023)
+* [Batchman and Robin: Batched and Non-batched Branching for Interactive ZK](https://eprint.iacr.org/2023/1257.pdf) - academic text by Yibin Yang, David Heath, Carmit Hazay, Vladimir Kolesnikov and Muthuramakrishnan Venkitasubramaniam. (21.08.2023)
 
 ### New articles 
 * [ZK-Roller-Coaster #11](https://taiko.mirror.xyz/QHWZW8EJ9CM8jnbWEJyvULvpH6Pn2nHWfo93Z0UH21Y) - biweekly update on ZK world. (16.08.2023)
@@ -19,8 +20,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Jolt and Lasso: A New Approach to Building zkVMs](https://medium.com/@ProjectZKM/jolt-and-lasso-a-new-approach-to-building-zkvms-c6bcfd1d554d) - article by ZKM. (21.08.2023)
 * [Alice in the ZK-land](https://medium.com/coinmonks/alice-in-the-zk-land-9e4303578c4f) - article by Hira Siddiqui. (22.08.2023)
 * [ZkUniverse #4](https://medium.com/@ZkCampus/zkuniverse-4-b80e925620a2). (22.08.2023)
-
-https://medium.com/coinmonks/deciphering-how-zkevms-make-ethereum-more-scalable-employing-zk-proofs-rollups-9e71024c4a92
 
 ### ZK projects
 * [Manta Network and Polyhedra Network Partnership](https://polyhedra.medium.com/manta-network-and-polyhedra-network-partnership-transforming-blockchain-with-zkbridge-fast-872f3a0f04c). (16.08.2023)
@@ -41,7 +40,7 @@ https://medium.com/coinmonks/deciphering-how-zkevms-make-ethereum-more-scalable-
 * [The Magic of Zero-Knowledge Proofs #SoME3](https://www.youtube.com/watch?v=FfeXX6OLq8w) - video by Ingonyama. (17.08.2023)
 * [On-Chain Report ep3: Zero Knowledge Cryptography with Brendan Farmer from Polygon](https://www.youtube.com/watch?v=dbRf2ERUTCg) - talk with Brendan Farmer. (18.08.2023)
 * [Tree Types: Inside Aztec Labs](https://www.youtube.com/watch?v=ejZe98ZuiKU) - webinar by Sean Cheetham. (19.08.2023)
-* [Private Transactions: Inside Aztec Labs](https://www.youtube.com/watch?v=ejZe98ZuiKU) - webinar by Alvaro Rodriguez. (20.08.2023)
+* [Private Transactions: Inside Aztec Labs](https://www.youtube.com/watch?v=pFWIhLCQchw) - webinar by Alvaro Rodriguez. (20.08.2023)
 * [Noir Contract Syntax: Inside Aztec Labs](https://www.youtube.com/watch?v=CG61fyfVwmY) - webinar by Jake Fecher. (22.08.2023)
 * [The Kernel Circuit: Inside Aztec Labs](https://www.youtube.com/watch?v=6rTQFBYvOpA) - webinar by David Banks. (22.08.2023)
 * [Beyond ZK: Next Steps for Compliance and Constrained Encryption on Blockchains with Matthew D. Green](https://www.youtube.com/watch?v=UZDFhdYshcU) - lecture by Matthew D. Green. (22.08.2023)
@@ -54,6 +53,7 @@ https://medium.com/coinmonks/deciphering-how-zkevms-make-ethereum-more-scalable-
 ### Upcoming events
 * [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can be send to the end of the July 2023. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
 * [ZPrize 2023](https://www.zprize.io/blog/announcing-zprize-2023) - next edition of ZPrize competition.
+* [zkWarsaw Day 2023](https://zkwarsaw.dev/) - event on August 2023 in Warsaw, Poland.
 * [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
 * [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany.
 * [Applied ZKP: The Benefits of zkWasm](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/projects/zero-knowledge-cryptography/) - conference on September 2023 in Stanford, United Kingdom.
