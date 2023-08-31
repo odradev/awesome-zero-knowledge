@@ -2,7 +2,9 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **Now, you can subscribe our newsletter [HERE.](https://zknewsletter.com/)**
 
 ### Top picks
-* [A Primer for the Zero-Knowledge Cryptography: Part II](https://medium.com/@rabiafatima/a-primer-for-the-zero-knowledge-cryptography-part-ii-ecc0199d0a56) - article by Rabia Fatima. (23.08.2023)
+* [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf) - academic text by Tianyi Liu, Tiancheng Xie, Jiaheng Zhang, Dawn Song and Yupeng Zhang. (24.08.2023)
+* [Finding Orientations of Supersingular Elliptic Curves and Quaternion Orders](https://eprint.iacr.org/2023/1268.pdf) - acdemic text by Sarah Arpin, James Clements, Pierrick Dartois, Jonathan Komada Eriksen, Péter Kutas, and Benjamin Wesolowski. (24.08.2023)
+* [On the impossibility of stateless blockchains](https://a16zcrypto.com/posts/article/on-the-impossibility-of-stateless-blockchains/) - article by Miranda Christ and Joseph Bonneau. (24.08.2023)
 
 ### New articles 
 * [A Primer for the Zero-Knowledge Cryptography: Part II](https://medium.com/@rabiafatima/a-primer-for-the-zero-knowledge-cryptography-part-ii-ecc0199d0a56) - article by Rabia Fatima. (23.08.2023)
@@ -35,7 +37,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Taiko Research Day - Programming SDK for Halo2 Frontend - Cecilia Zhang](https://www.youtube.com/watch?v=GErNykWQAxY) - webinar by Cecilia Zhang. (23.08.2023)
 * [Cross Chain Comms: Inside Aztec Labs](https://www.youtube.com/watch?v=DNKMQqR7VRI) - webinar by Lasse Herskind. (23.08.2023)
 * [Decentralised Dialogues: Inside Aztec Labs](https://www.youtube.com/watch?v=eCgJDWDYlfo) - webinar by Zac Williamson. (23.08.2023)
-* [Tree Types: Inside Aztec Labs](https://www.youtube.com/watch?v=ejZe98ZuiKU) - webinar by Sean. (24.08.2023)
 * [zkStudyClub - Lasso/Jolt (Justin Thaler, Georgetown University/a16z)](https://www.youtube.com/watch?v=Q9t3ALjpRwk) - zkStudy Club by Justin Thaler. (24.08.2023)
 * [Deep Dive AMA - Running a Local Node and Smart Contract on the protocol](https://www.youtube.com/watch?v=1iLeLNq_M1c) - webinar by Dusk. (25.08.2023)
 * [Zero-Knowledge Proofs in Web3: Preserving Privacy with Ned Wang at Web3 Wave Summit](https://www.youtube.com/watch?v=8aiXCrbQxfI) - lecture by Ned Wang. (28.08.2023)
