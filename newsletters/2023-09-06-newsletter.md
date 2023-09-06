@@ -1,15 +1,16 @@
-# ZK Newsletter for 2023-07-19
+# ZK Newsletter for 2023-09-06
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
 * [Elliptic Curve Point Addition](https://www.rareskills.io/post/elliptic-curve-addition) - article by Jeffrey Scholz. (01.09.2023)
+* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/290-2/) episode - *Episode 290: Exploring, Teaching and Auditing ZK with David Wong*. (30.08.2023) 
 
 ### New articles 
 * [ZK-Roller-Coaster #12](https://taiko.mirror.xyz/ccabj7g8k1n2gPxHZbEW04A0CuRskgdV5V7ZbwGUXGA) - biweekly update on ZK world. (30.08.2023)
 * [Who verifies the verifier in ZK?](https://medium.com/coinmonks/who-verifies-the-verifier-in-zk-12d4a0600192) - article by Lauri Peltonen. (31.08.2023)
 * [Is the Modular Stack really an Application-Centric Powerhouse?](https://cryptotvplus.com/2023/08/is-the-modular-stack-really-an-application-centric-powerhouse/) - article by Kyrian Alex. (31.08.2023)
 * [zkMesh: August 2023 recap](https://zkmesh.substack.com/p/zkmesh-aug-2023-recap). (01.09.2023)
-* [Zero-Knowledge Proofs: The Future of Self-Sovereign Digital Identity in Citizen Services, Finance, and Web3 Applications]()
+* [Zero-Knowledge Proofs: The Future of Self-Sovereign Digital Identity in Citizen Services, Finance, and Web3 Applications](https://medium.com/@e.hatton/zero-knowledge-proof-how-zkp-will-help-transform-digital-identity-financial-services-and-web3-d9a2d6ba1cb7) - article by Edmund Hatton. (01.09.2023)
 * [Elliptic Curve Point Addition](https://www.rareskills.io/post/elliptic-curve-addition) - article by Jeffrey Scholz. (01.09.2023)
 * [Don't trust, verify or why you should you care about benchmarks](https://blog.lambdaclass.com/dont-trust-verify-or-why-you-should-you-care-about-benchmarks/) - article by LambdaClass. (02.09.2023)
 * [Zero-Knowledge Proofs: Navigating the Future of Privacy and Security](https://ceras-ventures.medium.com/zero-knowledge-proofs-navigating-the-future-of-privacy-and-security-937f47b1eec7) - article by Ceras Ventures. (03.09.2023)
@@ -27,7 +28,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Mina Protocol - zkIgnite Cohort 1 Update](https://minaprotocol.com/blog/zkignite-cohort-1-update). (05.09.2023)
 
 ### Conferences
-* [zkWarsaw Day 2023](https://zkwarsaw.dev/) - event on August 2023 in Warsaw, Poland.
+* [zkWarsaw Day 2023](https://zkwarsaw.dev/) - event on August 2023 in Warsaw, Poland. 
 * [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
 
 ### Twitter
