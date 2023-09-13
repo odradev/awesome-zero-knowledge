@@ -2,7 +2,10 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [Why multi-prover matters. SGX as a possible solution.](https://taiko.mirror.xyz/Kx1Mp4WJjd83K1KDEwp1pM7xi9QmpSahxJg3S_N7NE4) - article by Lisa A. and Brecht. (07.09.2023)
 * [Secrets, and how to prove them: A magician’s guide to zero-knowledge proofs](https://a16zcrypto.com/posts/article/a-magicians-guide-to-zero-knowledge-proofs/) - article by Michael Blau. (08.09.2023)
+* [ZK + PARTH: An Architecture for Building Horizontally Scalable Blockchains](https://qedprotocol.com/blog/posts/an-architecture-for-horizontally-scalable-blockchains/) - article by Carter Jack Feldman. (11.09.2023)
+* [The Promise and Potential of LLM in Crypto](https://hackernoon.com/the-promise-and-potential-of-llm-in-crypto) - article by Glaze. (11.09.2023)
 
 ### New articles 
 * [Financial privacy and regulation can co-exist with ZK proofs — Vitalik Buterin](https://cointelegraph.com/news/financial-privacy-regulation-can-coexist-zk-proofs-vitalik-buterin) - article by Ana Paula Pereira. (06.09.2023)
@@ -20,7 +23,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Zero Knowledge Proofs - the Details are Hard](https://hackernoon.com/zero-knowledge-proofs-the-details-are-hard) - article by Drmike. (12.09.2023)
 * [Zero-Knowledge Cryptography Offers A Solution To The Dangers Of Corporate Surveillance](https://www.forbes.com/sites/digital-assets/2023/09/12/zero-knowledge-cryptography-offers-a-solution-to-the-dangers-of-corporate-surveillance/) - article by Alex Pruden. (12.09.2023)
 * [Under the hood of zkSNARK Groth16 protocol - part 1](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b) and [part 2](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-part-2-ca3962c50947) - article by Crypto Fairy. (12.09.2023)
-
 
 ### ZK projects
 * [Intro to EigenDA: Hyperscale Data Availability for Rollups](https://www.blog.eigenlayer.xyz/intro-to-eigenda-hyperscale-data-availability-for-rollups/). (07.09.2023)
@@ -47,11 +49,11 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### YouTube Clips
 * [Mina zkApp Project Final Milestone Presentations | zkIgnite Cohort 1](https://www.youtube.com/watch?v=5Orv2h8F9x0) - seven hour long presentation about zkIgnite Cohort 1 by Mina. (06.09.2023)
+* [ZK-Actus - Verifiable Financial Contracts](https://www.youtube.com/watch?v=hy9Fu60wZ0w&t=18063s) - lecture by Mark Greenslade. (09.09.2023)
 * [Daniel Wang (Taiko) - A Progressively Hybrid Rollup Design | ETH Singapore](https://www.youtube.com/watch?v=awnhgESvyA4) - lecture by Daniel Wang. (11.09.2023)
 * [Panel discussion (Dave W): Growing Web3 Ecosystems from Scratch | 11 Sep 2023 | ETH Singapore](https://www.youtube.com/watch?v=R8w2SKTdCzQ) - panel discussion at ETH Singapore. (11.09.2023)
 * [Panel: Opportunities in the Grand Narrative of ZK (Dave W) | 11 Sep 2023 | Build For Miracle](https://www.youtube.com/watch?v=o12wIeB3OdY) - panel discussion at Build for Miracle. (12.09.2023)
 * [Panel: The Future of Zero Knowledge Proofs (Daniel Wang) | 12 Sep 2023 | Timestamp Summit](https://www.youtube.com/watch?v=v-ir6wQyVxw) - panel discussion at Timestamp Summit. (12.09.2023)
-* [Panel: Building and Scaling Web 3 Games (Dave) | 12 Sep 2023](https://www.youtube.com/watch?v=MJsgGjEyQiI) - panel discussion by Taiko. (12.09.2023)
 * [Provers in zero-knowledge rollups: Overview by Toghrul from Scroll](https://www.youtube.com/watch?v=HvfY90x0HQI) - presentation by Toghrul. (12.09.2023)
 * [Recordings from Starknet Summit 23](https://www.youtube.com/playlist?list=PLcIyXLwiPilX2ncKfmXRSUPQ21AN-JaRo). (09.2023)
 
