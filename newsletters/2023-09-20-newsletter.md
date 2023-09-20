@@ -3,6 +3,8 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### Top picks
 * [R1CS to Quadratic Arithmetic Program over a Finite Field in Python](https://www.rareskills.io/post/r1cs-to-qap) - article by Jeffrey Scholz. (17.09.2023)
+* [Improving Privacy of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2023/1386.pdf) - academic text by Shichen Wu, Zhiying Song, Puwen Wei, Peng Tang and Quan Yuan. (18.09.2023)
+* [Elliptic Curves over Finite Field](https://www.rareskills.io/post/elliptic-curves-finite-fields) - article by Jeffrey Scholz. (19.09.2023)
 
 ### New articles 
 * [ZK-Roller-Coaster #13](https://taiko.mirror.xyz/9Zdh6puOCxEfiOADhIses8p5WN3CeX7nhvO6AvpEh0M) - biweekly update on ZK world. (13.09.2023)
@@ -11,7 +13,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Attending a Zero Knowledge Ceremony](https://medium.com/asecuritysite-when-bob-met-alice/attending-a-zero-knowledge-ceremony-e61b54060e83) - article by Bill Buchanan. (15.09.2023)
 * [R1CS to Quadratic Arithmetic Program over a Finite Field in Python](https://www.rareskills.io/post/r1cs-to-qap) - article by Jeffrey Scholz. (17.09.2023)
 * [The Future of Layer 2 Roll-ups: Scaling Ethereum and Beyond](https://zkplabs.network/blog/The-Future-of-Layer-2-Roll-up-scaling-Ethereum-and-Beyond) - article by ZKP Labs. (17.09.2023)
-* [Improving Privacy of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2023/1386.pdf) - academic text by Shichen Wu, Zhiying Song, Puwen Wei, Peng Tang and Quan Yuan. (18.09.2023
+* [Improving Privacy of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2023/1386.pdf) - academic text by Shichen Wu, Zhiying Song, Puwen Wei, Peng Tang and Quan Yuan. (18.09.2023)
 * [Application of Mordell-Weil lattices with large kissing numbers to acceleration of multi-scalar multiplication on elliptic curves](https://eprint.iacr.org/2023/1384.pdf) - academic text by Dmitrii Koshelev. (18.09.2023)
 * [Why EIP-4844 matters for rollups and how it works for ZK-EVM](https://taiko.mirror.xyz/3_5rjTXFT_bLYnRBD2ZxqLQu9-qgTF4JOkwK7rUpwJs) - article by Taiko and Lisa A. (18.09.2023)
 * [Introduction to Zero-Knowledge Machine Learning](https://medium.com/@noyanetwork/introduction-to-zero-knowledge-machine-learning-177be20343ea) - article by Noya Network. (18.09.2023)
