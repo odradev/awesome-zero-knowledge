@@ -2,12 +2,13 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [Exploring Zero Knowledge Proofs with Solidity and More](https://medium.com/@solidity101/exploring-zero-knowledge-proofs-with-solidity-and-more-%EF%B8%8F-%EF%B8%8F-cc918ee89b4a) - article by Solidity Academy. (20.09.2023)
 * [Under the hood of zkSNARK Groth16 protocol - part 5](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-5-2a958f7051c2) and [part 6](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-6-b9aa952a2ce2) - article by Coin Monks. (24.09.2023)
+* [Don’t trust, verify: An introduction to light clients](https://a16zcrypto.com/posts/article/an-introduction-to-light-clients/) - article by  Mariano Sorgente. (26.09.2023)
 
 ### New articles 
 * [Exploring Zero Knowledge Proofs with Solidity and More](https://medium.com/@solidity101/exploring-zero-knowledge-proofs-with-solidity-and-more-%EF%B8%8F-%EF%B8%8F-cc918ee89b4a) - article by Solidity Academy. (20.09.2023)
 * [Maths & Logic for Zero-knowledge Proofs (simplified) — Part 4](https://medium.com/@biswashreedey/maths-logic-for-zero-knowledge-proofs-simplified-part-4-ea5164ae1d99) - article by Biswashree Dey. (21.09.2023)
-* [What Is a Bonding Curve and How Does It Affect Token Price?](https://hackernoon.com/what-is-a-bonding-curve-and-how-does-it-affect-token-price) - article by Obyte. (21.09.2023)
 * [A Trustless Zero-Knowledge Internet](https://consensysmesh.medium.com/a-trustless-zero-knowledge-internet-be8045cd05fb) - article by Consensys Mesh. (22.09.2023)
 * [Rogue-Instance Security for Batch Knowledge Proofs](https://eprint.iacr.org/2023/1420.pdf) - academic text by Gil Segev, Amit Sharabi and Eylon Yogev. (24.09.2023)
 * [On Black-Box Knowledge-Sound Commit-And-Prove SNARKs](https://eprint.iacr.org/2023/1416.pdf) - academic text by Helger Lipmaa. (24.09.2023)
