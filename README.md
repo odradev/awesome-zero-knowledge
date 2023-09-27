@@ -13,6 +13,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
     * [Marketplaces](#marketplaces) 
     * [Tools](#tools)
     * [Whitepapers](#whitepapers)
+* [Benchmarks](#benchmarks)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
