@@ -2,7 +2,10 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [ZK-EVM types: Ethereum-equivalent, EVM-equivalent, Type 1, Type 4, and other cryptic buzzwords](https://taiko.mirror.xyz/j6KgY8zbGTlTnHRFGW6ZLVPuT0IV0_KmgowgStpA0K4) - article by Lisa A. (28.09.2023)
+* [An overview of the Stone Cairo STARK Prover](https://blog.lambdaclass.com/overview-of-the-stone-prover/) - article by LambdaClass. (28.09.2023)
+* [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html) - blog post by Vitalik Buterin. (30.09.2023)
+* [zk-Bench: A Toolset for Comparative Evaluation and Performance Benchmarking of SNARKs](https://eprint.iacr.org/2023/1503.pdf) - academic text by Jens Ernstberger, Stefanos Chaliasos, George Kadianakis, Sebastian Steinhorst, Philipp Jovanovic, Arthur Gervais, Benjamin Livshits and Michele Orrù. (03.10.2023)
+* [Learn Noir in an Afternoon](https://www.youtube.com/watch?v=Js4JN_8sJ00) - lecture by José Pedro Sousa. (29.09.2023)
 
 ### New articles 
 * [ZK-EVM types: Ethereum-equivalent, EVM-equivalent, Type 1, Type 4, and other cryptic buzzwords](https://taiko.mirror.xyz/j6KgY8zbGTlTnHRFGW6ZLVPuT0IV0_KmgowgStpA0K4) - article by Lisa A. (28.09.2023)
