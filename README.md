@@ -13,6 +13,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
     * [Marketplaces](#marketplaces) 
     * [Tools](#tools)
     * [Whitepapers](#whitepapers)
+* [Benchmarks](#benchmarks)
 * [YouTube Clips](#youtube-clips)
     * [Easy](#easy)
     * [Blockchain](#blockchain)
@@ -337,6 +338,11 @@ List of whitepapers to the described projects.
 * [Axiom](https://docs.axiom.xyz)
 * [Hyper Oracle](https://mirror.xyz/hyperoracleblog.eth/qbefsToFgFxBZBocwlkX-HXbpeUzZiv2UB5CmxcaFTM)
 * [QED](https://www.qedprotocol.com/)
+
+### Benchmarks
+
+[🏋️‍♀️ ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
+
 
 ### YouTube clips
 #### Easy
