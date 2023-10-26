@@ -261,12 +261,15 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Experimenting with Zero-Knowledge Proofs of Training](https://eprint.iacr.org/2023/1345.pdf) - academic text by Sanjam Garg, Aarushi Goel, Somesh Jha, Saeed Mahloujifar, Mohammad Mahmoody, Guru-Vamsi Policharla and Mingyuan Wang from September 2023.
 * [ZK + PARTH: An Architecture for Building Horizontally Scalable Blockchains](https://qedprotocol.com/blog/posts/an-architecture-for-horizontally-scalable-blockchains/) - article by Carter Jack Feldman from September 2023.
 * [The Promise and Potential of LLM in Crypto](https://hackernoon.com/the-promise-and-potential-of-llm-in-crypto) - article by Glaze from September 2023.
-* [Under the hood of zkSNARK Groth16 protocol - part 1](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b), [part 2](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-part-2-ca3962c50947), [part 3](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-3-9d3e0934607b) and [part 4](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-part-4-53667944366f) - article by Crypto Fairy from September 2023.
+* [Under the hood of zkSNARK Groth16 protocol - part 1](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b), [part 2](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-part-2-ca3962c50947), [part 3](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-3-9d3e0934607b) and [part 4](https://medium.com/@cryptofairy/under-the-hood-of-zksnark-groth16-protocol-part-4-53667944366f), [part 5](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-5-2a958f7051c2) and [part 6](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-6-b9aa952a2ce2) - article by Crypto Fairy from September 2023.
 * [R1CS to Quadratic Arithmetic Program over a Finite Field in Python](https://www.rareskills.io/post/r1cs-to-qap) - article by Jeffrey Scholz from September 2023.
 * [Improving Privacy of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2023/1386.pdf) - academic text by Shichen Wu, Zhiying Song, Puwen Wei, Peng Tang and Quan Yuan from September 2023.
 * [Application of Mordell-Weil lattices with large kissing numbers to acceleration of multi-scalar multiplication on elliptic curves](https://eprint.iacr.org/2023/1384.pdf) - academic text by Dmitrii Koshelev from September 2023.
 * [Elliptic Curves over Finite Field](https://www.rareskills.io/post/elliptic-curves-finite-fields) - article by Jeffrey Scholz from September 2023.
 * [TensorPlonk: A “GPU” for ZKML, Delivering 1,000x Speedups](https://medium.com/@danieldkang/tensorplonk-a-gpu-for-zkml-delivering-1-000x-speedups-d1ab0ad27e1c) - article by Suppakit Waiwitlikhit and Daniel Kang from September 2023.
+* [ZK-EVM types: Ethereum-equivalent, EVM-equivalent, Type 1, Type 4, and other cryptic buzzwords](https://taiko.mirror.xyz/j6KgY8zbGTlTnHRFGW6ZLVPuT0IV0_KmgowgStpA0K4) - article by Lisa A. from September 2023.
+* [The Cross-Domain Thesis Part 2: Storage Proofs, Computation, and Bloat](https://maven11.mirror.xyz/3NqfzBemyvI9a0fhun7flOc20oq5XlXzOqphvKk5pxs) - article by Maven11 Research from October 2023.
+* [Groth16 Explained](https://www.rareskills.io/post/groth16) - article by Jeffrey Scholz from August 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
@@ -340,9 +343,7 @@ List of whitepapers to the described projects.
 * [QED](https://www.qedprotocol.com/)
 
 ### Benchmarks
-
-[🏋️‍♀️ ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
-
+* [ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
 
 ### YouTube clips
 #### Easy
