@@ -1,10 +1,13 @@
 # ZK Newsletter for 2023-10-25
-Summary of the most important things, which happened in Zero Knowledge world, in the previous week. **Now, you can subscribe our newsletter [HERE.](https://zknewsletter.com/)**
+Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [How arithmetic circuits are used to verify zero knowledge proofs](https://www.rareskills.io/post/zk-circuits) - article by Jeffrey Scholz. (18.10.2023)
+* [The EigenLayer Universe: Ideas for Building the Next 15 Unicorns](https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/). (18.10.2023)
 * [Funny tweet](https://twitter.com/naruto11eth/status/1714440327279313346). (18.10.2023)
-* [ZK Score - ZK hardware ranking standard](https://zkproof.org/2023/10/23/zk-score-blog/) - article by Omer Shlomovits and Lucy Williams. (23.10.2023)
+* [A Guide to ZK Coprocessors for Scalability](https://www.risczero.com/news/a-guide-to-zk-coprocessors-for-scalability) - guide by Kaylei Atchley. (19.10.2023)
+* [Thread about first ZK rollup secured by Bitcoin](https://twitter.com/chainway_xyz/status/1715436405692735813). (20.10.2023)
+* [Maths & Logic for Zero-knowledge Proofs (simplified) — Part 6](https://medium.com/@biswashreedey/maths-logic-for-zero-knowledge-proofs-simplified-part-6-799060abdb67) - article by Biswashree Dey. (20.10.2023)
+* [opML is All You Need: Run a 13B ML Model in Ethereum](https://mirror.xyz/hyperoracleblog.eth/Z__Ui5I9gFOy7-da_jI1lgEqtnzSIKcwuBIrk-6YM0Y). (24.10.2023)
 
 ### New articles 
 * [How arithmetic circuits are used to verify zero knowledge proofs](https://www.rareskills.io/post/zk-circuits) - article by Jeffrey Scholz. (18.10.2023)
