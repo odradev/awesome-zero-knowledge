@@ -1,8 +1,11 @@
-# ZK Newsletter for 2023-10-31
+# ZK Newsletter for 2023-11-01
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [Introducing halo2-repl: A Browser-based REPL for halo2 in Javascript](https://blog.axiom.xyz/halo2-repl/). (25.10.2023)
+* [Scaling Onchain DAO Governance with Bonsai zk Coprocessor](https://www.risczero.com/news/governance). (26.10.2023)
 * [Have you checked your sums?](https://blog.lambdaclass.com/have-you-checked-your-sums/) - article by Lambda Class. (26.10.2023)
+* [Brief Introduction of Semaphore, a Zero-knowledge Group Membership Protocol](https://hackernoon.com/brief-introduction-of-semaphore-a-zero-knowledge-group-membership-protocol) - article by Laszlo Fazekas. (30.10.2023)
 
 ### New articles 
 * [Big Questions: What did Satoshi Nakamoto think about ZK-proofs?](https://cointelegraph.com/magazine/satoshi-nakamoto-zk-proofs-bitcoin/) - article by Felix Ng. (19.10.2023)
@@ -11,13 +14,12 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Have you checked your sums?](https://blog.lambdaclass.com/have-you-checked-your-sums/) - article by Lambda Class. (26.10.2023)
 * [Zero Knowledge Proofs For Beginners](https://medium.com/@OnyekaEkwemozor/zero-knowledge-proofs-for-beginners-695e7edc76a9) - article by Onyeka Ekwemozor. (26.10.2023)
 * [Demystifying Zero Knowledge Proofs](https://medium.com/@yerrabalisanjith/demystifying-zero-knowledge-proofs-0840aaa3554d) - article by Sanjith Yerrabali. (27.10.2023)
-* [Breaking Down the Uniswap V2 Swap Function](https://www.rareskills.io/post/uniswap-v2-swap-function) - article by Jeffrey Scholz. (28.10.2023)
 * [Aggregation Layers, and Light Nodes Can Improve Web3 Experience and Structure?](https://medium.com/@polygon_network/aggregation-layers-and-light-nodes-can-improve-web3-experience-and-structure-1b7b5251b1d2) - article by Polygon Network. (28.10.2023)
-* [Uniswap V2 Mint and Burn Functions Explained](https://www.rareskills.io/post/uniswap-v2-swap-function) - article by Jeffrey Scholz. (30.10.2023)
 * [Brief Introduction of Semaphore, a Zero-knowledge Group Membership Protocol](https://hackernoon.com/brief-introduction-of-semaphore-a-zero-knowledge-group-membership-protocol) - article by Laszlo Fazekas. (30.10.2023)
 * [Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations](https://arxiv.org/pdf/2310.19452.pdf) - academic text by  Pranay Kothari, Deepak Chopra, Manjot Singh, Shivam Bhardwaj and Rudresh Dwivedi. (30.10.2023)
 
 ### ZK projects
+* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/296-2/) episode - *Episode 296: Zeth, Bonsai and RISC Zero with Brian and Jeremy*. (25.10.2023)
 * [Introducing halo2-repl: A Browser-based REPL for halo2 in Javascript](https://blog.axiom.xyz/halo2-repl/). (25.10.2023)
 * [Announcing NoirJS: Privacy-Preserving ZK Applications In Your Browser](https://medium.com/aztec-protocol/announcing-noirjs-privacy-preserving-zk-applications-in-your-browser-d7d78692f15a). (25.10.2023)
 * [Polygon 2.0 Milestone: POL Contracts Are Live on Ethereum Mainnet](https://polygon.technology/blog/polygon-2-0-milestone-pol-contracts-are-live-on-ethereum-mainnet). (25.10.2023)
