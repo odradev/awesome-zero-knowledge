@@ -3,9 +3,14 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### Top picks
 * [Odra.dev is now sponsoring the ZK Newsletter!](https://odra.dev/)
-* [Under the hood of zkSNARKs — PLONK protocol: Part 1](https://medium.com/@cryptofairy/under-the-hood-of-zksnarks-plonk-protocol-part-1-34bc406d8303) - article by Crypto Fairy. (03.11.2023) 
-
+* [Sunsetting Aztec Connect](https://medium.com/aztec-protocol/sunsetting-aztec-connect-a786edce5cae). (13.03.2023)
+* [If you don't know, look it up or how to create lookup tables for zero knowledge proofs](https://blog.lambdaclass.com/lookups/) - article by LambdaClass. (02.11.2023)
+* [MPC in the head using the subfield bilinear collision problem](https://eprint.iacr.org/2023/1685.pdf) - academic text by Janik Huth and Antoine Joux. (03.11.2023)
+* [DappCon 2023: Improving The zkEVM Prover Performance - Jordi Baylina](https://www.youtube.com/watch?v=1xmeYxFlh4c) - presentation by Jordi Baylina. (06.11.2023)
+* [Public report of Sui's zkLogin audit](https://www.zksecurity.xyz/blog/posts/zklogin/) - report by ZKSecurity. (07.11.2023)
+ 
 ### New articles 
+* [Sunsetting Aztec Connect](https://medium.com/aztec-protocol/sunsetting-aztec-connect-a786edce5cae). (13.03.2023)
 * [zkMesh: October 2023 recap](https://zkmesh.substack.com/p/zkmesh-oct-2023-recap). (31.10.2023)
 * [If you don't know, look it up or how to create lookup tables for zero knowledge proofs](https://blog.lambdaclass.com/lookups/) - article by LambdaClass. (02.11.2023)
 * [The State of Zero-Knowledge Proofs: From Research to Serious Business](https://protocol.ai/blog/zero-knowledge-proofs/?utm_content=270609705&utm_medium=social&utm_source=twitter&hss_channel=tw-823799206267625473) - article by Protocol Labs. (02.11.2023)
@@ -48,6 +53,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [The Berkeley Upgrade and Mina's zkApps Explained](https://www.youtube.com/watch?v=k0SMXVGV92o) - presentation by Nathan Holland. (03.11.2023)
 * [DappCon 2023: Improving DeFi Security With zkOracles And Zero Knowledge Proofs - Marlene Ronstedt](https://www.youtube.com/watch?v=4YEBfcX5Ja8) - presentation by Marlene Ronstedt. (06.11.2023)
 * [DappCon 2023: Improving The zkEVM Prover Performance - Jordi Baylina](https://www.youtube.com/watch?v=1xmeYxFlh4c) - presentation by Jordi Baylina. (06.11.2023)
+* [A High Level Introduction To Zero Knowledge And SNARKS" Course | ZKM Education Hub](https://www.youtube.com/playlist?list=PLJ_r35m80nKhImOYtUj1MsVhcepHH4x_Z) - course provided by the ZKM Education Hub. (07.11.2023)
 
 ### Podcasts and other talks
 * [The Delphi Podcast](https://open.spotify.com/episode/34IyBNZNs0MGaQ14L4Whzq?si=3be22e4de4d7419f) episode *Steven Goldfeder & Ed Felten: A 2014 Classroom Idea to The $10B Scaling Technology Arbitrum, ZK Technology Flaws and Interactive Fraud Proofs*. (31.10.2023)
@@ -64,7 +70,9 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye.
 * [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on September 2023 in Istanbul, Türkiye.
 * [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
+* [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
-___
-**our sponsors: [Odra.dev](https://odra.dev)**
+
+### Our Sponsors
+* **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
