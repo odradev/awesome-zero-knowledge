@@ -2,7 +2,11 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [FHE in the RiscZero zkVM](https://twitter.com/ewynx1/status/1725259660649730483?s=46&t=GU8UwA_mFTabNhZNAn0o-w). (16.11.2023)
+* [Launch of the Stage 2 Testnet: EigenLayer & EigenDA](https://www.blog.eigenlayer.xyz/launch-of-the-stage-2-testnet-eigenlayer-eigenda/). (16.11.2023)
 * [Under the hood of zkSNARKs — PLONK protocol: part 5](https://medium.com/@cryptofairy/under-the-hood-of-zksnarks-plonk-protocol-part-5-4819dd56d3f1) - article by Crypto Fairy. (20.11.2023)
+* [Zero Knowledge Proof based Gradient Aggregation for Federated Learning](https://hackernoon.com/u/escholar?tab=stories) - series of articles by EScholar. (20.11.2023)
+* [Track 1: Upshot’s ZKML Price Predictor](https://medium.com/@ModulusLabs/track-1-upshots-zkml-price-predictor-f8e24c645fce) - article by Modulus. (21.11.2023)
 
 ### New articles 
 * [Formal Verification of Zero-Knowledge Circuits](https://arxiv.org/pdf/2311.08858.pdf) - article by Alessandro Coglio, Eric McCarthy and Eric W. Smith. (15.11.2023)
@@ -13,6 +17,15 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [The Future of DeFi Needs ZKPs](https://blog.icme.io/why-defi-needs-zkps/) - article by Houman Shadab. (20.11.2023)
 * [Three-Step Protocols with ZKP](https://web3illy.medium.com/three-step-protocols-with-zkp-b6b020f04435) - article by Illy’s Web3 blog. (20.11.2023)
 * [Zero Knowledge Proof based Gradient Aggregation for Federated Learning](https://hackernoon.com/u/escholar?tab=stories) - series of articles by EScholar. (20.11.2023)
+
+### MPC
+* [FHE in the RiscZero zkVM](https://twitter.com/ewynx1/status/1725259660649730483?s=46&t=GU8UwA_mFTabNhZNAn0o-w). (16.11.2023)
+* [Fully homomorphic encryption rollups are one step closer to reality](https://blockworks.co/news/fhenix-whitepaper-fhe-rollups). (16.11.2023)
+* [Private and Secure Post-Quantum Verifiable Random Function with NIZK Proof and Ring-LWE Encryption in Blockchain](https://arxiv.org/pdf/2311.11734.pdf) - academic text by Bong Gon Kim, Dennis Wong and Yoon Seok Yang. (20.11.2023)
+
+# ZKML
+* [Unraveling the Magic of Zero-Knowledge Machine Learning (ZKML)](https://twitter.com/creptosolutions/status/1726682879848046855). (20.11.2023)
+* [Why Zero-Knowledge Machine Learning (ZKML) Matters](https://twitter.com/0xjd_eth/status/1726475552280989885). (20.11.2023)
 * [Track 1: Upshot’s ZKML Price Predictor](https://medium.com/@ModulusLabs/track-1-upshots-zkml-price-predictor-f8e24c645fce) - article by Modulus. (21.11.2023)
 
 ### ZK projects
@@ -20,19 +33,12 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Powering the Future with Polygon zkEVM](https://medium.com/@LeaderDAO.AI/powering-the-future-with-polygon-zkevm-afbd683ce647). (16.11.2023)
 * [dYdX - A New Architecture to Mitigate MEV](https://dydx.exchange/blog/architecture-to-mitigate-mev). (21.11.2023)
 
-### MPC
-* [FHE in the RiscZero zkVM](https://twitter.com/ewynx1/status/1725259660649730483?s=46&t=GU8UwA_mFTabNhZNAn0o-w). (16.11.2023)
-* [Fully homomorphic encryption rollups are one step closer to reality](https://blockworks.co/news/fhenix-whitepaper-fhe-rollups). (16.11.2023)
-* [Private and Secure Post-Quantum Verifiable Random Function with NIZK Proof and Ring-LWE Encryption in Blockchain](https://arxiv.org/pdf/2311.11734.pdf) - academic text by Bong Gon Kim, Dennis Wong and Yoon Seok Yang. (20.11.2023)
-
 ### Conferences
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye. Recordings can be found [here](https://app.streameth.org/devconnect/ethconomics/archive). 
 * [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on November 2023 in Istanbul, Türkiye.
 
 ### Twitter
 * [Thread about NEAR x Polygon](https://twitter.com/mraltantutar/status/1725090859136549181). (16.11.2023)
-* [Unraveling the Magic of Zero-Knowledge Machine Learning (ZKML)](https://twitter.com/creptosolutions/status/1726682879848046855). (20.11.2023)
-* [Why Zero-Knowledge Machine Learning (ZKML) Matters](https://twitter.com/0xjd_eth/status/1726475552280989885). (20.11.2023)
 * [Thread about Snark Provers](https://twitter.com/SuccinctJT/status/1726657302772822436?s=20). (20.11.2023)
 
 ### YouTube Clips
