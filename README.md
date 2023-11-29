@@ -271,6 +271,11 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Groth16 Explained](https://www.rareskills.io/post/groth16) - article by Jeffrey Scholz from August 2023.
 * [Track 1: Upshot’s ZKML Price Predictor](https://medium.com/@ModulusLabs/track-1-upshots-zkml-price-predictor-f8e24c645fce) - article by Modulus from November 2023.
 * [Under the hood of zkSNARKs — PLONK protocol: part 5](https://medium.com/@cryptofairy/under-the-hood-of-zksnarks-plonk-protocol-part-5-4819dd56d3f1) - article by Crypto Fairy from November 2023.
+* [Fast and Designated-verifier Friendly zkSNARKs in the BPK Model](https://eprint.iacr.org/2023/1806.pdf) - academic text by Xudong Zhu, Xuyang Song and Yi Deng from November 2023.
+* [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf) - academic text by Srinath Setty and Justin Thaler. (24.11.2023)
+* [Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs](https://arxiv.org/pdf/2311.15310.pdf) - academic text by Yizheng Zhu, Yuncheng Wu, Zhaojing Luo, Beng Chin Ooi and Xiaokui Xiao from November 2023.
+* [Beyond MPC-in-the-Head: Black-Box Constructions of Short Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1819.pdf) - academic text by Carmit Hazay, Muthuramakrishnan Venkitasubramaniam and Mor Weiss from November 2023.
+* [Demystifying ZKML](https://medium.com/@vid.kersic/demystifying-zkml-0f3dff7194b9) - article by Vid Kersic from November 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
