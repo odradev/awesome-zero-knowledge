@@ -101,15 +101,14 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
 * [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany. Recording can be found [here](https://www.youtube.com/watch?v=jtYCkV1LjiU).
 * [ETHGlobal NYC](https://ethglobal.com/events/newyork2023) - summit on September 2023 in New York, USA. Recordings can be found [here](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7hzYpBqmzRrHOEE4RGpppJ).
+* [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye. Recordings can be found [here](https://app.streameth.org/devconnect/ethconomics/archive). 
+* [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on November 2023 in Istanbul, Türkiye.
 
 ### Upcoming events
 * [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can still be send. Final decisions will be announced in October. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
-* [ZPrize 2023](https://www.zprize.io/#2023) - next edition of ZPrize competition.
-* [Zero Knowledge Bootcamp](https://www.rareskills.io/) - bootcamp on October 2023.
-* [ETH Hong Kong](https://www.ethhongkong.co/) - summit on October 2023 in Hong Kong.
-* [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye.
-* [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on September 2023 in Istanbul, Türkiye.
+* [The Zero Knowledge Proofs Writing Contest by RareSkills](https://hackernoon.com/the-zero-knowledge-proofs-writing-contest-by-rareskills) - contest by RareSkills on November 2023.
 * [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
+* [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
 
@@ -270,6 +269,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [ZK-EVM types: Ethereum-equivalent, EVM-equivalent, Type 1, Type 4, and other cryptic buzzwords](https://taiko.mirror.xyz/j6KgY8zbGTlTnHRFGW6ZLVPuT0IV0_KmgowgStpA0K4) - article by Lisa A. from September 2023.
 * [The Cross-Domain Thesis Part 2: Storage Proofs, Computation, and Bloat](https://maven11.mirror.xyz/3NqfzBemyvI9a0fhun7flOc20oq5XlXzOqphvKk5pxs) - article by Maven11 Research from October 2023.
 * [Groth16 Explained](https://www.rareskills.io/post/groth16) - article by Jeffrey Scholz from August 2023.
+* [Track 1: Upshot’s ZKML Price Predictor](https://medium.com/@ModulusLabs/track-1-upshots-zkml-price-predictor-f8e24c645fce) - article by Modulus from November 2023.
+* [Under the hood of zkSNARKs — PLONK protocol: part 5](https://medium.com/@cryptofairy/under-the-hood-of-zksnarks-plonk-protocol-part-5-4819dd56d3f1) - article by Crypto Fairy from November 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
