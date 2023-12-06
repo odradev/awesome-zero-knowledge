@@ -2,7 +2,8 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [SNARKs on binary fields: Binius - Part 1](https://blog.lambdaclass.com/snarks-on-binary-fields-binius/) - article by LambdaClass. (01.12.2023)
+* [Is Zero-Knowledge Machine Learning (zkML) Legit?](https://medium.com/@matt-pan/is-zero-knowledge-machine-learning-zkml-legit-da312e46505f) - article by Matt Pan. (01.12.2023)
+* [Recursive zkSNARK Proof as a Private Input - What Is Visible To The Verifier?](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/) - article by Illya Gerasymchuk. (03.12.2023)
 
 ### New articles 
 * [Maths & Logic for Zero-knowledge Proofs (simplified) — Part 7](https://medium.com/@biswashreedey/maths-logic-for-zero-knowledge-proofs-simplified-part-7-3f3e713369b2) - article by Biswashree Dey. (29.11.2023)

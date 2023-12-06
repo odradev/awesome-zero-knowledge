@@ -276,6 +276,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs](https://arxiv.org/pdf/2311.15310.pdf) - academic text by Yizheng Zhu, Yuncheng Wu, Zhaojing Luo, Beng Chin Ooi and Xiaokui Xiao from November 2023.
 * [Beyond MPC-in-the-Head: Black-Box Constructions of Short Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1819.pdf) - academic text by Carmit Hazay, Muthuramakrishnan Venkitasubramaniam and Mor Weiss from November 2023.
 * [Demystifying ZKML](https://medium.com/@vid.kersic/demystifying-zkml-0f3dff7194b9) - article by Vid Kersic from November 2023.
+* [Is Zero-Knowledge Machine Learning (zkML) Legit?](https://medium.com/@matt-pan/is-zero-knowledge-machine-learning-zkml-legit-da312e46505f) - article by Matt Pan from December 2023.
+* [Recursive zkSNARK Proof as a Private Input - What Is Visible To The Verifier?](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/) - article by Illya Gerasymchuk from December 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
