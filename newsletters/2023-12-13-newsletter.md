@@ -51,7 +51,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### Upcoming events
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
-* [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024. Videos are available here.
+* [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024 in Denver, USA.
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.

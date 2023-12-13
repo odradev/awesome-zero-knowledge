@@ -103,13 +103,14 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [ETHGlobal NYC](https://ethglobal.com/events/newyork2023) - summit on September 2023 in New York, USA. Recordings can be found [here](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7hzYpBqmzRrHOEE4RGpppJ).
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye. Recordings can be found [here](https://app.streameth.org/devconnect/ethconomics/archive). 
 * [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on November 2023 in Istanbul, Türkiye.
-
-### Upcoming events
-* [LongHashX Accelerator Cohort 11 - ZK Cohort](https://longhashventures.typeform.com/ZKCohort?typeform-source=t.co) - applications can still be send. Final decisions will be announced in October. More informaion [here.](https://www.longhash.vc/accelerator/zk-accelerator/)
-* [The Zero Knowledge Proofs Writing Contest by RareSkills](https://hackernoon.com/the-zero-knowledge-proofs-writing-contest-by-rareskills) - contest by RareSkills on November 2023.
 * [TCC 2023](https://tcc.iacr.org/2023/) - conference on November/December 2023 in Taipei, Taiwan.
 * [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
+
+### Upcoming events
 * [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
+* [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024 in Denver, USA.
+* [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
+* [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
 
 ### Articles
@@ -278,6 +279,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Demystifying ZKML](https://medium.com/@vid.kersic/demystifying-zkml-0f3dff7194b9) - article by Vid Kersic from November 2023.
 * [Is Zero-Knowledge Machine Learning (zkML) Legit?](https://medium.com/@matt-pan/is-zero-knowledge-machine-learning-zkml-legit-da312e46505f) - article by Matt Pan from December 2023.
 * [Recursive zkSNARK Proof as a Private Input - What Is Visible To The Verifier?](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/) - article by Illya Gerasymchuk from December 2023.
+* [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886.pdf) - academic text by Sebastian Angel, Eleftherios Ioannids, Elizabeth Margolin, Srinath Setty and Jess Woods from December 2023.
+* [Homomorphic Encryption: A Scalable Solution for Privacy, Security and Compliance On-Chain](https://medium.com/trireme-trading/homomorphic-encryption-a-scalable-solution-for-privacy-security-and-compliance-on-chain-bc173b716d0a) - article by Trireme Trading from December 2023.
+* [A Multiparty Commutative Hashing Protocol based on the Discrete Logarithm Problem](https://eprint.iacr.org/2023/1879.pdf) - academic text by Daniel Zentai, Mihail Plesa and Robin Frot from December 2023.
 
 ### Projects 
 Projects that are using ZK-technology.
