@@ -2,7 +2,10 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [Tech Deep Dive: Verifying FHE in RISC Zero, Part II](https://l2ivresearch.substack.com/p/tech-deep-dive-verifying-fhe-in-risc-b11). (15.12.2023)
+* [What might an “enshrined ZK-EVM” look like?](https://notes.ethereum.org/@vbuterin/enshrined_zk_evm) - blog post by Vitalik Buterin. (13.12.2023)
+* [Onchain computation proofs for EVM](https://medium.com/@alexeuler/onchain-computation-proofs-for-evm-68837aad4a98) - article by Alex Euler. (13.12.2023)
+* [How to update Merkle trees in ZK-based L2](https://medium.com/casperblockchain/verified-merkle-tree-updates-without-zk-90d8f5100ccd) - article by Nick Van den Broeck. (14.12.2023)
+* [Fiat-Shamir Exploit to Attack a Plonk Verifier](https://medium.com/@cryptofairy/fiat-shamir-exploit-to-attack-a-plonk-verifier-d8ab544e9536) - article by CryptoFairy. (18.12.2023)
 
 ### New articles 
 * [What might an “enshrined ZK-EVM” look like?](https://notes.ethereum.org/@vbuterin/enshrined_zk_evm) - blog post by Vitalik Buterin. (13.12.2023)
