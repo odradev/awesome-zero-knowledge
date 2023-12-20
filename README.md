@@ -282,6 +282,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886.pdf) - academic text by Sebastian Angel, Eleftherios Ioannids, Elizabeth Margolin, Srinath Setty and Jess Woods from December 2023.
 * [Homomorphic Encryption: A Scalable Solution for Privacy, Security and Compliance On-Chain](https://medium.com/trireme-trading/homomorphic-encryption-a-scalable-solution-for-privacy-security-and-compliance-on-chain-bc173b716d0a) - article by Trireme Trading from December 2023.
 * [A Multiparty Commutative Hashing Protocol based on the Discrete Logarithm Problem](https://eprint.iacr.org/2023/1879.pdf) - academic text by Daniel Zentai, Mihail Plesa and Robin Frot from December 2023.
+* [What might an “enshrined ZK-EVM” look like?](https://notes.ethereum.org/@vbuterin/enshrined_zk_evm) - blog post by Vitalik Buterin from December 2023. 
 
 ### Projects 
 Projects that are using ZK-technology.
