@@ -2,26 +2,29 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [Based Contestable Rollup (BCR): A configurable, multi-proof rollup design](https://taiko.mirror.xyz/Z4I5ZhreGkyfdaL5I9P0Rj0DNX4zaWFmcws-0CVMJ2A) - article by Daniel Wang. (06.12.2023)
+* [Ola 30min Talk: Bringing Compliant Privacy to ZKVM Rollups | ZK Hack Istanbul](https://www.youtube.com/watch?v=RN4a_Ig2dig). (12.12.2023)
+* [A Multiparty Commutative Hashing Protocol based on the Discrete Logarithm Problem](https://eprint.iacr.org/2023/1879.pdf) - academic text by Daniel Zentai, Mihail Plesa and Robin Frot. (07.12.2023)
+* [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886.pdf) - academic text by Sebastian Angel, Eleftherios Ioannids, Elizabeth Margolin, Srinath Setty and Jess Woods. (12.12.2023)
+* [Homomorphic Encryption: A Scalable Solution for Privacy, Security and Compliance On-Chain](https://medium.com/trireme-trading/homomorphic-encryption-a-scalable-solution-for-privacy-security-and-compliance-on-chain-bc173b716d0a) - article by Trireme Trading. (12.12.2023)
 
 ### New articles 
 * [Based Contestable Rollup (BCR): A configurable, multi-proof rollup design](https://taiko.mirror.xyz/Z4I5ZhreGkyfdaL5I9P0Rj0DNX4zaWFmcws-0CVMJ2A) - article by Daniel Wang. (06.12.2023)
 * [Practical Use Cases of Zero Knowledge Proofs](https://medium.com/zeeve/practical-use-cases-of-zero-knowledge-proofs-9126c5329bdf) - article by Zeeve. (07.12.2023)
+* [Learning the Ins and Outs of Zero-Knowledge (ZK) Proofs](https://hackernoon.com/learning-the-ins-and-outs-of-zero-knowledge-zk-proofs?ref=hackernoon.com) - article by TechBeat. (07.12.2023)
 * [Hybrid rollups and their realization by ZKM project](https://medium.com/@safar241992/hybrid-rollups-and-their-realization-by-zkm-project-e73f7c36b4c9) - article by Barney Stinson. (08.12.2023)
 * [Unveiling the Mysteries of SNARKs and zkSNARKs: A Dive into Zero Knowledge Proofs](https://medium.com/@emingokceoglu/unveiling-the-mysteries-of-snarks-and-zksnarks-a-dive-into-zero-knowledge-proofs-9f94ad9ebb76) - article by Emin G. (08.12.2023)
 * [L2 report vol. 28](https://medium.com/paradigm-research/l2-report-vol-28-c153abac30ee) - biweekly update on Layer 2 protocols. (11.12.2023)
 * [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886.pdf) - academic text by Sebastian Angel, Eleftherios Ioannids, Elizabeth Margolin, Srinath Setty and Jess Woods. (12.12.2023)
-* [Homomorphic Encryption: A Scalable Solution for Privacy, Security and Compliance On-Chain](https://medium.com/trireme-trading/homomorphic-encryption-a-scalable-solution-for-privacy-security-and-compliance-on-chain-bc173b716d0a) - article by Trireme Trading. (12.12.2023)
 * [Zero knowledge proof explained](https://medium.com/@opensiddhu993/zero-knowledge-proof-explained-1595600ff1cf) - article by Siddharth Patel. (12.12.2023)
 
 ### MPC
 * [A Multiparty Commutative Hashing Protocol based on the Discrete Logarithm Problem](https://eprint.iacr.org/2023/1879.pdf) - academic text by Daniel Zentai, Mihail Plesa and Robin Frot. (07.12.2023)
 * [Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains](https://arxiv.org/pdf/2312.05686.pdf) - academic text by Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran and Divya Gupta. (09.12.2023)
 * [PRAC: Round-Efficient 3-Party MPC for Dynamic Data Structures](https://eprint.iacr.org/2023/1897.pdf) - acdemic text by Sajin Sasy, Adithya Vadapalli and Ian Goldberg. (10.12.2023)
+* [Homomorphic Encryption: A Scalable Solution for Privacy, Security and Compliance On-Chain](https://medium.com/trireme-trading/homomorphic-encryption-a-scalable-solution-for-privacy-security-and-compliance-on-chain-bc173b716d0a) - article by Trireme Trading. (12.12.2023)
 
 ### ZK projects
 * [Adding LSTs to EigenLayer & Raising the Caps](https://www.blog.eigenlayer.xyz/adding-lsts-to-eigenlayer-raising-the-caps/). (06.12.2023)
-* [Learning the Ins and Outs of Zero-Knowledge (ZK) Proofs](https://hackernoon.com/12-7-2023-techbeat) - article by TechBeat. (07.12.2023)
 * [Introducing dYdX's Open Source Design System](https://dydx.exchange/blog/open-source-design-system?). (08.12.2023)
 * [Scroll - Mainnet Weekly Update](https://twitter.com/Scroll_ZKP/status/1733264990566854918). (09.12.2023)
 * [dYdX- v3 Testnet Migration](https://dydx.exchange/blog/v3-testnet-migration). (10.12.2023)
