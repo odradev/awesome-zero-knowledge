@@ -2,7 +2,8 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
-* [SnarkFold: Efficient SNARK Proof Aggregation from Split Incrementally Verifiable Computation](https://eprint.iacr.org/2023/1946.pdf) - academic text by Xun Liu, Shang Gao, Tianyu Zheng and Bin Xiao. (23.12.2023)
+* [Groth16 and Casper: Illuminating the Path to Zero-Knowledge Mastery](https://medium.com/casperblockchain/groth16-and-casper-illuminating-the-path-to-zero-knowledge-mastery-89719e292dd2) - article by Andrzej Broński. (21.12.2023)
+* [ZKPs, FHE, MPC: Managing Private State in Blockchains](https://medium.com/alliancedao/zkps-fhe-mpc-managing-private-state-in-blockchains-17cc3661007d) - article by Mohamed Fouda. (22.12.2023)
 
 ### New articles 
 * [zk-DASTARK: A quantum-resistant, data authentication and zero-knowledge proof scheme for protecting data feed to smart contracts](https://www.preprints.org/manuscript/202312.1444/v1/download) - academic text by Usama Habib Chaudhry, Razi Arshad, Ayesha Khalid, Indranil Gosh Ray, Mehdi Hussain. (19.12.2023)
@@ -10,7 +11,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Zero-Knowledge Proofs: A Comprehensive Exploration](https://medium.com/coinmonks/zero-knowledge-proofs-4b39a72dcb3a) - article by Thomson Richard. (20.12.2023)
 * [Groth16 and Casper: Illuminating the Path to Zero-Knowledge Mastery](https://medium.com/casperblockchain/groth16-and-casper-illuminating-the-path-to-zero-knowledge-mastery-89719e292dd2) - article by Andrzej Broński. (21.12.2023)
 * [ZK Fundamentals: The Fiat-Shamir Transform](https://medium.com/veridise/zk-fundamentals-the-fiat-shamir-transform-bfa69e2fd32e) - article by Verdise. (22.12.2023)
-* [ZKPs, FHE, MPC: Managing Private State in Blockchains](https://medium.com/alliancedao/zkps-fhe-mpc-managing-private-state-in-blockchains-17cc3661007d) - article by Mohamed Fouda. (22.12.2023)
 * [SnarkFold: Efficient SNARK Proof Aggregation from Split Incrementally Verifiable Computation](https://eprint.iacr.org/2023/1946.pdf) - academic text by Xun Liu, Shang Gao, Tianyu Zheng and Bin Xiao. (23.12.2023)
 * [The year of ZK-proofs: 4 layer 2s that helped Ethereum scale in 2023](https://cointelegraph.com/news/four-zk-proof-l2s-that-scaled-ethereum-in-2023) - article by Gareth Jenkinson. (25.12.2023)
 * [Responsive Validity Proof & Optimistic ZK-Rollup](https://medium.com/@morphlayer2/responsive-validity-proof-optimistic-zk-rollup-c380fcc7582d) - article by Morph. (26.12.2023)
@@ -20,6 +20,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Toward A Practical Multi-party Private Set Union](https://eprint.iacr.org/2023/1930.pdf) - academic text by Jiahui Gao, Son Nguyen and Ni Trieu. (21.12.2023)
 * [Multipars: Reduced-Communication MPC over Z2k](https://eprint.iacr.org/2023/1932.pdf) - academic text by Sebastian Hasler, Pascal Reisert, Marc Rivinius and Ralf Küsters. (21.12.2023)
 * [More efficient comparison protocols for MPC](https://eprint.iacr.org/2023/1934.pdf) - academix text by Wicher Malten, Mehmet Ugurbil and Miguel de Vega. (21.12.2023)
+* [ZKPs, FHE, MPC: Managing Private State in Blockchains](https://medium.com/alliancedao/zkps-fhe-mpc-managing-private-state-in-blockchains-17cc3661007d) - article by Mohamed Fouda. (22.12.2023)
 
 ### ZK projects
 * [Introducing the Paima ZK layer](https://twitter.com/PaimaStudios/status/1737165344241037588). (19.12.2023)
