@@ -4,7 +4,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 ### Top picks
 
 ### Hackathons
-* [Announce of the **Ctrl + Hack + ZK Hackathon** on 10th of January](https://twitter.com/Aleph__Zero/status/1735666127831695447). (15.12.2023)
+* [Ctrl+Hack+ZK Hackathon](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
 
 ### New articles
 * [Parallel proving and next generation decentralized proving networks](https://blog.icme.io/parallel-proving-and-next-generation-decentralized-prover-marketplaces/) - article by Wyatt Benno. (27.12.2023)
@@ -51,6 +51,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Strange Water Podcast](https://open.spotify.com/episode/7mMm5Efaz8dNSD1XgF1Loq?si=3b777e40a83b4639) episode - *Reflecting on the State of ZK w/ Kobi Gurkan (Geometry)*. (28.12.2023)
 
 ### AlephZero
+* [Announce of the **Ctrl + Hack + ZK Hackathon** on 10th of January](https://twitter.com/Aleph__Zero/status/1735666127831695447). (15.12.2023)
 * [Aleph Zero Podcast](https://www.youtube.com/watch?v=1_EQo-LoWng) episode - *DRKVRS: What do GameFi and an Academy Award Nomination Have in Common?*. (22.12.2023)
 * [Aleph Zero Development Update](https://twitter.com/UladAleph/status/1738273850016829663). (22.12.2023)
 * [New audit competition is coming](https://twitter.com/HatsFinance/status/1738953139850563599). (24.12.2023)
