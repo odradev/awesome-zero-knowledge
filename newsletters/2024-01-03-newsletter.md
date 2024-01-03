@@ -4,7 +4,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 ### Top picks
 
 ### Hackathons
-* [Ctrl+Hack+ZK Hackathon](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
+* [Ctrl+Hack+ZK Hackathon with $575K in Bounties](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
 
 ### New articles
 * [Parallel proving and next generation decentralized proving networks](https://blog.icme.io/parallel-proving-and-next-generation-decentralized-prover-marketplaces/) - article by Wyatt Benno. (27.12.2023)
