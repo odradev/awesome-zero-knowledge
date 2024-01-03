@@ -3,6 +3,9 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### Top picks
 
+### Hackathons
+* [Announce of the **Ctrl + Hack + ZK Hackathon** on 10th of January](https://twitter.com/Aleph__Zero/status/1735666127831695447). (15.12.2023)
+
 ### New articles
 * [Parallel proving and next generation decentralized proving networks](https://blog.icme.io/parallel-proving-and-next-generation-decentralized-prover-marketplaces/) - article by Wyatt Benno. (27.12.2023)
 * [From Zero to Hero in Zero Knowledge Proofs [Part 6]](https://medium.com/coinmonks/from-zero-to-hero-in-zero-knowledge-proofs-part-6-3bcef8dc6f88) - article by Hira Siddiqui. (27.12.2023)
@@ -48,7 +51,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Strange Water Podcast](https://open.spotify.com/episode/7mMm5Efaz8dNSD1XgF1Loq?si=3b777e40a83b4639) episode - *Reflecting on the State of ZK w/ Kobi Gurkan (Geometry)*. (28.12.2023)
 
 ### AlephZero
-* [Announce of the **Ctrl + Hack + ZK Hackathon** on 10th of January](https://twitter.com/Aleph__Zero/status/1735666127831695447). (15.12.2023)
 * [Aleph Zero Podcast](https://www.youtube.com/watch?v=1_EQo-LoWng) episode - *DRKVRS: What do GameFi and an Academy Award Nomination Have in Common?*. (22.12.2023)
 * [Aleph Zero Development Update](https://twitter.com/UladAleph/status/1738273850016829663). (22.12.2023)
 * [New audit competition is coming](https://twitter.com/HatsFinance/status/1738953139850563599). (24.12.2023)
@@ -63,5 +65,5 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
 
 ### Our Sponsors
-* **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
 * **[AlephZero](https://alephzero.org/)** - a layer 1 privacy-enhancing blockchain that ensures scalability, low transaction fees, instant finality, and optimal security.
+* **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
