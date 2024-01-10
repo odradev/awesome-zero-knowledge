@@ -2,7 +2,10 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [Towards a zk-SNARK compiler for Wolfram language](https://arxiv.org/pdf/2401.02935.pdf) - academic text by Armando Cruz. (05.01.2024)
+* [Zero-Knowledge Proof in NuLink](https://arxiv.org/pdf/2401.03118.pdf) - academic text by Pawn, Rookie and Zhuan Cheng. (05.01.2024)
 * [How to Implement a Minimalist NFT zkRollup](https://medium.com/coinmonks/how-to-implement-a-minimalist-nft-zkrollup-b93fd4e326ad) - article by Laszlo Fazekas. (06.01.2024)
+* [Cosmos. Ethereum. EigenLayer.](https://www.blog.eigenlayer.xyz/cosmos/). (09.01.2024)
 
 ### Hackathons
 * [Ctrl+Hack+ZK Hackathon with $575K in Bounties](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
