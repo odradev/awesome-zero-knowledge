@@ -284,6 +284,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [A Multiparty Commutative Hashing Protocol based on the Discrete Logarithm Problem](https://eprint.iacr.org/2023/1879.pdf) - academic text by Daniel Zentai, Mihail Plesa and Robin Frot from December 2023.
 * [What might an “enshrined ZK-EVM” look like?](https://notes.ethereum.org/@vbuterin/enshrined_zk_evm) - blog post by Vitalik Buterin from December 2023. 
 * [ZKPs, FHE, MPC: Managing Private State in Blockchains](https://medium.com/alliancedao/zkps-fhe-mpc-managing-private-state-in-blockchains-17cc3661007d) - article by Mohamed Fouda from December 2023.
+* [Towards a zk-SNARK compiler for Wolfram language](https://arxiv.org/pdf/2401.02935.pdf) - academic text by Armando Cruz from January 2024.
+* [Zero-Knowledge Proof in NuLink](https://arxiv.org/pdf/2401.03118.pdf) - academic text by Pawn, Rookie and Zhuan Cheng from January 2024.
+* [How to Implement a Minimalist NFT zkRollup](https://medium.com/coinmonks/how-to-implement-a-minimalist-nft-zkrollup-b93fd4e326ad) - article by Laszlo Fazekas from January 2024. 
 
 ### Projects 
 Projects that are using ZK-technology.
