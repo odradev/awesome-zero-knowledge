@@ -54,6 +54,8 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### AlephZero
 * [Common gets an update](https://feedback.common.fi/changelog/6596a190143e3c7207d83720). (04.01.2024)
+* [Aleph Zero Podcast](https://www.youtube.com/watch?v=DCGhrDOagdY) episode - *EP. 22 Meet idOS: A Chain-Agnostic Identity Layer*. (04.01.2024)
+* [First Steps with Rust - Differences Between Solidity & ink!](https://www.youtube.com/watch?v=7eQ4lS1oh8o). (08.01.2024)
 * [AZERO is now available on Alchemy Pay](https://twitter.com/Aleph__Zero/status/1744666795435503813?s=20). (09.01.2024)
 * [New Aleph Zero Shielder documentation is out](https://twitter.com/cardinal_hq/status/1744855377617776654). (09.01.2024)
 * [Aleph Zero Competition is coming](https://twitter.com/HatsFinance/status/1744751129051705534). (09.01.2024)
