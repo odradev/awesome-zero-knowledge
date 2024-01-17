@@ -16,6 +16,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Do You Need a Zero Knowledge Proof?](https://eprint.iacr.org/2024/050.pdf) - academic text by Jens Ernstberger, Stefanos Chaliasos, Liyi Zhou, Philipp Jovanovic and Arthur Gervais. (15.01.2024)
 * [Zero-Knowledge Proofs for SIDH variants with Masked Degree or Torsion](https://eprint.iacr.org/2024/056.pdf) - academic text by Youcef Mokrani and David Jao. (15.01.2024)
 * [7 Applications Of Zero-Knowledge Proofs In Machine Learning](https://www.ccn.com/education/7-applications-of-zero-knowledge-proofs-in-machine-learning/) - article by Alisha Bains. (15.01.2024)
+* [Memory Consistency Checks and ZKVM.](https://blog.icme.io/memory-consistency-checks-in-zk-vm/) - article by Wyatt Benno. (16.01.2024)
 * [No, ZK rollup succinctness is not just about data compression](https://medium.com/@laurippeltonen/no-zk-rollup-succinctness-is-not-just-about-data-compression-52e4e233dee6) - article by Lauri Peltonen. (16.01.2024)
 
 ### MPC
@@ -35,6 +36,8 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Mina - Least Authority Concludes Security Audit of Pickles](https://minaprotocol.com/blog/pickles-security-audit). (12.01.2024)
 * [Taiko - Katla Testnet (Alpha-6) is now live!](https://taiko.mirror.xyz/a5SHfg_V16TOVS_LpFgrbfgi_shwC5HhpPZ5C2hnuFo). (15.01.2024)
 * [Scroll - Sticker Contest](https://twitter.com/Scroll_ZKP/status/1747242534236303795). (16.01.2024)
+* [Announcing Incentivized Testnet](https://dusk.network/news/announcing-incentivized-testnet/). (16.01.2024)
+* [Polygon Labs Selected to Tokenized Asset Coalition](https://polygon.technology/blog/polygon-labs-selected-to-tokenized-asset-coalition). (16.01.2024)
 
 ### Twitter
 * [Thread about Taiko](https://twitter.com/taikoxyz/status/1745546868028068273). (11.01.2024)
