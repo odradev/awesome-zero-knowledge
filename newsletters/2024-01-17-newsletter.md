@@ -2,6 +2,8 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge. **We launched our Twitter account. Give us a [FOLLOW.](https://twitter.com/ZKNewsletter)**
 
 ### Top picks
+* [Fluent Talks](https://www.youtube.com/watch?v=GJvCGomr5lQ) episode - *On zkWasm with Fluent and Hyper Oracle*. (13.01.2024)
+* [Do You Need a Zero Knowledge Proof?](https://eprint.iacr.org/2024/050.pdf) - academic text by Jens Ernstberger, Stefanos Chaliasos, Liyi Zhou, Philipp Jovanovic and Arthur Gervais. (15.01.2024)
 
 ### Hackathons
 * [Ctrl+Hack+ZK Hackathon with 575K in Bounties](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
@@ -15,7 +17,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [ZKP Through My Eyes](https://medium.com/@SuperScalar_io/zkp-through-my-eyes-065cb94f2f28) - article by Superscalar. (14.01.2024)
 * [Do You Need a Zero Knowledge Proof?](https://eprint.iacr.org/2024/050.pdf) - academic text by Jens Ernstberger, Stefanos Chaliasos, Liyi Zhou, Philipp Jovanovic and Arthur Gervais. (15.01.2024)
 * [Zero-Knowledge Proofs for SIDH variants with Masked Degree or Torsion](https://eprint.iacr.org/2024/056.pdf) - academic text by Youcef Mokrani and David Jao. (15.01.2024)
-* [7 Applications Of Zero-Knowledge Proofs In Machine Learning](https://www.ccn.com/education/7-applications-of-zero-knowledge-proofs-in-machine-learning/) - article by Alisha Bains. (15.01.2024)
 * [Memory Consistency Checks and ZKVM.](https://blog.icme.io/memory-consistency-checks-in-zk-vm/) - article by Wyatt Benno. (16.01.2024)
 * [No, ZK rollup succinctness is not just about data compression](https://medium.com/@laurippeltonen/no-zk-rollup-succinctness-is-not-just-about-data-compression-52e4e233dee6) - article by Lauri Peltonen. (16.01.2024)
 
@@ -25,6 +26,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 ### ZKML
 * [Revolution in data transmission and validation: ZK + ML](https://medium.com/@gotbit_insights/revolution-in-data-transmission-and-validation-zk-ml-0a5da0e2943c) - article by Gotbit Insights. (12.01.2024)
 * [The ZKML Workflow](https://franalgaba.medium.com/the-zkml-workflow-706cb022d404) - article by Fran Algaba. (15.01.2024)
+* [7 Applications Of Zero-Knowledge Proofs In Machine Learning](https://www.ccn.com/education/7-applications-of-zero-knowledge-proofs-in-machine-learning/) - article by Alisha Bains. (15.01.2024)
 
 ### ZK projects
 * [Introducing Libre, Polygon CDK-Powered Institutional Web3 Chain for Alternative Assets](https://polygon.technology/blog/introducing-libre-polygon-cdk-powered-institutional-web3-chain-for-alternative-assets). (10.01.2024)
@@ -45,7 +47,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 
 ### YouTube Clips
 * [Exploring Ethereum History On chain with ZK | Axiom](https://www.youtube.com/watch?v=fdqXKaMNTrg). (12.01.2024)
-* [Fluent Talks # 2 On zkWasm with Fluent and Hyper Oracle](https://www.youtube.com/watch?v=GJvCGomr5lQ). (13.01.2024)
 * [Shady El Damaty | Zero Knowledge Games in Cybernetic Epistemology](https://www.youtube.com/watch?v=sB0t_hafDJs). (14.01.2024)
 * [Ning Luo: Proving UNSAT in zero knowledge](https://www.youtube.com/watch?v=oKQbfkkaei8). (15.01.2024)
 * [zkGraph Tutorial Part 2: Understanding the Event Template](https://www.youtube.com/watch?v=jSTXZOpAEWw). (16.01.2024)
@@ -57,6 +58,8 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Strange Water Podcast](https://open.spotify.com/episode/3YGNjwrKmesFIE222pMNsK?si=0fbf64a87ac544e7) episode - *The Next Chapter of Modular Blockchains: Proof of SQL w/ Scott Dykstra (Space and Time)*. (11.01.2024)
 * Weekly [Epicenter Podcast](https://www.youtube.com/watch?v=naiP3up9ilM) episode - *Guy Itzhaki & Guy Zyskind: Fhenix – FHE-powered End-to-End Encrypted Ethereum L2. Ep. 530*. (12.01.2024) 
 * [Inside the ZK Den with Mute, Maverick, and CryptoMaze](https://twitter.com/zksync/status/1745837545244504383). (12.01.2024)
+* [Fluent Talks](https://www.youtube.com/watch?v=GJvCGomr5lQ) episode - *On zkWasm with Fluent and Hyper Oracle*. (13.01.2024)
+
 
 ### AlephZero
 * [Aleph Zero Bridges: Introducing MOST](https://alephzero.org/blog/aleph-zero-bridges-most-router/). (11.01.2024)
