@@ -19,6 +19,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [How Small Teams Can Pick Cloud ZK Proof Infrastructure](https://medium.com/iosg-ventures/how-small-teams-can-pick-cloud-zk-proof-infrastructure-3f634dfca2f5) - article by un.Block Newsletter. (22.01.2024)
 * [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://arxiv.org/pdf/2401.11735.pdf) - academic text by Foteini Baldimtsi, Konstantinos Kryptos Chalkias, Yan Ji, Jonas Lindstrøm, Deepak Maram, Ben Riva, Arnab Roy, Mahdi Sedaghat and Joy Wang.
 * [Protect Yourself From Identity Theft By Using Zero-Knowledge Proof, Solidity, and Ethereum](https://hackernoon.com/protect-yourself-from-identity-theft-by-using-zero-knowledge-proof-solidity-and-ethereum) - article by Wisdom Nowkocha. (23.01.2024)
+* [Why are Polynomials Useful for ZKPs?](https://medium.com/@emilpepil/why-are-polynomials-useful-for-zkps-c22489d57d83) - article by Emil Pepil. (23.01.2024)
 
 ### MPC
 * [XORBoost Tree Boosting in the Multiparty Computation Setting](https://www.youtube.com/watch?v=sD9mDpV7cyY). (22.01.2024)
