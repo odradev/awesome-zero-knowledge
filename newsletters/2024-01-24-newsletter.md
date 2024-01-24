@@ -5,6 +5,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication](https://arxiv.org/pdf/2401.09521.pdf) - academic text by Marta I. Garcia-Cid, Dileepsai Bodanapu, Alberto Gatto, Paolo Martelli, Vicente Martin, Laura Ortiz. (17.01.2024)
 * [Tree-based Lookup Table on Batched Encrypted Queries using Homomorphic Encryption](https://eprint.iacr.org/2024/087.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe and Jai Hyun Park. (19.01.2024)
 * [How Small Teams Can Pick Cloud ZK Proof Infrastructure](https://medium.com/iosg-ventures/how-small-teams-can-pick-cloud-zk-proof-infrastructure-3f634dfca2f5) - article by un.Block Newsletter. (22.01.2024)
+* [Axiom V2 is now live on Ethereum mainnet](https://twitter.com/axiom_xyz/status/1749477103039594614). (22.01.2024)
 
 ### Hackathons
 * [Ctrl+Hack+ZK Hackathon with 575K in Bounties](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
