@@ -287,6 +287,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Towards a zk-SNARK compiler for Wolfram language](https://arxiv.org/pdf/2401.02935.pdf) - academic text by Armando Cruz from January 2024.
 * [Zero-Knowledge Proof in NuLink](https://arxiv.org/pdf/2401.03118.pdf) - academic text by Pawn, Rookie and Zhuan Cheng from January 2024.
 * [How to Implement a Minimalist NFT zkRollup](https://medium.com/coinmonks/how-to-implement-a-minimalist-nft-zkrollup-b93fd4e326ad) - article by Laszlo Fazekas from January 2024. 
+* [Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication](https://arxiv.org/pdf/2401.09521.pdf) - academic text by Marta I. Garcia-Cid, Dileepsai Bodanapu, Alberto Gatto, Paolo Martelli, Vicente Martin, Laura Ortiz from January 2024.
+* [Tree-based Lookup Table on Batched Encrypted Queries using Homomorphic Encryption](https://eprint.iacr.org/2024/087.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe and Jai Hyun Park from January 2024.
 
 ### Projects 
 Projects that are using ZK-technology.

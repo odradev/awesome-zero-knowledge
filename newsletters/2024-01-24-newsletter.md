@@ -2,6 +2,9 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
 
 ### Top picks
+* [Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication](https://arxiv.org/pdf/2401.09521.pdf) - academic text by Marta I. Garcia-Cid, Dileepsai Bodanapu, Alberto Gatto, Paolo Martelli, Vicente Martin, Laura Ortiz. (17.01.2024)
+* [Tree-based Lookup Table on Batched Encrypted Queries using Homomorphic Encryption](https://eprint.iacr.org/2024/087.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe and Jai Hyun Park. (19.01.2024)
+* [How Small Teams Can Pick Cloud ZK Proof Infrastructure](https://medium.com/iosg-ventures/how-small-teams-can-pick-cloud-zk-proof-infrastructure-3f634dfca2f5) - article by un.Block Newsletter. (22.01.2024)
 
 ### Hackathons
 * [Ctrl+Hack+ZK Hackathon with 575K in Bounties](https://hack.alephzero.org/) - 3-week virtual hackathon by AlephZero from the 10th of January to the 31st of January 2024. 
@@ -41,7 +44,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [A Deep Dive into zkLink](https://blog.coinlist.co/a-deep-dive-into-zklink-rjlsb/). (22.01.2024)
 
 ### Twitter
-* [?](https://twitter.com/ryanberckmans/status/1747308420544204857). (16.01.2024)
+* [Are validiums L2s?](https://twitter.com/ryanberckmans/status/1747308420544204857). (16.01.2024)
 * [Thread about EigenLayer](https://twitter.com/zerokn0wledge_/status/1748390699979178192). (19.01.2024)
  
 ### YouTube Clips
