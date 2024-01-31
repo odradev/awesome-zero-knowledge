@@ -2,6 +2,9 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
 
 ### Top picks
+* [How to Make ZKML Real | drCathieSo.eth | PROGCRYPTO](https://www.youtube.com/watch?v=Oaps00Mgvy0). (25.01.2024)
+* [zkBitcoin: Zero-Knowledge Applications for Bitcoin](https://www.youtube.com/watch?v=2a0UYT5nbEA). (25.01.2024)
+* [Deep dive into Cairo's AIR and the changes we had to do in Lambdaworks to be compatible with Starknet Stone Prover](https://blog.lambdaclass.com/deep-dive-into-cairos-air-and-the-changes-we-had-to-do-in-lambdaworks-to-be-compatible-with-starknet-stone-prover/) - article by LambdaClass. (25.01.2024)
 * [Principle and Architecture of zkRollup](https://medium.com/@zan.top/principle-and-architecture-of-zkrollup-1c2c5d15ac79) - article by ZAN. (26.01.2024)
 
 ### New articles 
@@ -15,18 +18,18 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [From Zero to Hero in Zero Knowledge Proofs [Part 10]](https://medium.com/coinmonks/from-zero-to-hero-in-zero-knowledge-proofs-part-10-0f4e76849d0a) - article by Hira Siddiqui. (27.01.2024)
 * [A fast trust minimized intent based bridge solution for Ethereum and L2s powered by multi-proof storage proofs](https://blog.lambdaclass.com/a-fast-trust-minimized-intent-based-bridge-solution-for-ethereum-and-l2s-powered-by-multi-proof-storage-proofs/) - article by LambdaClass. (28.01.2024)
 * [ZK Snarks Programming 101: Your Friendly Starter Guide](https://zkplabs.network/blog/ZK-snarks-Programming-101-Your-Friendly-Starter-Guide) - article by ZKPLabs. (28.01.2024)
-* [On the practical CPAD security of “exact” and threshold FHE schemes and libraries](https://eprint.iacr.org/2024/116.pdf) - academic text by Marina Checri, Renaud Sirdey, Aymen Boudguiga, Jean-Paul Bultel and Antoine Choffrut. (29.01.2024)
-* [Data Privacy Made Easy: Enhancing Applications with Homomorphic Encryption](https://eprint.iacr.org/2024/118.pdf) - academic text by Charles Gouert and Nektarios Georgios Tsoutsos. (29.01.2024)
 * [What is PLONK?](https://medium.com/@lucafra92/what-is-plonk-29c56f326cf6) - article by Luca Franceschini. (29.01.2024)
 * [A Privacy-preserving key transmission protocol to distribute QRNG keys using zk-SNARKs](https://arxiv.org/pdf/2401.16170.pdf) - academic text by David Soler, Carlos Dafonte, Manuel Fernández-Veiga, Ana Fernández Vilas and Francisco J. Nóvoa. (29.01.2024)
 * [Optimization of zkSNARKs Computation Delegation: From Considering Various Approaches to Development and Implementation](https://web3illy.medium.com/optimization-of-zksnarks-computation-delegation-from-considering-various-approaches-to-development-8073400d95e6) - article by Illy’s Web3 blog. (29.01.2024)
-* [Attacks Against the INDCPA-D Security of Exact FHE Schemes](https://eprint.iacr.org/2024/127.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe, Alain Passelègue, Damien Stehlé, and Elias Suvanto. (29.01.2024)
 * [(A)symmetry: How identity will be improved by decentralized biometrics and zero-knowledge proofs](https://medium.com/holonym/a-symmetry-how-identity-will-be-improved-by-decentralized-biometrics-and-zero-knowledge-proofs-eb2f47e05b75) - article by Nanak Nihal Khalsa. (30.01.2024)
 * [How do we gain Zero Knowledge adoption](https://medium.com/@laurippeltonen/how-do-we-gain-zero-knowledge-adoption-2b5b799240b4) - article by Lauri Peltonen. (30.01.2024)
 * [The promise and challenges of crypto + AI applications](https://vitalik.eth.limo/general/2024/01/30/cryptoai.html) - post by Vitalik Buterin. (30.01.2024)
 
 ### MPC
 * [Securing the future of data privacy with multiparty computation](https://technode.global/2024/01/29/securing-the-future-of-data-privacy-with-multiparty-computation/). (29.01.2024)
+* [Data Privacy Made Easy: Enhancing Applications with Homomorphic Encryption](https://eprint.iacr.org/2024/118.pdf) - academic text by Charles Gouert and Nektarios Georgios Tsoutsos. (29.01.2024)
+* [On the practical CPAD security of “exact” and threshold FHE schemes and libraries](https://eprint.iacr.org/2024/116.pdf) - academic text by Marina Checri, Renaud Sirdey, Aymen Boudguiga, Jean-Paul Bultel and Antoine Choffrut. (29.01.2024)
+* [Attacks Against the INDCPA-D Security of Exact FHE Schemes](https://eprint.iacr.org/2024/127.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe, Alain Passelègue, Damien Stehlé, and Elias Suvanto. (29.01.2024)
 * [Quantum-Secure Hybrid Blockchain System for DID-based Verifiable Random Function with NTRU Linkable Ring Signature](https://arxiv.org/pdf/2401.16906.pdf) - academic text by Bong Gon Kim, Dennis Wong and Yoon Seok Yang. (30.01.2024)
 
 ### ZKML
