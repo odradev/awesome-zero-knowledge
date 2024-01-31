@@ -107,11 +107,19 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 
 ### Upcoming events
-* [DevX Global Tour](https://polygon.technology/blog/polygon-labs-announces-devx-global-tour) - Regional Hackathons and Guild Events by Polygon since March 2023 until December 2023.
+* [Journal of Cryptology Call for Papers: Topical Collection on Modern Zero-Knowledge Protocols](https://iacr.org/jofc/TopicalCollection-mzkp.html) -  submissions will be open to March 1st, 2024. 
 * [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024 in Denver, USA.
+* [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
+* [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
+* [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
-* [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers in South East Asia, 2024.
+* [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
+* [EthPrague 2024](https://ethprague.com/) - conference on May/June 2023.
+* [The Ethereum Community Conference 2024](https://ethcc.io/) - conference on July 2024 in Brussels, Belgium. 
+* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
+* [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
+* [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
