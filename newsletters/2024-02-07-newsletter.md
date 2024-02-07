@@ -2,6 +2,8 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
 
 ### Top picks
+* [Mina to Ethereum ZK bridge](https://blog.lambdaclass.com/mina-to-ethereum-bridge/) - article by LambdaClass. (05.02.2024)
+* [Introducing Citrea: Bitcoin’s First ZK Rollup](https://www.blog.citrea.xyz/introducing-citrea/). (06.02.2024)
 
 ### New articles 
 * [zkMesh: January 2024 recap](https://zkmesh.substack.com/p/zkmesh-april-2023-recap). (31.01.2024)
@@ -11,11 +13,9 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Scalable Collaborative zk-SNARK: Fully Distributed Proof Generation and Malicious Security](https://eprint.iacr.org/2024/143.pdf) - academic text by Xuanming Liu, Zhelei Zhou, Yinghao Wang, Bingsheng Zhang and Xiaohu Yang. (02.02.2024) 
 * [SNARK Recursion, Folding, and IVC](https://medium.com/@lucafra92/snark-recursion-folding-and-ivc-135b98458a4d) - article by Luca Franceschini. (02.02.2024)
 * [Sumchek 201](https://github.com/ingonyama-zk/papers/blob/main/sumcheck_201_chapter_1.pdf) - article by Ingonyama. (04.02.2024)
-* [Zero-Knowledge Proofs of Training for Deep Neural Networks](https://eprint.iacr.org/2024/162.pdf) - academic text by Kasra Abbaszadeh, Christodoulos Pappas, Dimitrios Papadopoulos and Jonathan Katz. (05.02.2024)
 * [zkMatrix: Batched Short Proof for Committed Matrix Multiplication](https://eprint.iacr.org/2024/161.pdf) - academic text by Mingshu Cong, Tsz Hon Yuen and Siu Ming Yiu. (05.02.2024)
 * [Mina to Ethereum ZK bridge](https://blog.lambdaclass.com/mina-to-ethereum-bridge/) - article by LambdaClass. (05.02.2024)
 * [Zero-Knowledge Proofs: A Solution to Privacy Concerns in Thorswap and More](https://hackernoon.com/zero-knowledge-proofs-a-solution-to-privacy-concerns-in-thorswap-and-more) - article by Mistakili. (05.02.2024)
-* [Verifiable evaluations of machine learning models using zkSNARKs](https://arxiv.org/pdf/2402.02675.pdf) - academic text by Tobin South, Alexander Camuto, Shrey Jain, Shayla Nguyen, Robert Mahari, Christian Paquin, Jason Morton and Alex 'Sandy' Pentland. (05.02.2024)
 * [Enhanced Security and Efficiency in Blockchain with Aggregated Zero-Knowledge Proof Mechanisms](https://arxiv.org/pdf/2402.03834) - academic text by Oleksandr Kuznetsov, Alex Rusnak, Anton Yezhov, Dzianis Kanonik, Kateryna Kuznetsova and Stanislav Karashchuk. (06.02.2024)
 * [Constant-Size zk-SNARKs in ROM from Falsifiable Assumptions](https://eprint.iacr.org/2024/173.pdf) - academic text by Helger Lipmaa, Roberto Parisella and Janno Siim. (06.02.2024)
 
@@ -28,6 +28,9 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 ### ZKML
 * [What is zkML?](https://medium.com/@floating_monkey/what-is-zkml-8d33691811aa) - article by Floating Monkye. (31.01.2024)
 * [opML: Optimistic Machine Learning on Blockchain](https://arxiv.org/pdf/2401.17555.pdf) - academic text by KD Conway, Cathie So, Xiaohang Yu and Kartin Wong. (05.02.2024)
+* [Zero-Knowledge Proofs of Training for Deep Neural Networks](https://eprint.iacr.org/2024/162.pdf) - academic text by Kasra Abbaszadeh, Christodoulos Pappas, Dimitrios Papadopoulos and Jonathan Katz. (05.02.2024)
+* [Verifiable evaluations of machine learning models using zkSNARKs](https://arxiv.org/pdf/2402.02675.pdf) - academic text by Tobin South, Alexander Camuto, Shrey Jain, Shayla Nguyen, Robert Mahari, Christian Paquin, Jason Morton and Alex 'Sandy' Pentland. (05.02.2024)
+
 
 ### ZK projects
 * [Immutable zkEVM Mainnet Early Access is Live](https://www.immutable.com/blog/immutable-zkevm-mainnet-early-access-is-live?utm_source=discord&utm_medium=social&utm_campaign=0129_passport). (30.01.2024)
@@ -57,7 +60,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 ### Upcoming events
 * [Journal of Cryptology Call for Papers: Topical Collection on Modern Zero-Knowledge Protocols](https://iacr.org/jofc/TopicalCollection-mzkp.html) -  submissions will be open to March 1st, 2024. 
 * [ETHTaipei 2024](https://ethtaipei.org/) - Ethereum event on February/March 2024 in Taipei City, Taiwan.
-* [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
 * [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
 * [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
