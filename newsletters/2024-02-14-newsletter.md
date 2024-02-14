@@ -2,10 +2,13 @@
 Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
 
 ### Top picks
+* [The State of ZK report for Q4 2023](https://zkvalidator.com/the-state-of-zk/). (08.02.2024)
+* [Beyond Limits: Pushing the Boundaries of ZK-EVM](https://toposware.medium.com/beyond-limits-pushing-the-boundaries-of-zk-evm-9dd0c5ec9fca) - article by Toposware. (09.02.2024)
 
 ### New articles 
 * [How Zero-Knowledge Proofs and Rank-1 Constraint Systems Transform Blockchain Scalability](https://hackernoon.com/how-zero-knowledge-proofs-and-rank-1-constraint-systems-transform-blockchain-scalability) - article by escholar. (08.02.2024)
-* [The State of ZK report for Q4 2023](https://zkvalidator.com/the-state-of-zk/?utm_source=twitter&utm_medium=bio). (08.02.2024)
+* [The State of ZK report for Q4 2023](https://zkvalidator.com/the-state-of-zk/). (08.02.2024)
+* [When RISC0 Met Nix](https://medium.com/casperblockchain/announcing-risc0pkgs-your-risc0-zero-knowledge-project-built-and-deployed-with-nix-1b7e22330219). (08.02.2024)
 * [How does Basefold polynomial commitment scheme generalize FRI](https://blog.lambdaclass.com/how-does-basefold-polynomial-commitment-scheme-generalize-fri/) - article by LambdaClass. (09.02.2024)
 * [The Rollup Coaster #19](https://taiko.mirror.xyz/08LAuRcaphK2i7ETM1OfcuyNB0uAlmBG0Lmx7bJzhiI) - biweekly update on rollup world. (09.02.2024)
 * [Shedding light on Blockchain privacy issues](https://medium.com/hack-a-chain/shedding-light-on-the-blockchain-privacy-narrative-46cd560935f2) - article by João Veiga. (09.02.2024)
@@ -22,11 +25,13 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [General Adversary Structures in Byzantine Agreement and Multi-Party Computation with Active and Omission Corruption](https://eprint.iacr.org/2024/209.pdf) - academic text by Konstantinos Brazitikos and Vassilis Zikas. (12.02.2024)
 * [Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use](https://eprint.iacr.org/2024/203.pdf) - academic text by Andreea Alexandru, Ahmad Al Badawi, Daniele Micciancio and Yuriy Polyakov. (12.02.2024)
 
+### ZKML
+* [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](https://arxiv.org/pdf/2402.06414.pdf) - academic text by Bianca-Mihaela Ganescu and Jonathan Passerat-Palmbach. (09.02.2024)
+
 ### ZK projects
 * [Risc0 - zkVM Release v0.20 is live](https://twitter.com/RiscZero/status/1755349613660561919). (07.02.2024)
 * [Scroll - Protocol Upgrade: Bridging Cost Reduction](https://scroll.io/blog/protocol-upgrade-bridging-cost-reduction). (07.02.2024)
 * [Upgrade Every EVM Chain to ZK: Introducing the Type 1 Prover](https://polygon.technology/blog/upgrade-every-evm-chain-to-zk-introducing-the-type-1-prover). (08.02.2024)
-* [When RISC0 Met Nix](https://medium.com/casperblockchain/announcing-risc0pkgs-your-risc0-zero-knowledge-project-built-and-deployed-with-nix-1b7e22330219). (08.02.2024)
 * [Introducing Succinct Network: The Protocol for Programmable Truth](https://blog.succinct.xyz/succinct-network/). (08.02.2024)
 * [Framing the Future of DApps with zkOracles](https://mirror.xyz/orablog.eth/S7mnsIe6ReUKa9IoGOpMceLmVmQdHzsi4YkPmPPeVBk). (09.02.2024)
 * [Scroll - Mainnet Weekly Update](https://twitter.com/Scroll_ZKP/status/1756453438819594567). (11.01.2024)

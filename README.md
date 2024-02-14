@@ -297,6 +297,10 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [How to Implement a Minimalist NFT zkRollup](https://medium.com/coinmonks/how-to-implement-a-minimalist-nft-zkrollup-b93fd4e326ad) - article by Laszlo Fazekas from January 2024. 
 * [Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication](https://arxiv.org/pdf/2401.09521.pdf) - academic text by Marta I. Garcia-Cid, Dileepsai Bodanapu, Alberto Gatto, Paolo Martelli, Vicente Martin, Laura Ortiz from January 2024.
 * [Tree-based Lookup Table on Batched Encrypted Queries using Homomorphic Encryption](https://eprint.iacr.org/2024/087.pdf) - academic text by Jung Hee Cheon, Hyeongmin Choe and Jai Hyun Park from January 2024.
+* [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](https://arxiv.org/pdf/2402.06414.pdf) - academic text by Bianca-Mihaela Ganescu and Jonathan Passerat-Palmbach from February 2024.
+* [Helium: Scalable MPC among Lightweight Participants and under Churn](https://eprint.iacr.org/2024/194.pdf) - academic text by Christian Mouchet, Sylvain Chatel, Apostolos Pyrgelis and Carmela Troncoso from February 2024.
+* [General Adversary Structures in Byzantine Agreement and Multi-Party Computation with Active and Omission Corruption](https://eprint.iacr.org/2024/209.pdf) - academic text by Konstantinos Brazitikos and Vassilis Zikas from February 2024.
+* [Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use](https://eprint.iacr.org/2024/203.pdf) - academic text by Andreea Alexandru, Ahmad Al Badawi, Daniele Micciancio and Yuriy Polyakov  from February 2024.
 
 ### Projects 
 Projects that are using ZK-technology.
