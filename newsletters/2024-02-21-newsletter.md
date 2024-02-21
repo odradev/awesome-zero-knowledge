@@ -2,6 +2,9 @@
 The release details recent academic research, showcasing advancements such as perfectly-secure MPC with constant online communication complexity and adaptively sound ZK-SNARKs for UP.
 
 ### Top picks
+* [Succinct Processor 1 (SP1) is announced](https://twitter.com/SuccinctLabs/status/1757832224958001596). (14.02.2024)
+* [EIP 4844: What does it mean for L2 users?](https://medium.com/offchainlabs/eip-4844-what-does-it-mean-for-l2-users-5e86ebc4c028) - article by Ed Felten. (14.02.2024)
+* [Axelar Tech Talk: Building With ZK Proofs | Tim Carstens from RISC Zero](https://www.youtube.com/watch?v=b3YUumKAr7M). (20.02.2024)
 
 ### MPC
 * [Perfectly-Secure MPC with Constant Online Communication Complexity](https://eprint.iacr.org/2024/242.pdf) - academic text by Yifan Song and Xiaxi Ye. (16.02.2024)
