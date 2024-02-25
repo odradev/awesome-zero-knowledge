@@ -44,7 +44,6 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [What the heck is a Zero-Knowledge Proof, anyway?](https://www.zkcamp.xyz/blog/what-is-a-zkp-anyway) - a simple explanation of the topic by Preethi Kasireddy.
 * [What Are ZK-Rollups and Optimistic Rollups?](https://www.altcoinbuzz.io/reviews/crypto-education/what-are-zk-rollups-and-optimistic-rollups/) - article introducing ZK-Rollups by Lawrence Mike Woriji.
 * [What is Zero Knowledge Proof? A simple explanation](https://priyalwalpita.medium.com/what-is-zero-knowledge-proof-a-simple-explanation-c1e204493edf) - article explaining ZKPs by Piryal Walpita.
-* [An introduction to zero-knowledge machine learning (ZKML)](https://worldcoin.org/blog/engineering/intro-to-zkml) - article introducing ZKML.
 * [What is Zero-knowledge technology?](https://oakchain.medium.com/what-is-zero-knowledge-technology-cc5abe53aa02) - article introducing ZK by Oak.
 * [What Are Ethereum Rollups? A Step Forward to Scale Ethereum](https://unilend.medium.com/what-are-ethereum-rollups-a-step-forward-to-scale-ethereum-de89a5df8c4) - article shortly explaining Rollups by UniLend Finance.
 * [zk-SNARK Concepts Explained Like You’re 15](https://sjkelleyjr.medium.com/zk-snark-concepts-explained-like-youre-15-54755f87c6d1) - article explaining zk-SNARKs by Jackson Kelley.
