@@ -86,7 +86,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Zero Knowledge Proofs MOOC](https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs) - lectures from Zero Knowledge Proofs MOOC - Spring '23.
 * [StarkWare Sessions 2023 Day 1](https://www.youtube.com/watch?v=6wLzFXbSqQU) and [Day 2](https://www.youtube.com/watch?v=dIPx3zITSvo) - recording of StarkWare conference from February 2023.
 * [The 13th BIU Winter School on cryptography](https://cyber.biu.ac.il/event/the-13th-biu-winter-school-on-cryptography/) - course from February 2023 in Bar-Ilan University, Israel. Slides are available on the page.
-* [ETHDenver 2023](https://www.ethdenver.com/) - Ethereum event from February 24 to March 5, 2023. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
+* [ETHDenver](https://www.ethdenver.com/) - yearly Ethereum event on February/March. Videos are available [here](https://www.youtube.com/playlist?list=PLAy4HNUNlzRlPMWDNd1Oxun1X54EqP8K1).
 * [European WEB3 summit 2023](https://www.web3eurosummit.eu/) - Summit in May 2023 in Brussels, Belgium.
 * [zkSummit](https://www.zksummit.com/) - a cyclical summit on Zero Knowledge. Recordings from events are available [here](https://www.youtube.com/watch?v=sj5yY3wguIo&list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7).
 * [ZK HACK](https://zkhack.dev/zkhackIII/) - a virtual events featuring workshops and advanced puzzle-solving competitions. Recordings are available [here](https://www.youtube.com/playlist?list=PLj80z0cJm8QFGB6AsiAG3EB06L7xr5S1c).
@@ -106,17 +106,15 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 
 ### Upcoming events
-* [Journal of Cryptology Call for Papers: Topical Collection on Modern Zero-Knowledge Protocols](https://iacr.org/jofc/TopicalCollection-mzkp.html) -  submissions will be open to March 1st, 2024. 
-* [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024 in Denver, USA.
 * [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
 * [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
 * [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
-* [EthPrague 2024](https://ethprague.com/) - conference on May/June 2023.
+* [EthPrague 2024](https://ethprague.com/) - conference on May/June 2024.
 * [The Ethereum Community Conference 2024](https://ethcc.io/) - conference on July 2024 in Brussels, Belgium. 
-* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
+* [Korea Blockchain Week 2024](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
 * [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
 
@@ -300,6 +298,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Helium: Scalable MPC among Lightweight Participants and under Churn](https://eprint.iacr.org/2024/194.pdf) - academic text by Christian Mouchet, Sylvain Chatel, Apostolos Pyrgelis and Carmela Troncoso from February 2024.
 * [General Adversary Structures in Byzantine Agreement and Multi-Party Computation with Active and Omission Corruption](https://eprint.iacr.org/2024/209.pdf) - academic text by Konstantinos Brazitikos and Vassilis Zikas from February 2024.
 * [Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use](https://eprint.iacr.org/2024/203.pdf) - academic text by Andreea Alexandru, Ahmad Al Badawi, Daniele Micciancio and Yuriy Polyakov  from February 2024.
+* [A New Approach for Non-Interactive Zero-Knowledge from Learning with Errors](https://eprint.iacr.org/2024/340.pdf) - academic text by Brent Waters from February 2024.
 
 ### Projects 
 Projects that are using ZK-technology.

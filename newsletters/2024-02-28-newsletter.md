@@ -2,6 +2,10 @@
 The release details focus on cryptographic techniques such as Fermat NTT, TFHE, and SNARKs, alongside advancements in ZKML with additional coverage of recordings from ETH Denver 2024.
 
 ### Top picks
+* [A New Approach for Non-Interactive Zero-Knowledge from Learning with Errors](https://eprint.iacr.org/2024/340.pdf) - academic text by Brent Waters. (27.02.2024)
+* [Risc0 - When the Doom Music Kicks In](https://www.risczero.com/news/when-the-doom-music-kicks-in). (22.02.2024)
+* [Scaling Intelligence](https://medium.com/@ModulusLabs/chapter-13-scaling-intelligence-637d4a374153) - article by Modulus. (26.02.2024)
+* [Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs](https://arxiv.org/pdf/2402.16735.pdf) - academic text by Oleksandr Kurbatov, Dmytro Zakharov, Anton Levochko, Kyrylo Riabov and Bohdan Skriabin. (26.02.2024)
 
 ### Conferences
 * [ETHDenver 2024](http://ethdenver.com/) - Ethereum event on February/March 2024 in Denver, USA. Videos from event can be found [here](https://www.youtube.com/@ETHDenver/videos).
