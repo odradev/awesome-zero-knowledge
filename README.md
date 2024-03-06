@@ -299,6 +299,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [General Adversary Structures in Byzantine Agreement and Multi-Party Computation with Active and Omission Corruption](https://eprint.iacr.org/2024/209.pdf) - academic text by Konstantinos Brazitikos and Vassilis Zikas from February 2024.
 * [Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use](https://eprint.iacr.org/2024/203.pdf) - academic text by Andreea Alexandru, Ahmad Al Badawi, Daniele Micciancio and Yuriy Polyakov  from February 2024.
 * [A New Approach for Non-Interactive Zero-Knowledge from Learning with Errors](https://eprint.iacr.org/2024/340.pdf) - academic text by Brent Waters from February 2024.
+* [Parallel Zero-knowledge Virtual Machine](https://eprint.iacr.org/2024/387.pdf) - academic text by Wenqing Hu, Tianyi Liu, Ye Zhang, Yuncong Zhang and Zhenfei Zhang from March 2024.
 
 ### Projects 
 Projects that are using ZK-technology.

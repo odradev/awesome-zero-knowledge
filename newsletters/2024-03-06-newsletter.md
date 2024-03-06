@@ -2,6 +2,9 @@
 The release details encompass updates on zero-knowledge proof projects, including Stwo Prover's next-gen STARK scaling, alongside recordings from ETH Denver 2024.
 
 ### Top picks
+* [#ETHDenver24 - Coral Stage - Next Generation ZKP Systems and Single Slot](https://www.youtube.com/watch?v=YA9cmJI17Jw). (29.02.2024)
+* [Parallel Zero-knowledge Virtual Machine](https://eprint.iacr.org/2024/387.pdf) - academic text by Wenqing Hu, Tianyi Liu, Ye Zhang, Yuncong Zhang and Zhenfei Zhang. (04.03.2024)
+* [The Last Challenge Attack: Exploiting a Vulnerable Implementation of the Fiat-Shamir Transform in a KZG-based SNARK](https://eprint.iacr.org/2024/398.pdf) - academic text by Oana Ciobotaru, Maxim Peter and Vesselin Velichkov. (05.03.2024)
 
 ### Reading materials 
 * [The Avail Vision: Accelerating the Unification of Web3](https://blog.availproject.org/the-avail-vision-accelerating-the-unification-of-web3/) - article by Anurag Arjun. (26.02.2024)
