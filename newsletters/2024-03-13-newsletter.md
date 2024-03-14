@@ -2,6 +2,9 @@
 This release details topics such as enhanced security, quantum emergency strategies, scalable frameworks for SNARKs and blockchain applications for securing personal documents.
 
 ### Top picks
+* [Thread about ZKML.](https://twitter.com/wacy_time1/status/1766080135021666444) (08.03.2024)
+* [Turn a WASM-Based Browser Application into an Ethereum Rollup via ZKWASM - Sinka](https://www.youtube.com/watch?v=Ghi4_i96294). (09.03.2024)
+* [Mangrove: A Scalable Framework for Folding-based SNARKs](https://eprint.iacr.org/2024/416.pdf) - academic text by Wilson Nguyen, Trisha Datta, Binyi Chen, Nirvan Tyagi and Dan Boneh. (11.03.2024)
 
 ### Reading materials 
 * [From Zero to Hero in Zero Knowledge Proofs [Part 11]](https://medium.com/coinmonks/from-zero-to-hero-in-zero-knowledge-proofs-part-11-dfed11aad838) - article by Hira Siddiqui. (07.03.2024)
@@ -51,6 +54,7 @@ This release details topics such as enhanced security, quantum emergency strateg
 * [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
 * [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
+* [Paris Blockchain Week 2024](https://www.parisblockchainweek.com/) - conference on April 2024 in Paris, France.
 * [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
