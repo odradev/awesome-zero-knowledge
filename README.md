@@ -109,6 +109,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
 * [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
+* [Paris Blockchain Week 2024](https://www.parisblockchainweek.com/) - conference on April 2024 in Paris, France.
 * [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
@@ -300,6 +301,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use](https://eprint.iacr.org/2024/203.pdf) - academic text by Andreea Alexandru, Ahmad Al Badawi, Daniele Micciancio and Yuriy Polyakov  from February 2024.
 * [A New Approach for Non-Interactive Zero-Knowledge from Learning with Errors](https://eprint.iacr.org/2024/340.pdf) - academic text by Brent Waters from February 2024.
 * [Parallel Zero-knowledge Virtual Machine](https://eprint.iacr.org/2024/387.pdf) - academic text by Wenqing Hu, Tianyi Liu, Ye Zhang, Yuncong Zhang and Zhenfei Zhang from March 2024.
+* [Mangrove: A Scalable Framework for Folding-based SNARKs](https://eprint.iacr.org/2024/416.pdf) - academic text by Wilson Nguyen, Trisha Datta, Binyi Chen, Nirvan Tyagi and Dan Boneh from March 2024.
 
 ### Projects 
 Projects that are using ZK-technology.
