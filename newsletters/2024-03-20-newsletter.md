@@ -1,11 +1,13 @@
 # ZK Newsletter for 2024-03-20
-Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
+This release details Modulus's article on the world's first On-Chain LLM and Jeffrey Scholz's exploration of hacking underconstrained Circom circuits with fake proofs. 
 
 ### Top picks
+* [Chapter 14: The World’s 1st On-Chain LLM](https://medium.com/@ModulusLabs/chapter-14-the-worlds-1st-on-chain-llm-7e389189f85e) - article by Modulus. (15.03.2024)
+* [Hacking Underconstrained Circom Circuits With Fake Proofs](https://www.rareskills.io/post/underconstrained-circom) - article by Jeffrey Scholz. (18.03.2024)
+* [Understanding Dencun, the biggest upgrade to Ethereum since The Merge](https://a16zcrypto.com/posts/article/understanding-dencun-upgrade-protodanksharding-surge-merge/) - article by Noah Citron and Valeria Nikolaenko. (18.03.2024)
 
 ### Reading materials 
 * [ZK Fraud Proof with ZK State Channel](https://ethresear.ch/t/zk-fraud-proof-with-zk-state-channel/19004/1) - article by 0x1cc. (14.03.2024)
-* [Plan your defense: A comparative analysis of leakage detection methods on RISC-V cores](https://eprint.iacr.org/2024/423.pdf) - academic text by Konstantina Miteloudi, Asmita Adhikary, Niels van Drueten, Lejla Batina and Ileana Buhan. (15.03.2024)
 * [SoK: Zero-Knowledge Range Proofs](https://eprint.iacr.org/2024/430.pdf) - academic text by Miranda Christ, Foteini Baldimtsi, Konstantinos Kryptos Chalkias, Deepak Maram, Arnab Roy and Joy Wang. (15.03.2024)
 * [Chapter 14: The World’s 1st On-Chain LLM](https://medium.com/@ModulusLabs/chapter-14-the-worlds-1st-on-chain-llm-7e389189f85e) - article by Modulus. (15.03.2024)
 * [What are ZK Rollups and How do they Work?](https://medium.com/coinmonks/what-are-zk-rollups-and-how-do-they-work-0a01327ac5ed) - article by Zara Zyana. (15.03.2024)
