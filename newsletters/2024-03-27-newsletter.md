@@ -1,14 +1,16 @@
 # ZK Newsletter for 2024-03-27
-Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
+This release details research on verifiable delay functions and zkLLM, alongside insights into zkWasm's developer choices, highlighting key advancements in the field.
 
 ### Top picks
+* [Watermarkable and Zero-Knowledge Verifiable Delay Functions from any Proof of Exponentiation](https://eprint.iacr.org/2024/481.pdf) - academic text by Charlotte Hoffmann and Krzysztof Pietrzak. (22.03.2024)
+* [Folding-based zkLLM](https://eprint.iacr.org/2024/480) - academic text by Wilbert W. (22.03.2024)
+* [Modular VM: How zkWasm Enables Developer Choice | Avail's Hot Take Series: The Execution Race](https://www.youtube.com/watch?v=klcqnsfwY3c). (22.03.2024)
 
 ### Reading materials 
 * [Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS](https://arxiv.org/pdf/2403.14020) - academic text by Ye Tao, Hongyi Wu, Ehsan Javanmardi, Manabu Tsukada and Hiroshi Esaki. (20.03.2024)
 * [Security Risks in ZK Bridges](https://twitter.com/ShieldifySec/status/1770483940903571472) - thread by Shieldify. (20.03.2024)
 * [ZK Proofs for Balancing Privacy and Accountability](https://zkproof.org/2024/03/21/zk-proofs-for-balancing-privacy-and-accountability-by-anna-lysyanskaya/) - article by Anna Lysyanskaya. (21.03.2024)
 * [Watermarkable and Zero-Knowledge Verifiable Delay Functions from any Proof of Exponentiation](https://eprint.iacr.org/2024/481.pdf) - academic text by Charlotte Hoffmann and Krzysztof Pietrzak. (22.03.2024)
-* [Folding-based zkLLM](https://eprint.iacr.org/2024/480) - academic text by Wilbert W. (22.03.2024)
 * [VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets](https://arxiv.org/pdf/2403.15208) - academic text by Mohammed Alghazwi, Dewi Davies-Batista, Dimka Karastoyanova and Fatih Turkmen. (22.03.2024)
 * [Quantifying Arbitrage in Automated Market Makers: An Empirical Study of Ethereum ZK Rollups](https://arxiv.org/pdf/2403.16083) - academic text by Krzysztof Gogol, Johnnatan Messias, Deborah Miori, Claudio Tessone and Benjamin Livshits.
 * [zkEVM simply explained by a Japanese Venture Capitalist](https://medium.com/@hiyama.yutaro/zkevm-simply-explained-by-a-japanese-venture-capitalist-8db3756a4a81) - article by Hiyama Yutaro. (25.03.2024)
@@ -17,7 +19,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Getting Started with RISC Zero (playlist)](https://www.youtube.com/playlist?list=PLcPzhUaCxlCj7wKkzekYYq7QDvtGTOPm7). (21.03.2024)
 * [CryptIst I The Power of Zero-Knowledge Proofs with Emre Tekişalp from O(1) Labs](https://www.youtube.com/watch?v=Bw0vkaXHSoc). (22.03.2024)
 * [Ziyi Guan: Security Bounds for Proof-Carrying Data from Straightline Extractors](https://www.youtube.com/watch?v=bNbwjcShIQc). (22.03.2024)
-* [Worldcoin Orb codebase walkthrough](https://www.youtube.com/watch?v=h6AjLyj6ics). (22.03.2024)
 * [Modular VM: How zkWasm Enables Developer Choice | Avail's Hot Take Series: The Execution Race](https://www.youtube.com/watch?v=klcqnsfwY3c). (22.03.2024)
 * [EcoNodes Talk: Jerone van de Graaf - Implementing a Modular zkVM Using Lookups](https://www.youtube.com/watch?v=Z4sLoJ5s12g). (23.03.2024)
 * [RISC Zero Foundry Template -- Code Walkthrough (playlist)](https://www.youtube.com/playlist?list=PLcPzhUaCxlCgsTtFen4oxFIDkUMSVSFFo). (24.03.2024)
@@ -27,6 +28,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Absolutely Zero Knowledge Podcast](https://www.youtube.com/watch?v=Uqh4OrgQvSE) episode - *Episode 8: Teemu Päivinen*. (26.03.2024)
 
 ### ZKML
+* [Folding-based zkLLM](https://eprint.iacr.org/2024/480) - academic text by Wilbert W. (22.03.2024)
 * [How Modulus' ZKml get authentic Results through On-Chain AI](https://www.youtube.com/watch?v=jH9To2crdxM). (24.03.2024)
 
 ### MPC
