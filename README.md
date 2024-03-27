@@ -107,15 +107,15 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 
 ### Upcoming events
 * [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
-* [RWC 2024](https://rwc.iacr.org/2024/) - conference on March 2024 in Toronto, Canada. 
 * [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
 * [Paris Blockchain Week 2024](https://www.parisblockchainweek.com/) - conference on April 2024 in Paris, France.
 * [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
+* [ZH Hack Kraków](https://www.zkkrakow.com/) - zk-hackathon on May 2024 in Kraków, Poland.
 * [EthPrague 2024](https://ethprague.com/) - conference on May/June 2024.
 * [The Ethereum Community Conference 2024](https://ethcc.io/) - conference on July 2024 in Brussels, Belgium. 
-* [Korea Blockchain Week 2024](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
+* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
 * [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
 
@@ -302,7 +302,9 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [A New Approach for Non-Interactive Zero-Knowledge from Learning with Errors](https://eprint.iacr.org/2024/340.pdf) - academic text by Brent Waters from February 2024.
 * [Parallel Zero-knowledge Virtual Machine](https://eprint.iacr.org/2024/387.pdf) - academic text by Wenqing Hu, Tianyi Liu, Ye Zhang, Yuncong Zhang and Zhenfei Zhang from March 2024.
 * [Mangrove: A Scalable Framework for Folding-based SNARKs](https://eprint.iacr.org/2024/416.pdf) - academic text by Wilson Nguyen, Trisha Datta, Binyi Chen, Nirvan Tyagi and Dan Boneh from March 2024.
-
+* [Watermarkable and Zero-Knowledge Verifiable Delay Functions from any Proof of Exponentiation](https://eprint.iacr.org/2024/481.pdf) - academic text by Charlotte Hoffmann and Krzysztof Pietrzak from March 2024.
+* [Folding-based zkLLM](https://eprint.iacr.org/2024/480) - academic text by Wilbert W from March 2024.
+ 
 ### Projects 
 Projects that are using ZK-technology.
 
