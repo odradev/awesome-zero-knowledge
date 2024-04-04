@@ -2,6 +2,9 @@
 This release details topics such as Ethereum's blobs, cryptographic fog of war, zkMesh recap, efficient SNARKs, MPC constructions.
 
 ### Top picks
+* [An Efficient SNARK for Field-Programmable and RAM Circuits](https://eprint.iacr.org/2024/507.pdf) - academic text by Jehyuk Jang and Jamie Judd. (01.04.2024)
+* [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html) - post by Vitalik Buterin. (28.03.2024)
+* [Cryptographic Fog of War](https://medium.com/@ingonyama/cryptographic-fog-of-war-9b8785ba744a) - article by Ingonyama. (29.03.2024)
 
 ### Reading materials 
 * [Ethereum has blobs. Where do we go from here?](https://vitalik.eth.limo/general/2024/03/28/blobs.html) - post by Vitalik Buterin. (28.03.2024)
