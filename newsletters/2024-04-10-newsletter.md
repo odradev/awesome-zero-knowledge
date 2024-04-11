@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-04-10
-Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
+This release details a16z's release of zkVM "Jolt," RISC Zero's incorporation of ZK coprocessors and on-chain identity and recordings from RWC 2024.
 
 ### Top picks
+* [a16z releases zkVM called "Jolt"](https://a16zcrypto.com/posts/article/a-new-era-in-snark-design-releasing-jolt/). (09.04.2024)
+* [RISC Zero: ZK Coprocessors, On-chain Identity, and More: What You Can do with RISC Zero](https://www.youtube.com/watch?v=DzOWh3Ht0_Q). (03.04.2024)
+* [LaZer: a Lattice Library for Zero-Knowledge and Succinct Proofs (RWC 2024)](https://www.youtube.com/watch?v=NlQNOPlxFOQ). (07.04.2024)
+* [The Good, The Bad, and The Ugly — Lessons from an MPC for Social Good Deployment (RWC 2024)](https://www.youtube.com/watch?v=l-HrnrnB6dU). (08.04.2024)
 
 ### Reading materials 
 * [NISTs Views on Standardisation of Advanced Cryptography by René Peralta](https://zkproof.org/2024/04/03/nists-views-on-standardisation-of-advanced-cryptography-by-rene-peralta/) - article by ZKProof. (03.04.2024)
@@ -15,6 +19,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [What Makes Zero-Knowledge Encryption So Hyped? A Beginner’s Guide](https://medium.com/coinmonks/what-makes-zero-knowledge-encryption-so-hyped-a-beginners-guide-17c704971570) - article by Albert Peter. (08.04.2024)
 * [Mechanism Design for ZK-Rollup Prover Markets](https://arxiv.org/pdf/2404.06495) - academic text by Wenhao Wang, Lulu Zhou, Aviv Yaish, Fan Zhang, Ben Fisch and Benjamin Livshits. (09.04.2024)
 * [Zero-knowledge proofs of identity using electronic passports](https://ethresear.ch/t/zero-knowledge-proofs-of-identity-using-electronic-passports/19263) - post by turboblitz. (09.04.2024)
+* [a16z releases zkVM called "Jolt"](https://a16zcrypto.com/posts/article/a-new-era-in-snark-design-releasing-jolt/). (09.04.2024)
 
 ### Watching materials
 * [RISC Zero: ZK Coprocessors, On-chain Identity, and More: What You Can do with RISC Zero](https://www.youtube.com/watch?v=DzOWh3Ht0_Q). (03.04.2024)
@@ -24,7 +29,7 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [The Good, The Bad, and The Ugly — Lessons from an MPC for Social Good Deployment (RWC 2024)](https://www.youtube.com/watch?v=l-HrnrnB6dU). (08.04.2024)
 * [Do Not Trust Anybody: ZK Proofs for Image Transformations Tile by Tile on Your Laptop (RWC 2024)](https://www.youtube.com/watch?v=X8ebjijCTMA). (08.04.2024)
 * [Playlist with recordings from RWC 2024](https://www.youtube.com/playlist?list=PLeeS-3Ml-rprAsk-5xAAPHB_3mhBb42jV). (08.04.2024)
-* [ CS528: Int. to Secure Multi-party Computation (SMC)](https://www.youtube.com/watch?v=Ywjm52Bcgmg). (09.04.2024)
+* [CS528: Int. to Secure Multi-party Computation (SMC)](https://www.youtube.com/watch?v=Ywjm52Bcgmg). (09.04.2024)
 
 ### Listening materials
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/318-2/) episode - *Episode 318: Threshold Signature Schemes & FROST with Chelsea Komlo*. (03.04.2024) 
@@ -46,7 +51,6 @@ Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the
 * [Scroll - Mainnet Weekly Update](https://twitter.com/Scroll_ZKP/status/1776387314685723027). (06.04.2024)
 * [Manta Network - Introducing the inaugural cohort of the zkAcc program](https://mantanetwork.medium.com/introducing-the-inaugural-cohort-of-the-zkacc-program-52c39e00a088). (09.04.2024)
 * [Mainnet Launch Announcement: EigenLayer ∞ EigenDA](https://www.blog.eigenlayer.xyz/mainnet-launch-eigenlayer-eigenda/). (09.04.2024)
-* [a16z releases zkVM called "Jolt"](https://a16zcrypto.com/posts/article/a-new-era-in-snark-design-releasing-jolt/). (09.04.2024)
 
 ### Conferences
 * [Paris Blockchain Week 2024](https://www.parisblockchainweek.com/) - conference on April 2024 in Paris, France.
