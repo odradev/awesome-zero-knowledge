@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-04-17
-Stay in the loop with our Zero Knowledge Newsletter - Your weekly roundup of the latest news, developments, breakthroughs, and innovations in the world of zero knowledge.
+This release details topics such as the exploration of zkEVM, the introduction of recursive zkRollups for Mina, and discussions on security proofs of SNARKs and recordings from ZK Summit.
 
 ### Top picks
+* [Zero Knowledge Summit 11 - Live Stream](https://www.youtube.com/watch?v=ZcqgXPFIwsE). (10.04.2024)
+* [An Exploration of zkEVM](https://medium.com/@chaisomsri96/an-exploration-of-zkevm-7ef744849866). (11.04.2024)
+* [Introducing recursive zkRollups: A recursive improvement to zkRollups and zkApps for Mina](https://minaprotocol.com/blog/recursive-zkrollups-hazook). (11.04.2024)
+* [Michal Zajac - Security proofs of SNARKs and its applicability | Nethermind, Encrypt London 2024](https://www.youtube.com/watch?v=1peaT8j9CGU). (16.04.2024)
 
 ### Reading materials 
 * [An Exploration of zkEVM](https://medium.com/@chaisomsri96/an-exploration-of-zkevm-7ef744849866). (11.04.2024)
