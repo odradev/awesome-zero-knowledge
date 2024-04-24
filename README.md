@@ -106,18 +106,20 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain.
 * [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 
 ### Upcoming events
-* [ETHSeoul 2024](https://www.ethseoul.org/) - conference on March 2024 in Seoul, South Korea. 
-* [zkSummit11](https://www.zksummit.com/) - a summit on Zero Knowledge on April 2024 in Athens, Greece. 
-* [Paris Blockchain Week 2024](https://www.parisblockchainweek.com/) - conference on April 2024 in Paris, France.
-* [World Blockchain Summit 2024](https://www.worldblockchainsummit.com/dxb-apr-24) - summit on April 2024 in Dubai, United Arab Emirates.
+* [ZH Hack Kraków](https://www.zkkrakow.com/) - hackathon on May 2024 in Kraków, Poland.
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
 * [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
-* [ZH Hack Kraków](https://www.zkkrakow.com/) - zk-hackathon on May 2024 in Kraków, Poland.
+* [ETHBerlin](https://ethberlin.org/) - conference on May 2024 in Berlin, Germany.
 * [EthPrague 2024](https://ethprague.com/) - conference on May/June 2024.
+* [FHE Summit 2024](https://twitter.com/FHEOnchain/status/1777666116455911823/photo/1/) - summit on July 2024 in Brussels, Belgium. 
+* [ETHGlobal Brussels](https://ethglobal.com/events/brussels) - conference on July 2024 in Brussels, Belgium. 
 * [The Ethereum Community Conference 2024](https://ethcc.io/) - conference on July 2024 in Brussels, Belgium. 
-* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
+* [Korea Blockchain Week 2024](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
+* [ETHGlobal Singapore](https://ethglobal.com/events/singapore2024) - conference on September 2024 in Singapore.
+* [ETHGlobal San Francisco](https://ethglobal.com/events/sanfrancisco2024) - conference on October 2024 in San Francisco, USA.
 * [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
 * [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
+* [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok) - conference on November 2024 in Bangkok, Thailand. 
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
