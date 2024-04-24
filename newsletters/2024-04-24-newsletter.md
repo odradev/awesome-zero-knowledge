@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-04-24
-This release details...
+This release details leveraging RISC Zero’s zkVM for Bitcoin scalability, insights into the trusted setup phase of the Groth16 protocol, integration of Celestia’s Modular Data Availability Layer into the Mina Protocol.
 
 ### Top picks
+* [How to Leverage RISC Zero’s zkVM to Scale Bitcoin](https://www.risczero.com/blog/how-to-leverage-risc-zeros-zkvm-to-scale-bitcoin). (23.04.2024)
+* [What happens in the trusted setup phase of the Groth16 protocol](https://leducphong.medium.com/what-happens-in-the-trusted-setup-phase-of-the-groth16-protocol-0a7764ac8080) - article by Le Đức Phong. (22.04.2024)
+* [zkSummit 11 (playlist)](https://www.youtube.com/playlist?list=PLj80z0cJm8QFy2umHqu77a8dbZSqpSH54). (18.04.2024)
+* [Mina Protocol to Integrate Celestia’s Modular Data Availability Layer](https://minaprotocol.com/blog/celestia-da-integration). (23.04.2024)
 
 ### Reading materials 
 * [Privacy-Preserving UCB Decision Process Verification via zk-SNARKs](https://arxiv.org/pdf/2404.12186) - academic text by Xikun Jiang, He Lyu, Chenhao Ying, Yibin Xu, Boris Düdder and Yuan Luo. (18.04.2024)
