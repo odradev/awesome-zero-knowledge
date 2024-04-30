@@ -12,7 +12,8 @@ This release details...
 * [Binius: highly efficient proofs over binary fields](https://vitalik.eth.limo/general/2024/04/29/binius.html) - blog post by Vitalik Buterin. (29.04.2024)
 * [Finite Fields for Arithmetic Circuits](https://www.rareskills.io/post/finite-fields) - article by Jeffrey Scholz. (29.04.2024)
 * [ZkUniverse #7](https://medium.com/@ZkCampus/zkuniverse-7-067ca6a59e1d). (29.04.2024)
-<!--* [zkMesh: April 2024 recap](powinno być dodane we wtorek). (30.04.2024)-->
+* [zkMesh: April 2024 recap](https://zkmesh.substack.com/p/zkmesh-apr-2024-recap). (30.04.2024)
+* [Zero-Knowledge Proof of SHA256 Hash using zkSNARK](https://binodmx.medium.com/zero-knowledge-proof-of-sha256-hash-using-zksnark-a0638de742f2) - tutorial by Binod Karunanayake. (30.04.2024)
 
 ### Watching materials
 * [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://www.youtube.com/watch?v=W9iZMLObtUk). (24.04.2024)
@@ -37,7 +38,13 @@ This release details...
 * [Mina Protocol’s Upcoming Major Upgrade: Everything You Need to Know](https://minaprotocol.com/blog/mina-protocols-upcoming-major-upgrade-everything-you-need-to-know). (25.04.2024)
 * [cheqd -Bringing Decentralised Identity to the Interchain at Scale | Announcing our cross-IBC ZK-proofs](https://blog.cheqd.io/bringing-decentralised-identity-to-the-interchain-at-scale-announcing-our-cross-ibc-zk-proofs-deeb927ebc8f). (26.04.2024)
 * [Scroll - Mainnet Weekly Update](https://twitter.com/Scroll_ZKP/status/1784074922421256309). (27.04.2024)
+* [zkSharding for Ethereum](https://nil.foundation/blog/post/nil_zkSharding). (29.04.2024)
 * [Bringing Decentralised Identity to the Interchain at Scale | Announcing our cross-IBC ZK-proofs](https://www.blog.eigenlayer.xyz/eigen/). (29.04.2024)
+
+### Risc0
+* [How to Leverage RISC Zero's zkVM to Scale Bitcoin?](https://twitter.com/RiscZero/status/1782823656525017559). (23.04.2024)
+* [Risc0 introduces Steel](https://twitter.com/RiscZero/status/1783874642047832456). (26.04.2024)
+* [ScalingETH Async Hackathon 2024 Recap](https://www.risczero.com/blog/scalingeth-virtual-hackathon-winners). (30.04.2024)
 
 ### Upcoming events
 * [ZK Hack Kraków](https://www.zkkrakow.com/) - hackathon on May 2024 in Kraków, Poland.
@@ -56,4 +63,5 @@ This release details...
 * [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok) - conference on November 2024 in Bangkok, Thailand. 
 
 ### Our Sponsors
+* **[Risc0](https://www.risczero.com/)** - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
