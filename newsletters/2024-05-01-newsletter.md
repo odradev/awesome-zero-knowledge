@@ -44,6 +44,7 @@ This release details...
 ### Risc0
 * [How to Leverage RISC Zero's zkVM to Scale Bitcoin?](https://twitter.com/RiscZero/status/1782823656525017559). (23.04.2024)
 * [Risc0 introduces Steel](https://twitter.com/RiscZero/status/1783874642047832456). (26.04.2024)
+* [Thread about first interaction with ZK](https://x.com/bruestlejeremy/status/1783847499427729618?s=46&t=QUVg63QPIRd7v3vG9Lpz4w). (26.04.2024)
 * [ScalingETH Async Hackathon 2024 Recap](https://www.risczero.com/blog/scalingeth-virtual-hackathon-winners). (30.04.2024)
 
 ### Upcoming events
