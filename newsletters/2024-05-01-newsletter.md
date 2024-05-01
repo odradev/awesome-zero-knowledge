@@ -1,19 +1,29 @@
 # ZK Newsletter for 2024-05-01
-This release details...
+This release details Risc0's introduction of Steel, ZKSecurity's public report on lighter ZK circuits, academic research on Vision Mark-32 and zkSharding for Ethereum.
 
 ### Top picks
+* [Risc0 introduces Steel](https://twitter.com/RiscZero/status/1783874642047832456). (26.04.2024)
+* [Public report of Lighter ZK circuits](https://www.zksecurity.xyz/blog/posts/lighter-xyz/) - article by ZKSecurity. (24.04.2024)
+* [Vision Mark-32: ZK-Friendly Hash Function Over Binary Tower Fields](https://eprint.iacr.org/2024/633.pdf) - academic text by Tomer Ashur, Mohammad Mahzoun, Jim Posen and Danilo Šijačić. (26.04.2024)
+* [zkSharding for Ethereum](https://nil.foundation/blog/post/nil_zkSharding). (29.04.2024)
 
 ### Reading materials 
 * [Public report of Lighter ZK circuits](https://www.zksecurity.xyz/blog/posts/lighter-xyz/) - article by ZKSecurity. (24.04.2024)
-* [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109) - academic text by Haochen Sun, Jason Li and Hongyang Zhang. (24.04.2024)
 * [Servicifying zk-SNARKs Execution for Verifiable Off-chain Computations](https://arxiv.org/abs/2404.16915) - academic text by Alvaro Alonso Domenech, Jonathan Heiss and Stefan Tai. (25.04.2024)
 * [Vision Mark-32: ZK-Friendly Hash Function Over Binary Tower Fields](https://eprint.iacr.org/2024/633.pdf) - academic text by Tomer Ashur, Mohammad Mahzoun, Jim Posen and Danilo Šijačić. (26.04.2024)
 * [Compact and Secure Zero-Knowledge Proofs for Quantum-Resistant Cryptography from Modular Lattice Innovations](https://eprint.iacr.org/2024/652.pdf) - academic text by Samuel Lavery. (29.04.2024)
 * [Binius: highly efficient proofs over binary fields](https://vitalik.eth.limo/general/2024/04/29/binius.html) - blog post by Vitalik Buterin. (29.04.2024)
 * [Finite Fields for Arithmetic Circuits](https://www.rareskills.io/post/finite-fields) - article by Jeffrey Scholz. (29.04.2024)
+* [zkSharding for Ethereum](https://nil.foundation/blog/post/nil_zkSharding). (29.04.2024)
 * [ZkUniverse #7](https://medium.com/@ZkCampus/zkuniverse-7-067ca6a59e1d). (29.04.2024)
 * [zkMesh: April 2024 recap](https://zkmesh.substack.com/p/zkmesh-apr-2024-recap). (30.04.2024)
 * [Zero-Knowledge Proof of SHA256 Hash using zkSNARK](https://binodmx.medium.com/zero-knowledge-proof-of-sha256-hash-using-zksnark-a0638de742f2) - tutorial by Binod Karunanayake. (30.04.2024)
+
+### Risc0
+* [How to Leverage RISC Zero's zkVM to Scale Bitcoin?](https://twitter.com/RiscZero/status/1782823656525017559). (23.04.2024)
+* [Risc0 introduces Steel](https://twitter.com/RiscZero/status/1783874642047832456). (26.04.2024)
+* [Thread about first interaction with ZK](https://x.com/bruestlejeremy/status/1783847499427729618?s=46&t=QUVg63QPIRd7v3vG9Lpz4w). (26.04.2024)
+* [ScalingETH Async Hackathon 2024 Recap](https://www.risczero.com/blog/scalingeth-virtual-hackathon-winners). (30.04.2024)
 
 ### Watching materials
 * [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://www.youtube.com/watch?v=W9iZMLObtUk). (24.04.2024)
@@ -26,6 +36,7 @@ This release details...
 * [ZK-ASIC Design Discussion](https://twitter.com/cysic_xyz/status/1783887043728138594). (26.04.2024)
 
 ### ZKML
+* [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109) - academic text by Haochen Sun, Jason Li and Hongyang Zhang. (24.04.2024)
 * [AGI vs ZKML: Commitments with Qualia by Ryan and Daniel (Co-Founders of Modulus Labs)](https://www.youtube.com/watch?v=c_WXIZj5O9k). (29.04.2024)
 
 ### MPC
@@ -40,12 +51,6 @@ This release details...
 * [Scroll - Mainnet Weekly Update](https://twitter.com/Scroll_ZKP/status/1784074922421256309). (27.04.2024)
 * [zkSharding for Ethereum](https://nil.foundation/blog/post/nil_zkSharding). (29.04.2024)
 * [Bringing Decentralised Identity to the Interchain at Scale | Announcing our cross-IBC ZK-proofs](https://www.blog.eigenlayer.xyz/eigen/). (29.04.2024)
-
-### Risc0
-* [How to Leverage RISC Zero's zkVM to Scale Bitcoin?](https://twitter.com/RiscZero/status/1782823656525017559). (23.04.2024)
-* [Risc0 introduces Steel](https://twitter.com/RiscZero/status/1783874642047832456). (26.04.2024)
-* [Thread about first interaction with ZK](https://x.com/bruestlejeremy/status/1783847499427729618?s=46&t=QUVg63QPIRd7v3vG9Lpz4w). (26.04.2024)
-* [ScalingETH Async Hackathon 2024 Recap](https://www.risczero.com/blog/scalingeth-virtual-hackathon-winners). (30.04.2024)
 
 ### Upcoming events
 * [ZK Hack Kraków](https://www.zkkrakow.com/) - hackathon on May 2024 in Kraków, Poland.
