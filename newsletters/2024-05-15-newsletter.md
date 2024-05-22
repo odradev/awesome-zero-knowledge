@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-05-15
-This release details...
+This release details Risc0's Trusted Setup Ceremony, discussion on zkEVM vs zkVM and the introduction of Lens Network on Ethereum.
 
 ### Top picks
+* [Verifying RISC Zero’s Trusted Setup Ceremony](https://www.risczero.com/blog/verifying-risc-zeros-trusted-setup-ceremony). (13.05.2024)
+* [L3 Summit ETHDenver - Panel 5 - zkEVM vs zkVM - Use-cases, challenges and the future](https://www.youtube.com/watch?v=EIC6-fbU_ts). (14.05.2024)
+* [Introducing Lens Network on Ethereum](https://app.t2.world/article/clw6l2z0018727620mc1dq26xr2). (14.05.2024)
 
 ### Reading materials 
 * [Multidimensional gas pricing](https://vitalik.eth.limo/general/2024/05/09/multidim.html) - article by Vitalik Buterin. (09.05.2024)
@@ -47,7 +50,7 @@ This release details...
 * [QuickSwap: Leading Asset Exchange on Polygon Joins Frens Of Push](https://push.org/blog/quickswap-joins-frens-of-push/). (10.05.2024)
 * [ORA Points Program Handbook](https://mirror.xyz/orablog.eth/rIPt-HWG_RhwOt7nptj9jjTv7kk3IrmBz2bW5A8SNag). (13.05.2024)
 * [The Importance of Liquidity on Linea](https://linea.mirror.xyz/Iejj4WclAU-Qc_CRuZzha-0eRSI5P6UhENUnJ3ov2kU). (14.05.2024)
-* [Introducing Lens Network on Ethereum](https://app.t2.world/article/clw6l2z0018727620mc1dq26xr2). 
+* [Introducing Lens Network on Ethereum](https://app.t2.world/article/clw6l2z0018727620mc1dq26xr2). (14.05.2024)
 
 ### Upcoming events
 * [ZK Hack Kraków](https://www.zkkrakow.com/) - hackathon on May 2024 in Kraków, Poland.
