@@ -1,14 +1,16 @@
 # ZK Newsletter for 2024-05-22
-This release details...
+This release details Vitalik Buterin's strategies to enhance Ethereum's decentralization, an academic paper roposing optimizations for zkSNARKs and NovaNet's use of zero-knowledge proofs for privacy in tokenization.
 
 ### Top picks
+* [The near and mid-term future of improving the Ethereum network's permissionlessness and decentralization](https://vitalik.eth.limo/general/2024/05/17/decentralization.html) - post by Vitalik Buterin. (17.05.2024)
+* [Speeding Up Multi-Scalar Multiplications for Pairing-Based zkSNARKs](https://eprint.iacr.org/2024/750.pdf) - academic text by Xinxin Fan, Veronika Kuchta, Francesco Sica and Lei Xu. (20.05.2024)
 
 ### Reading materials 
 * [The near and mid-term future of improving the Ethereum network's permissionlessness and decentralization](https://vitalik.eth.limo/general/2024/05/17/decentralization.html) - post by Vitalik Buterin. (17.05.2024)
-* [Speeding Up Multi-Scalar Multiplications for Pairing-Based zkSNARKs](https://eprint.iacr.org/2024/750.pdf) - academic text by Xinxin Fan, Veronika Kuchta, Francesco Sica and Lei Xu. (20.05.2024)
 * [More Embedded Curves for SNARK-Pairing-Friendly Curves](https://eprint.iacr.org/2024/752.pdf) - academic text by Aurore Guillevic. (20.05.2024)
 * [ZkUniverse #10](https://medium.com/@ZkCampus/zkuniverse-10-b97198213cde). (20.05.2024)
 * [Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs](https://arxiv.org/pdf/2405.12322) - academic text by Daniel Commey, Sena Hounsinou and Garth V. Crosby. (20.05.2024)
+* [Speeding Up Multi-Scalar Multiplications for Pairing-Based zkSNARKs](https://eprint.iacr.org/2024/750.pdf) - academic text by Xinxin Fan, Veronika Kuchta, Francesco Sica and Lei Xu. (20.05.2024)
 
 ### Risc0
 * [RISC Zero takes The Rekt Test](https://www.risczero.com/blog/risc-zero-take-the-rekt-test). (16.05.2024)
@@ -16,8 +18,7 @@ This release details...
 * [Risc0 - Security Auditing Summary: zero-knowledge Virtual Machine (zkVM)](https://github.com/risc0/rz-security/blob/main/audits/README.md). (20.05.2024)
 
 ### NovaNet 
-// dwa linki poniżej ziomeczek wysłał w mailu, ale oba już mieliśmy we wcześniejszych wydaniach
-* [Binius: highly efficient proofs over binary fields](https://vitalik.eth.limo/general/2024/04/29/binius.html) - post by Vitalik Buterin. (29.04.2024)
+* [Vitalik quotes Mersenne31 and BabyBear](https://vitalik.eth.limo/general/2024/04/29/binius.html) - post by Vitalik Buterin. (29.04.2024)
 * [SigmaSuite: How to Minimize Foreign Arithmetic in ZKP Circuits While Keeping Succinct Final Verification.](https://eprint.iacr.org/2024/674.pdf) - academic text by Wyatt Benno. (03.05.2024)
 * [Leveraging ZKPs to Address Privacy Challenges in RWA Tokenization](https://www.novanet.xyz/blog/leveraging-zkps-to-address-privacy-challenges-in-rwa-tokenization). (20.05.2024)
 * [NovaNet will bring zero knowledge proofs to NYTechWeek](https://x.com/NovaNet_zkp/status/1792563311898186048). (20.05.2024)
@@ -75,3 +76,5 @@ This release details...
 * **[Risc0](https://www.risczero.com/)** - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * **[NovaNet](https://www.novanet.xyz/)** - the world’s only peer-to-peer decentralized proving network.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
+ 
+To become a sponsor mail us: contact@odra.dev.
