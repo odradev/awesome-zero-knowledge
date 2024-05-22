@@ -1,5 +1,5 @@
 # Awesome Zero Knowledge
-A curated list of Zero Knowledge links, mostly focusing on blockchain.
+A curated list of Zero Knowledge links, mostly focusing on blockchain. **Check out also our weekly [ZK Newsletter](https://zknewsletter.com/)!**
 
 ## Index
 * [Introduction](#introduction)
