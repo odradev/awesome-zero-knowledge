@@ -1,8 +1,13 @@
 # ZK Newsletter for 2024-05-29
-This release details
+This release details Recordings from ZKProof 6, Casper's introduction of LITMUS, Vitalik makes first Taiko block, Risc0 on Ethereum and succinct homomorphic secret sharing.
 
 ### Top picks
+* [Recordings from ZKProof Day 1](https://www.youtube.com/playlist?list=PLOEty2U8Y69Uzkd6MthUjWbOxQHzBAtCQ), [Day 2](https://www.youtube.com/playlist?list=PLOEty2U8Y69XR-KVpuDi4mCIOjBtUA-mQ) and [Day 3](https://www.youtube.com/playlist?list=PLOEty2U8Y69WTd1ZVXgGCTZim5TCEAB9H). (24.05.2024)
+* [Casper - Introducing LITMUS](https://medium.com/casperblockchain/introducing-litmus-27b7de6eabd3). (26.05.2024)
 * [The Ouroboros of ZK: Why Verifying the Verifier Unlocks Longer-Term ZK Innovation](https://eprint.iacr.org/2024/768.pdf) - academic text by Denis Firsov and Benjamin Livshits. (22.05.2024)
+* [Vitalik proposes the first Taiko block on Ethereum mainnet!](https://taiko.mirror.xyz/Pizjv30FvjsZUwEG-Da7Gs6F8qeDLc4CKKEBqy3pTt8). (27.05.2024)
+* [Succinct Homomorphic Secret Sharing](https://eprint.iacr.org/2024/814.pdf) - academic text by Damiano Abram, Lawrence Roy and Peter Scholl. (27.05.2024)
+* [Risc0 is coming to Ethereum](https://x.com/RiscZero/status/1795524909260501479). (28.05.2024)
 
 ### Reading materials 
 * [Sublinear-Round Broadcast without Trusted Setup](https://eprint.iacr.org/2024/770.pdf) - academic text by Andreea B. Alexandru, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos and Benedikt Wagner. (22.05.2024)
@@ -51,7 +56,7 @@ This release details
 * [Holonym - Announcing Mishti Network](https://medium.com/holonym/announcing-mishti-network-9330d90e0ead). (24.05.2024)
 * [Casper - Introducing LITMUS](https://medium.com/casperblockchain/introducing-litmus-27b7de6eabd3). (26.05.2024)
 * [Economizing Deposit to Scroll: Batch Bridge Deposit](https://scroll.io/blog/economizing-deposit-to-scroll). (27.05.2024)
-* [Taiko is live on Ethereum mainnet!](https://taiko.mirror.xyz/Pizjv30FvjsZUwEG-Da7Gs6F8qeDLc4CKKEBqy3pTt8). (27.05.2024)
+* [Vitalik proposes the first Taiko block on Ethereum mainnet!](https://taiko.mirror.xyz/Pizjv30FvjsZUwEG-Da7Gs6F8qeDLc4CKKEBqy3pTt8). (27.05.2024)
 
 ### Conferences
 * [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. Recordings can be found [here](https://www.youtube.com/@dappconberlin/streams). 
