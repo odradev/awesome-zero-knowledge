@@ -14,19 +14,25 @@ This release details
 * [The Writing is on the Wall: Analyzing the Boom of Inscriptions and its Impact on EVM-compatible Blockchains](https://arxiv.org/pdf/2405.15288) - academic text by Johnnatan Messias, Krzysztof Gogol, Maria Inês Silva and Benjamin Livshits. (24.05.2024)
 * [Resettable Statistical Zero-Knowledge for NP](https://eprint.iacr.org/2024/806.pdf) - academic text by Susumu Kiyoshima. (27.05.2024)
 * [The Brave New World of Global Generic Groups and UC-Secure Zero-Overhead SNARKs](https://eprint.iacr.org/2024/818.pdf) - academic text by Jan Bobolz, Pooya Farshim, Markulf Kohlweiss and Akira Takahashi. (27.05.2024)
+* [Zero-Knowledge Hackathon Insights and Recommendations](https://hackernoon.com/zero-knowledge-hackathon-insights-and-recommendations) - article by Daria Volkova. (28.05.2024)
+* [The Round Complexity of Proofs in the Bounded Quantum Storage Model](https://arxiv.org/pdf/2405.18275) - acdaemic text by Alex B. Grilo and Philippe Lamontagne. (28.05.2024)
 
 ### Risc0
 * [Risc0 partners with Rarimo](https://x.com/RiscZero/status/1793376794592379278). (22.05.2024)
 * [Zeth Brings Validity Proofs to Optimism’s OP Stack](https://www.risczero.com/blog/zeth-brings-validity-proofs-to-optimisms-op-stack). (23.05.2024)
 * [Another step closer to zkVM 1.0](https://x.com/RiscZero/status/1795128376690131011). (27.05.2024)
+* [Risc0 is coming to Ethereum](https://x.com/RiscZero/status/1795524909260501479). (28.05.2024)
 
 ### NovaNet 
 * [Leveraging ZKPs to Address Privacy Challenges in RWA Tokenization](https://www.novanet.xyz/blog/leveraging-zkps-to-address-privacy-challenges-in-rwa-tokenization). (23.05.2024)
 * [Approaching Constant: The Race for The Fastest Zero-Knowledge Proof System](https://blog.icme.io/approaching-constant-the-race-for-the-fastest-zero-knowledge-proof-system/) - article by Wyatt Benno. (24.05.2024)
+* [The DePIN Verification Handbook: How ZKPs Solve Verification Challenges](https://www.novanet.xyz/blog/depin-verification-handbook). (28.05.2024)
  
 ### Watching materials
 * [Agents Gizathon Powered by Encode Club: Mental Models for ZKML and its Applications](https://www.youtube.com/watch?v=TwlY1XYTjPY). (23.05.2024)
 * [Recordings from ZKProof Day 1](https://www.youtube.com/playlist?list=PLOEty2U8Y69Uzkd6MthUjWbOxQHzBAtCQ), [Day 2](https://www.youtube.com/playlist?list=PLOEty2U8Y69XR-KVpuDi4mCIOjBtUA-mQ) and [Day 3](https://www.youtube.com/playlist?list=PLOEty2U8Y69WTd1ZVXgGCTZim5TCEAB9H). (24.05.2024)
+* [Abhiram Kothapalli - HyperNova: Towards Practical Zero-Knowledge Virtual Machines](https://www.youtube.com/watch?v=y05oLsCn5A4). (28.05.2024)
+* [Kostas Ferles - Practical Security Analysis of Zero-Knowledge Proof Circuits](https://www.youtube.com/watch?v=uEkXcqkB8ls). (28.05.2024)
 
 ### Listening materials
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/325-2/) episode - *Episode 325: Web Proofs with Tracy from Pluto*. (22.05.2024) 
