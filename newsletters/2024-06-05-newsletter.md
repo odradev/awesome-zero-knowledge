@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-06-05
-This release details...
+This release details the arcane of a general-purpose zkVM, a talk on multi-party computation by Toon Segers, an academic text on simulating PLONK by Marek Sefranek, and an article on the state of security tools for ZKPs.
 
 ### Top picks
+* [The arcane of a general purpose zkVM](https://www.youtube.com/watch?v=RPc9UTCmGSE). (29.05.2024)
+* [Toon Segers (Roseman Labs): "Multi-Party Computation for Secure, Private Data Collaboration" [S1E3]](https://www.youtube.com/watch?v=2KFMkUXpi2g). (30.05.2024)
+* [How (Not) to Simulate PLONK](https://eprint.iacr.org/2024/848.pdf) - academic text by Marek Sefranek. (31.05.2024)
+* [The State of Security Tools for ZKPs](https://www.zksecurity.xyz/blog/posts/zksecurity-tools/) - article by ZKSecurity. (02.06.2024)
 
 ### Reading materials 
 * [Layer 2s as cultural extensions of Ethereum](https://vitalik.eth.limo/general/2024/05/29/l2culture.html) - post by Vitalik Buterin. (29.05.2024)
@@ -46,7 +50,6 @@ This release details...
 * [Privacy Preserving Data Imputation via Multi-party Computation for Medical Applications](https://arxiv.org/pdf/2405.18878) - academic text by Julia Jentsch, Ali Burak Ünal, Şeyma Selcan Mağara and Mete Akgün. (29.05.2024)
 * [Share Your Secrets for Privacy! Confidential Forecasting with Vertical Federated Learning](https://arxiv.org/pdf/2405.20761) - academic text by Aditya Shankar, Lydia Y. Chen, Jérémie Decouchant, Dimitra Gkorou and Rihan Hai. (31.05.2024)
 * [Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions](https://eprint.iacr.org/2024/837.pdf) - academic text by Anders Dalskov, Daniel Escudero and Ariel Nof. (31.05.2024)
-* [Locking Machine Learning Models into Hardware](https://arxiv.org/pdf/2405.20990) - academic text by Eleanor Clifford, Adhithya Saravanan, Harry Langford, Cheng Zhang, Yiren Zhao, Robert Mullins, Ilia Shumailov and Jamie Hayes. (31.05.2024)
 * [Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://eprint.iacr.org/2024/853.pdf) - academic text by Jean-Philippe Bossuat, Anamaria Costache, Christian Mouchet, Lea Nürnberger and Juan Ramón Troncoso-Pastoriza. (31.05.2024)
  
 ### Updates of ZK projects
