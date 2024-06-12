@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-06-12
-This release details...
+This release details constructing quantum FHE, weekly sessions on ZK building blocks, an introduction to Protokit and a blog on zkVM for TEEs with RISC Zero.
 
 ### Top picks
+* [How to Construct Quantum FHE, Generically](https://eprint.iacr.org/2024/893.pdf) - academic text by Aparna Gupte and Vinod Vaikuntanathan. (05.06.2024)
+* [Weekly sessions to learn the building blocks of ZK](https://x.com/wyatt_benno/status/1798716105529159930). (06.06.2024)
+* [ZK Hack Kraków: Introduction to Protokit (Matej Šima)](https://www.youtube.com/watch?v=gCNdAB8bjm8). (06.06.2024)
+* [zkVM for TEEs: Attestation aggregation and TLS verification with RISC Zero](https://blog.ata.network/zkvm-for-tees-attestation-aggregation-and-tls-verification-with-risc-zero-3573a66c6723). (11.06.2024)
 
 ### Reading materials 
 * [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://eprint.iacr.org/2024/888.pdf) - academic text by Yihao Guo, Minghui Xu, Xiuzhen Cheng, Dongxiao Yu, Wangjie Qiu, Gang Qu, Weibing Wang and Mingming Song. (05.06.2024)
