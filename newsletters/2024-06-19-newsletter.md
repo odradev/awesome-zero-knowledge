@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-06-19
-This release details...
+This release details an proof aggregation with Shumo and Yi from NEBRA, an academic text on dual polynomial commitment schemes, and the launch of zkVM 1.0.
 
 ### Top picks
+* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/327-2/) episode - *Episode 327: Proof Aggregation with Shumo and Yi from NEBRA*. (12.06.2024)
+* [Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs](https://eprint.iacr.org/2024/943.pdf) - academic text by Chaya Ganesh, Vineet Nair and Ashish Sharma. (13.06.2024)
+* [zkVM 1.0 is Live](https://www.risczero.com/blog/hello-zkvm-1-0). (17.06.2024)
 
 ### Reading materials 
 * [Scalable Collaborative zk-SNARK and Its Application to Efficient Proof Outsourcing](https://eprint.iacr.org/2024/940.pdf) - academic text by Xuanming Liu, Zhelei Zhou, Yinghao Wang, Jinye He, Bingsheng Zhang, Xiaohu Yang and Jiaheng Zhang. (12.06.2024)
@@ -12,7 +15,6 @@ This release details...
 * [Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility](https://eprint.iacr.org/2024/968.pdf) - academic text by Jia Liu and Mark Manulis. (17.06.2024)
 * [ICICLE v2: Polynomial API for Coding ZK Provers to Run on Specialized Hardware](https://eprint.iacr.org/2024/973.pdf) - academic text by Karthik Inbasekar, Yuval Shekel and Michael Asa. (17.06.2024)
 * [ZkUniverse #14](https://medium.com/@ZkCampus/zkuniverse-14-029c7518db62). (17.06.2024)
-* [Distributed PIR: Scaling Private Messaging via the Users' Machines](https://eprint.iacr.org/2024/978.pdf) - academic text by Elkana Tovey, Jonathan Weiss and Yossi Gilad. (18.06.2024)
 * [Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs](https://eprint.iacr.org/2024/979.pdf) - academic text by Alex Ozdemir, Evan Laufer and Dan Boneh. (18.06.2024)
 * [ZK privacy for websites](https://medium.com/@laurippeltonen/zk-privacy-for-websites-3e6a67fc79b1) - article by Lauri Paeltonen. (18.06.2024)
 * [How do Bulletproofs avoid the trusted setup phase (part 2)?](https://leducphong.medium.com/how-do-bulletproofs-avoid-the-trusted-setup-phase-part-2-68a9da23e1f6) - article by Lê Đức Phong. (18.06.2024)
