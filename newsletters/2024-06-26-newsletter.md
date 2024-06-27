@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-06-26
-This release details...
+This release details ZK on Bitcoin with Alpen Labs, a video on common bugs in ZK circuits for dApps by Jon Stephens, and the annouchement of the ZK Grants Round.
 
 ### Top picks
+* Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/328-2/) episode - *Episode 328: ZK on Bitcoin with Alpen Labs*. (19.06.2024) 
+* [ZK Circuits in dApps: Common Bugs to Avoid (Jon Stephens) | Leo, o1js, Circom, Solidity languages](https://www.youtube.com/watch?v=SPk65HDOcd8). (20.06.2024)
+* [ZK Grants Round Announcement](https://blog.ethereum.org/2024/06/25/zk-grants-round-announce) - article by Rodrigo Vasquez. (25.06.2024)
 
 ### Reading materials 
 * [Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems](https://arxiv.org/pdf/2406.14545) - academic text by Đorđe Klisura and Anthony Rios. (20.06.2024)
