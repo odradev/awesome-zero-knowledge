@@ -1,8 +1,10 @@
-
 # ZK Newsletter for 2024-07-03
-This release details...
+This release details verifiable image manipulation using folding-based zkSNARKs, scaling Bitcoin with STARKs, and an introduction to zkSync's Elastic Chain.
 
 ### Top picks
+* [VIMz: Verifiable Image Manipulation using Folding-based zkSNARKs](https://eprint.iacr.org/2024/1063.pdf) - academic text by Stefan Dziembowski, Shahriar Ebrahimi and Parisa Hassanizadeh. (30.06.2024)
+* [Scaling Bitcoin with STARKs](https://www.youtube.com/watch?v=dhDbIAsBWx0). (02.07.2024)
+* [zkSync - Introducing the Elastic Chain](https://zksync.mirror.xyz/BqdsMuLluf6AlWBgWOKoa587eQcFZq20zTf7dYblxsU). (02.07.2024)
 
 ### Reading materials
 * [A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data](https://arxiv.org/pdf/2406.18671) - academic text by Vincent Guan, Florent Guépin, Ana-Maria Cretu and Yves-Alexandre de Montjoye. (26.06.2024)
@@ -24,7 +26,7 @@ This release details...
 
 ### NovaNet 
 * [Data Ownership & DePIN: Taking Back Control](https://x.com/Farmsent_io/status/1806227412151120259). (27.06.2024)
-* [Proof of Coverage Podcast](https://www.youtube.com/watch?v=2HzeD2fXps) episode - *Houman Shadab and Wyatt Benno, Co-Founders at ICME Labs (NovaNet)*. (01.07.2024)
+* [Proof of Coverage Podcast](https://www.youtube.com/watch?v=2HzeD2fXpsI) episode - *Houman Shadab and Wyatt Benno, Co-Founders at ICME Labs (NovaNet)*. (01.07.2024)
 
 ### Watching materials
 * [Creating and Deploying ZK Apps with Quarkus](https://www.youtube.com/watch?v=2Onl9AzuMAM). (26.06.2024)
@@ -70,4 +72,3 @@ This release details...
 * **[NovaNet](https://www.novanet.xyz/)** - the world’s only peer-to-peer decentralized proving network.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
  
-To become a sponsor mail us: contact@odra.dev.
