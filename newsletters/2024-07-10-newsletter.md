@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-07-10
-This release details...
+This release details comparing ZK Rollups and ZK Compression for blockchain scalability, whiteboard session on Mina and zero-knowledge applications on the Mina Protocol.
 
 ### Top picks
+* [What Makes Mina So Special? Whiteboard Session 2024](https://www.youtube.com/watch?v=-fG0JLtYlJE). (05.07.2024)
+* [ZK Rollups or ZK Compression: Which Path Leads to True Blockchain Scalability?](https://medium.com/@silicon-ninjaa/zk-rollups-or-zk-compression-which-path-leads-to-true-blockchain-scalability-7436c2dd7a3f) - article by Silicon Ninjaaa. (08.07.2024)
+* [zk Warsaw Meetup 16: Zero Knowledge Applications on Mina Protocol](https://www.youtube.com/watch?v=etpZeX0V7ZY). (09.07.2024)
 
 ### Reading materials 
 * [Scalable Zero-Knowledge Proofs for Verifying Cryptographic Hashing in Blockchain Applications](https://arxiv.org/pdf/2407.03511) - academic text by Oleksandr Kuznetsov, Anton Yezhov, Vladyslav Yusiuk and Kateryna Kuznetsova. (03.07.2024)
@@ -20,7 +23,6 @@ This release details...
 
 ### Watching materials
 * [Responsive Design in ZK](https://www.youtube.com/watch?v=ySub07pxAL8). (03.07.2024)
-* [Theming in ZK](https://www.youtube.com/watch?v=sCxCOFpdM-M). (04.07.2024)
 * [What Makes Mina So Special? Whiteboard Session 2024](https://www.youtube.com/watch?v=-fG0JLtYlJE). (05.07.2024)
 * [zk Warsaw Meetup 16: Zero Knowledge Applications on Mina Protocol](https://www.youtube.com/watch?v=etpZeX0V7ZY). (09.07.2024)
 * [Building better Apps with Zero Knowledge | CONF3RENCE 2024 Keynote](https://www.youtube.com/watch?v=KirRhwsgBV8). (09.07.2024)
