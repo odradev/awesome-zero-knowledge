@@ -1,7 +1,11 @@
 # ZK Newsletter for 2024-07-17
-This release details...
+This update includes the private LLMs using wavelet-encoded look-up tables, an Epicenter Podcast episode featuring Vitalik Buterin, a presentation on Jolt, an open-source zkVM by a16z, and a talk on security tools in the zero-knowledge domain by Alp Bassa.
 
 ### Top picks
+* [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127.pdf) - academic text by Manuel B. Santos, Dimitris Mouris, Mehmet Ugurbil, Stanislaw Jarecki, José Reis, Shubho Sengupta and Miguel de Vega. (12.07.2024)
+* [Epicenter Podcast](https://www.youtube.com/watch?v=L8_NuLTngIo) episode - *Ethereum at a Crossroads - Vitalik Buterin (Live from EthCC 7). Ep. 556*. (14.07.2024)
+* [Jolt: An open source zkVM by a16z crypto research and engineering - Berkeley 2024](https://www.youtube.com/watch?v=ul1h_A7pxO4). (15.07.2024)
+* [Tools For Security in the Zero-Knowledge Domain | Alp Bassa | Hack Seasons Brussels](https://www.youtube.com/watch?v=atg0UTNTdvo). (16.07.2024)
 
 ### Reading materials 
 * [Jolt-b: recursion friendly Jolt with basefold commitment](https://eprint.iacr.org/2024/1131.pdf) - academic text by Hang Su, Qi Yang and Zhenfei Zhang. (12.07.2024)
@@ -20,7 +24,7 @@ This release details...
 ### Watching materials
 * [Stanford Seminar - MS&E447: ZKP Panel with Dan Boneh, Jens Groth , Daniel Marin, and Ravi Mhatre](https://www.youtube.com/watch?v=FAVz5IjyWks). (12.07.2024)
 * [Zero Knowledge proofs on Mina, zkPassport and SoulBound NFTs - Pavel Fedotov | PinSave](https://www.youtube.com/watch?v=QmVJkYCfhak). (12.07.2024)
-* [13. Jolt: An open source zkVM by a16z crypto research and engineering - Berkeley 2024](https://www.youtube.com/watch?v=ul1h_A7pxO4). (15.07.2024)
+* [Jolt: An open source zkVM by a16z crypto research and engineering - Berkeley 2024](https://www.youtube.com/watch?v=ul1h_A7pxO4). (15.07.2024)
 * [ZKEVM, altVM & Parallel EVM panel](https://www.youtube.com/watch?v=dNHSkmB23jY). (15.07.2024)
 * [Telos Fireside Chat: Exploring Zero-Knowledge Technology at EthCC Brussels](https://www.youtube.com/watch?v=VkWUJXoXLLU). (15.07.2024)
 * [Tools For Security in the Zero-Knowledge Domain | Alp Bassa | Hack Seasons Brussels](https://www.youtube.com/watch?v=atg0UTNTdvo). (16.07.2024)
