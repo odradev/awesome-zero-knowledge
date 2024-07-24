@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-07-24
-This release details...
+This release details Emad Heydari Beni's COSIC course on zero-knowledge proofs, Lumoz's article introducing a new paradigm for rollup platformization, and Vitalik Buterin's post exploring circle STARKs.
 
 ### Top picks
+* [COSIC Course 2024: "Zero knowledge proofs and..." (Emad Heydari Beni, Nokia Bell Labs & COSIC)](https://www.youtube.com/watch?v=StaGD8GRrIE). (22.07.2024)
+* [Lumoz: A New Paradigm for Rollup Platformization](https://hackernoon.com/lumoz-a-new-paradigm-for-rollup-platformization) - article by Lumoz. (23.07.2024)
+* [Exploring circle STARKs](https://vitalik.eth.limo/general/2024/07/23/circlestarks.html) - post by Vitalik Buterin. (23.07.2024)
 
 ### Reading materials 
 * [Designated-Verifier zk-SNARKs Made Easy](https://eprint.iacr.org/2024/1153.pdf) - academic text by Chen Li and Fangguo Zhang. (19.07.2024)
