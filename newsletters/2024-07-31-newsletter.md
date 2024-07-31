@@ -1,7 +1,10 @@
 # ZK Newsletter for 2024-07-31
-This release details...
+This release details two-prover perfect zero-knowledge for MIP*, strategies to end location spoofing using zero-knowledge proofs, and Frank Mangone's article on the fundamentals of ZKP.
 
 ### Top picks
+* [Two prover perfect zero knowledge for MIP*](https://www.youtube.com/watch?v=z5ArFOwVps4). (28.07.2024)
+* [How to End Location Spoofing With Zero Knowledge Proofs](https://www.novanet.xyz/blog/how-to-end-location-spoofing). (29.07.2024)
+* [Cryptography 101: Zero Knowledge Proofs (Part 3)](https://medium.com/@francomangone18/cryptography-101-zero-knowledge-proofs-part-3-23eeb501cc6e) - article by Frank Mangone. (30.07.2024)
 
 ### Reading materials 
 * [Does zk-EVM just prove EVM execution?](https://medium.com/tokamak-network/does-zk-evm-just-prove-evm-execution-0d47f85a81d3) - article by Dan Jeong. (24.07.2024)
@@ -69,3 +72,4 @@ by Guiyou Wang, Chao Li, Bingrong Dai and Shaohua Zhang. (28.07.2024)
 * **[Risc0](https://www.risczero.com/)** - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * **[NovaNet](https://www.novanet.xyz/)** - the world’s only peer-to-peer decentralized proving network.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
+ 
