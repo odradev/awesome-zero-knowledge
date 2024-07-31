@@ -10,6 +10,7 @@ by Guiyou Wang, Chao Li, Bingrong Dai and Shaohua Zhang. (28.07.2024)
 * [Hᴇᴋᴀᴛᴏɴ: Horizontally-Scalable zkSNARKs via Proof Aggregation](https://eprint.iacr.org/2024/1208.pdf) - academic text by Michael Rosenberg, Tushar Mopuri, Hossein Hafezi, Ian Miers and Pratyush Mishra. (29.07.2024)
 * [Collaborative CP-NIZKs: Modular, Composable Proofs for Distributed Secrets](https://eprint.iacr.org/2024/1209.pdf) - academic text by Mohammed Alghazwi, Tariq Bontekoe, Leon Visscher and Fatih Turkmen. (29.07.2024)
 * [Rollup-Centric Considerations of Based Preconfimations (Part 1)](https://taiko.mirror.xyz/ejciROGOGM9L_DuuqM3KloZan0EQR73fJt8qzTZmVzg) - article by Cecilia Z. (30.07.2024)
+* [Cryptography 101: Zero Knowledge Proofs (Part 3)](https://medium.com/@francomangone18/cryptography-101-zero-knowledge-proofs-part-3-23eeb501cc6e) - article by Frank Mangone. (30.07.2024)
 
 ### Risc0
 * [BOUNDLESS: AVS vs. ZK Coprossesors Panel](https://www.youtube.com/watch?v=-QU2oHie7B4). (25.07.2024)
@@ -30,10 +31,12 @@ by Guiyou Wang, Chao Li, Bingrong Dai and Shaohua Zhang. (28.07.2024)
 * [Two prover perfect zero knowledge for MIP*](https://www.youtube.com/watch?v=z5ArFOwVps4). (28.07.2024)
 * [BOB 2024 Philipp Kant - Zero-Knowledge-Proofs for Privacy and Trust](https://www.youtube.com/watch?v=ZL7wtOrYH4Q). (29.07.2024)
 * [Blockchain Innovations with Nethermind:Exploring zkML & More - ETHGlobal Brussels 2024](https://www.youtube.com/watch?v=h_Pg4nSlwZk). (29.07.2024)
+* [Advancements in zkSNARKs for scalable & private SCs - Ian Miers, Aleo | Encrypt Brussels 2024](https://www.youtube.com/watch?v=o8I_nM7sngs). (30.07.2024)
  
 ### Listening materials
 * Weekly [Zero Knowledge Podcast](https://zeroknowledge.fm/333-2/) episode - *Episode 333: Verifiable SQL, Reckle Trees and ZK Coprocessing with Lagrange Labs*. (24.07.2024) 
 * [Expansion Podcast](https://www.youtube.com/watch?v=QZZhb22o1Bo) episode - *The Unasked Questions of Blockchain Interop | Jon Kol*. (24.07.2024)
+* [Crypto Altuism Podcast](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-165-zero-knowledge-proofs-and-the-internet-of-true-things) episode - *Zero Knowledge Proofs and the ‘Internet of True Things’*. (30.07.2024)
 
 ### MPC
 * [What Have SNARGs Ever Done for FHE?](https://eprint.iacr.org/2024/1207.pdf) - academic text by Michael Walter. (29.07.2024)
