@@ -1,8 +1,11 @@
 # ZK Newsletter for 2024-08-07
-This release details...
+This release details foldable, recursive proofs of isogeny computation, a survey on the applications of zero-knowledge proofs, and the techniques behind SuperSpartan's polynomial IOP, which uses the sum-check protocol to prove CCS instances.
 
 ### Top picks
-
+* [Foldable, Recursive Proofs of Isogeny Computation with Reduced Time Complexity](https://eprint.iacr.org/2024/1219.pdf) - academic text by Krystal Maughan, Joseph Near and Christelle Vincent. (31.07.2024)
+* [A Survey on the Applications of Zero-Knowledge Proofs](https://arxiv.org/pdf/2408.00243) - academic text by Ryan Lavin, Xuekai Liu, Hardhik Mohanty, Logan Norman, Giovanni Zaarour and Bhaskar Krishnamachari. (01.08.2024)
+* [SuperSpartan by Hand](https://anoma.net/blog/superspartan-by-hand) - article by Alberto Centelles. (05.08.2024)
+ 
 ### Reading materials 
 * [zkMesh: July 2024 recap](https://zkmesh.substack.com/p/zkmesh-july-2024-recap). (31.07.2024)
 * [Foldable, Recursive Proofs of Isogeny Computation with Reduced Time Complexity](https://eprint.iacr.org/2024/1219.pdf) - academic text by Krystal Maughan, Joseph Near and Christelle Vincent. (31.07.2024)
