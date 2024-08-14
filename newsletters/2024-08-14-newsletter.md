@@ -1,12 +1,16 @@
 # ZK Newsletter for 2024-08-14
-This release details...
+This release details reproducing and exploiting ZK circuit vulnerabilities, a primer on Aleo program security,  Zarko Gvozdenovic discussing work on Telos' zkEVM advancements and methods for obtaining pairings in a zkEVM.
 
 ### Top picks
+* [Reproducing and Exploiting ZK Circuit Vulnerabilities](https://www.zksecurity.xyz/blog/posts/zkbugs/) - article by Stefanos Chaliasos and Chenyang Yu. (09.08.2024)
+* [Exploring Leo: A Primer on Aleo Program Security](https://www.zksecurity.xyz/blog/posts/aleo-program-security/) - article by Suneal Gong. (07.08.2024)
+* [Meet Zarko Gvozdenovic: Accelerating Telos' zkEVM Advancements](https://www.youtube.com/watch?v=kPSq0Bwg7NA). (07.08.2024)
+* [How to get pairings in a zkEVM by Héctor Masip Ardevol](https://www.youtube.com/watch?v=7v7MbM0X4b4). (13.08.2024)
 
 ### Reading materials 
-* [Exploring Leo: A Primer on Aleo Program Security](https://www.zksecurity.xyz/blog/posts/aleo-program-security/) - article by Suneal Gong. (07.08.2024)
 * [noname 2.0: Unlocking Numeric Generics, Folding Schemes, and a Playground](https://www.zksecurity.xyz/blog/posts/noname-v2/) - article by ZKSecurity. (08.08.2024)
 * [Unlocking the Power of Zero-Knowledge Proofs](https://hackernoon.com/unlocking-the-power-of-zero-knowledge-proofs) - article by Jon Stojan Media. (09.08.2024)
+* [Exploring Leo: A Primer on Aleo Program Security](https://www.zksecurity.xyz/blog/posts/aleo-program-security/) - article by Suneal Gong. (07.08.2024)
 * [Non-Interactive Zero-Knowledge from LPN and MQ](https://eprint.iacr.org/2024/1254.pdf) - academic text by Quang Dao, Aayush Jain and Zhengzhong Jin. (09.08.2024)
 * [Reproducing and Exploiting ZK Circuit Vulnerabilities](https://www.zksecurity.xyz/blog/posts/zkbugs/) - article by Stefanos Chaliasos and Chenyang Yu. (09.08.2024)
 * [Efficient (Non-)Membership Tree from Multicollision-Resistance with Applications to Zero-Knowledge Proofs](https://eprint.iacr.org/2024/1259.pdf) - academic text by Maksym Petkus. (09.08.2024)
