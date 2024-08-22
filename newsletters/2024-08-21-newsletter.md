@@ -2,6 +2,11 @@
 This release details...
 
 ### Top picks
+* [Do All Roads Lead To MPC? Exploring The End-Game For Privacy Infrastructure](https://equilibrium.co/writing/do-all-roads-lead-to-mpc) - article by Hannes Huitula. (12.08.2024)
+* [What is a trusted setup and how is it secured? Pairings operations | Episode 3](https://www.youtube.com/watch?v=IDKn2Y9Kkc4). (13.08.2024)
+* [Zero-Knowledge Proofs: Understanding Range Proofs](https://medium.com/@abhiveerhome/zero-knowledge-proofs-understanding-range-proofs-d06b67c35aec) - article by Abhiveer Singh. (18.08.2024)
+* [Winners using RISC Zero on ZKHack Montreal](https://x.com/RiscZero/status/1825572202600657228). (19.08.2024)
+* [Minimal Space, Maximum Pace: How memory efficient zero-knowledge proofs work](https://blog.icme.io/minimal-space-maximum-pace-how-memory-efficient-zero-knowledge-proofs-work/) - article by Wyatt Benno. (20.08.2024)
 
 ### Reading materials 
 * [Do All Roads Lead To MPC? Exploring The End-Game For Privacy Infrastructure](https://equilibrium.co/writing/do-all-roads-lead-to-mpc) - article by Hannes Huitula. (12.08.2024)
