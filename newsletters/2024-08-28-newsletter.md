@@ -1,8 +1,13 @@
-# ZK Newsletter for 2024-XX-XX
-This release details...
+# ZK Newsletter for 2024-08-28
+This release details a trustless zkRollup for Dogecoin, state synchronization in interchain communication, the Risc0 x Surge collaboration, Lauri Peltonen's argument against learning ZK mathematics, and an article on sharding as parallelism.
 
 ### Top picks
-
+* [BASS NYC - City Rollup: A Trustless zkRollup for Dogecoin by QED](https://www.youtube.com/watch?v=Drc06wChX_k). (27.08.2024)
+* [Controllers: down with interchain communication, long live state synchronization - Christopher Goes](https://www.youtube.com/watch?v=5eir-fCbHDo). (21.08.2024)
+* [Risc0 x Surge](https://x.com/SurgeBuild/status/1826620526682382781). (22.08.2024)
+* [Stop learning ZK mathematics](https://medium.com/@laurippeltonen/stop-learning-zk-mathematics-ba1064d26fe0) - article by Lauri Peltonen. (23.08.2024)
+* [Sharding as Parallelism](https://nil.foundation/blog/post/sharding_as_parallelism) - article by Ilya Marozau. (26.08.2024)
+ 
 ### Reading materials 
 * [Intents from the resource model perspective](https://anoma.net/blog/intents-rm) - article by Yulia Khalniyazova. (21.08.2024)
 * [ZK Tech Development: A Step-by-Step Guide to Building Your Zero Knowledge Powered Blockchain Network in 2024](https://medium.com/blockchain-baf/zk-tech-development-a-step-by-step-guide-to-building-your-zero-knowledge-powered-blockchain-3520e831ceb6) - article by Cathrine Williams. (22.08.2024)
