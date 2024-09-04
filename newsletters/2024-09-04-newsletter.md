@@ -1,7 +1,12 @@
 # ZK Newsletter for 2024-09-04
-This release details...
+This release details applications of the Sum-Check protocol, the Schwartz–Zippel lemma explained, p-adic theory in homomorphic encryption, Vitalik Buterin's post on glue and coprocessor architectures and private electronic payments using zero-knowledge verified reissuance.
 
 ### Top picks
+* [Proofs, Arguments, and Zero-Knowledge - Week 11 - Applications of Sum-Check protocol](https://www.youtube.com/watch?v=MRfBfLRFAQE). (28.08.2024)
+* [Schwartz–Zippel lemma for IQ < 200](https://medium.com/@laurippeltonen/schwartz-zippel-lemma-for-iq-200-50ca2ecb3ffc) - article by Lauri Peltonen. (30.08.2024)
+* [On the overflow and p-adic theory applied to homomorphic encryption](https://eprint.iacr.org/2024/1353.pdf) - academic text by Jacob Blindenbach, Jung Hee Cheon, Gamze Gürsoy and Jiayi Kang. (30.08.2024)
+* [Glue and coprocessor architectures](https://vitalik.eth.limo/general/2024/09/02/gluecp.html) - post by Vitalik Buterin. (02.09.2024)
+* [Private Electronic Payments with Self-Custody and Zero-Knowledge Verified Reissuance](https://arxiv.org/pdf/2409.01958) - academic text by Daniele Friolo, Geoffrey Goodell, Dann Toliver and Hazem Danny Nakib. (03.09.2024)
 
 ### Reading materials 
 * [Cloaking Layer: Empowering Developers with Easy-to-Integrate ZK Technology](https://medium.com/@eugenenesfield/cloaking-layer-empowering-developers-with-easy-to-integrate-zk-technology-31e967cd9ecf) - article by Eugene Nesfield. (30.08.2024)
@@ -24,7 +29,7 @@ This release details...
 * [NovaNet x Parasail](https://x.com/NovaNet_zkp/status/1829506021074907201). (30.08.2024)
  
 ### Watching materials
-* [Multi-party Computation (Crypto 2024) part I](https://www.youtube.com/watch?v=TyI6PaVJRI0), [part II](https://www.youtube.com/watch?v=uek5e5DWwzw) and [part III](https://www.youtube.com/watch?v=ia81ceuBRU4a). (28.08.2024)
+* [ Multi-party Computation (Crypto 2024) part I](https://www.youtube.com/watch?v=TyI6PaVJRI0), [part II](https://www.youtube.com/watch?v=uek5e5DWwzw) and [part III](https://www.youtube.com/watch?v=ia81ceuBRU4a). (28.08.2024)
 * [Proofs, Arguments, and Zero-Knowledge - Week 11 - Applications of Sum-Check protocol](https://www.youtube.com/watch?v=MRfBfLRFAQE). (28.08.2024)
 * [Interactive & Zero-knowledge Proofs (Crypto 2024)](https://www.youtube.com/watch?v=d37qocvTYk4). (28.08.2024)
 * [Tokenized zero knowledge machine learning and its applications](https://www.youtube.com/watch?v=ZeyOp5PESfk). (29.08.2024)
