@@ -1,17 +1,19 @@
 # ZK Newsletter for 2024-09-11
-This release details...
+This release details relativistic zero-knowledge quantum proofs of knowledge, cache timing leakages in zero-knowledge protocols, the design of high-performance zkVMs, and the latest CodeGen news.
 
 ### Top picks
+* [The smallest device zkVM works on?](https://x.com/wyatt_benno/status/1831720000396149250). (05.09.2024)
+* [On the Relativistic Zero Knowledge Quantum Proofs of Knowledge](https://arxiv.org/pdf/2409.03635) - academic text by Kaiyan Shi, Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia and Charles Lim. (05.09.2024)
+* [Cache Timing Leakages in Zero-Knowledge Protocols](https://eprint.iacr.org/2024/1390.pdf) - academic text by Shibam Mukherjee, Christian Rechberger and Markus Schofnegger. (05.09.2024)
+* [Designing high-performance zkVMs](https://risczero.com/blog/designing-high-performance-zkVMs). (06.09.2024)
 * [CodeGen News for 2024-09-09](https://codegen.substack.com/p/codegen-news-for-2024-09-09). (09.09.2024)
 
 ### Reading materials 
-* [EvalRound+ Bootstrapping and its Rigorous Analysis for CKKS Scheme](https://eprint.iacr.org/2024/1379.pdf) - academic text by Hyewon Sung, Sieun Seo, Taekyung Kim and Chohong Min. (04.09.2024)
-* [Revolutionizing Legal AI Benchmarks with “AI Law”](https://medium.com/@petertoumbourou/revolutionizing-legal-ai-benchmarks-with-ai-law-6d1fa73b51a5) - article by Peter Toumbourou. (05.09.2024)
-* [On the Relativistic Zero Knowledge Quantum Proofs of Knowledge](https://arxiv.org/pdf/2409.03635) - academic text by Kaiyan Shi, Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia and Charles Lim. (05.09.2024)
-* [Cache Timing Leakages in Zero-Knowledge Protocols](https://eprint.iacr.org/2024/1390.pdf) - academic text by Shibam Mukherjee, Christian Rechberger and Markus Schofnegger. (05.09.2024)
 * [Overcoming Security Risks in zkSharding](https://nil.foundation/blog/post/security_zkSharding) - article by Vitaliy Kuznetsov. (09.09.2024)
 * [Data as a New Asset Class](https://medium.com/@0xzap/data-as-a-new-asset-class-2f52df0ae008) - article by 0xZap. (10.09.2024)
 * [The Black-Box Simulation Barrier Persists in a Fully Quantum World](https://arxiv.org/pdf/2409.06317) - academic text by Nai-Hui Chia, Kai-Min Chung, Xiao Liang and Jiahui Liu. (10.09.2024)
+* [Cache Timing Leakages in Zero-Knowledge Protocols](https://eprint.iacr.org/2024/1390.pdf) - academic text by Shibam Mukherjee, Christian Rechberger and Markus Schofnegger. (05.09.2024)
+* [On the Relativistic Zero Knowledge Quantum Proofs of Knowledge](https://arxiv.org/pdf/2409.03635) - academic text by Kaiyan Shi, Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia and Charles Lim. (05.09.2024)
 
 ### Risc0
 * [Designing high-performance zkVMs](https://risczero.com/blog/designing-high-performance-zkVMs). (06.09.2024)
@@ -31,6 +33,7 @@ This release details...
 * [Epicenter Podcast](https://www.youtube.com/watch?v=C4m_ZT0Lvp8) episode - *Arcium: Parallelized Confidential Computing Network - Yannik Schrade. Ep. 564*. (06.09.2024)
 
 ### MPC
+* [EvalRound+ Bootstrapping and its Rigorous Analysis for CKKS Scheme](https://eprint.iacr.org/2024/1379.pdf) - academic text by Hyewon Sung, Sieun Seo, Taekyung Kim and Chohong Min. (04.09.2024)
 * [Coral: Maliciously Secure Computation Framework for Packed and Mixed Circuits](https://eprint.iacr.org/2024/1372.pdf) - academic text by Zhicong Huang, Wen-jie Lu, Yuchen Wang, Cheng Hong, Tao Wei and WenGuang Chen. (04.09.2024)
 * [CipherDM: Secure Three-Party Inference for Diffusion Model Sampling](https://arxiv.org/pdf/2409.05414) - academic text by Xin Zhao, Xiaojun Chen, Xudong Chen, He Li, Tingyu Fan and Zhendong Zhao. (09.09.2024)
 
