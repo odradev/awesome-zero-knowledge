@@ -1,39 +1,71 @@
-# CodeGen News for 2024-09-16
-This release details an episode of Machine Learning Street Talk discussing o1-preview reasoning, and a video on using AI tools like ChatGPT, Claude 3.5, Sonnet, and Cursor to write code effectively.
+# ZK Newsletter for 2024-09-18
+This release details 
+
+If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-09-16). 
 
 ### Top picks
-* [Machine Learning Street Talk](https://www.youtube.com/watch?v=nO6sDk6vO0g) episode - *Is o1-preview reasoning?*. (15.09.2024)
-* [How to Use AI to Write Code | Tips & Techniques to Use ChatGPT o1 Claude 3.5 Sonnet & Cursor](https://www.youtube.com/watch?v=A1vU1pRPHks). (15.09.2024)
 
 ### Reading materials 
-* [The Dual-Edged Sword of using LLMs for Developer Productivity](https://medium.com/@ayushijain_31161/empowering-developers-or-creating-dependency-the-dual-edged-sword-of-using-llms-for-devx-cfe72b39d00d) - article by Ayushi Jain. (10.09.2024)
-* [New DeepSeek-V2.5 model scores 89 on HumanEval, surpassing GPT-4-Turbo, Opus, Llama 3.1 in coding](https://www.reddit.com/r/ChatGPTCoding/comments/1fdrhbx/new_deepseekv25_model_scores_89_on_humaneval/) - discussion on Reddit. (10.09.2024)
-* [Policy Filtration in RLHF to Fine-Tune LLM for Code Generation](https://arxiv.org/pdf/2409.06957) - academic text by Wei Shen and Chuheng Zhang. (11.09.2024)
-* [Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code](https://arxiv.org/pdf/2409.07368) - academic text by Khiem Ton, Nhi Nguyen, Mahmoud Nazzal, Abdallah Khreishah, Cristian Borcea, NhatHai Phan, Ruoming Jin, Issa Khalil and Yelong Shen. (11.09.2024)
-* [OpenAI o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/). (12.09.2024)
-* [Tidal MerzA: Combining affective modelling and autonomous code generation through Reinforcement Learning](https://arxiv.org/pdf/2409.07918) - academic text by Elizabeth Wilson, György Fazekas and Geraint Wiggins. (12.09.2024)
-* [Understanding the Magic of Generative AI: Creativity vs. Accuracy in Code Generation](https://medium.com/@aibytesarun/understanding-the-magic-of-generative-ai-creativity-vs-accuracy-in-code-generation-927a415eb373) - article by Arun Chander. (13.09.2024)
+* [New Techniques for Preimage Sampling: Improved NIZKs and More from LWE](https://eprint.iacr.org/2024/1401.pdf) - academic text by Brent Waters, Hoeteck Wee and David J. Wu. (11.09.2024)
+* [Lego-DLC: batching module for commit-carrying SNARK under Pedersen Engines](https://eprint.iacr.org/2024/1405.pdf) - academic text by Byeongjun Jang, Gweonho Jeong, Hyuktae Kwon, Hyunok Oh and Jihye Kim. (11.09.2024)
+* [ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes](https://eprint.iacr.org/2024/1422.pdf) - academic text by Puja Mondal, Supriya Adhikary, Suparna Kundu and Angshuman Karmakar. (11.09.2024)
+* [Provable Watermark Extraction](https://medium.com/@ingonyama/provable-watermark-extraction-e8ef9ee47f25) - article by Ingonyama. (12.09.2024)
+* [Succinct overview of the Risc(s) Kakarot will face](https://x.com/ETazou/status/1834538429666992467) - article by Elias Tazartes. (13.09.2024)
+* [Interactive Line-Point Zero-Knowledge with Sublinear Communication and Linear Computation](https://eprint.iacr.org/2024/1431.pdf) - academic text by Fuchun Lin, Chaoping Xing and Yizhou Yao. (13.08.2024)
+* [LogRobin++: Optimizing Proofs of Disjunctive Statements in VOLE-Based ZK](https://eprint.iacr.org/2024/1427.pdf) - academic text by Carmit Hazay, David Heath, Vladimir Kolesnikov, Muthuramakrishnan Venkitasubramaniam and Yibin Yang. (14.09.2024)
+* [ZkDemocracy: the Easiest Solution for Zero-knowledge Proof-based Anonymous Voting](https://hackernoon.com/zkdemocracy-the-easiest-solution-for-zero-knowledge-proof-based-anonymous-voting) - article by Laszlo Fazekas. (16.09.2024)
+* [Fiat-Shamir transformation for IQ < 200](https://medium.com/@laurippeltonen/fiat-shamir-transformation-for-iq-200-4e76c64685fc) - article by Lauri Peltonen. (16.09.2024)
+* [FlashSwift: A Configurable and More Efficient Range Proof With Transparent Setup](https://eprint.iacr.org/2024/1441.pdf) - academic text by Nan Wang and Dongxi Liu. (16.09.2024)
+* [Web3, meet ZK: Recap from Google ZK Summit](https://blog.coinfund.io/web3-meet-zk-recap-from-google-zk-summit-a8ad2c53615f). (17.09.2024)
  
+### Risc0
+* [Introducing Boundless: The Verifiable Compute Layer](https://risczero.com/blog/boundless-the-verifiable-compute-layer). (16.09.2024)
+ 
+### NovaNet 
+* [NovaNet Secures $3M to Bring ZKP to Verifiable Compute and Privacy](https://www.novanet.xyz/blog/novanet-secures-3-million-seed-funding-to-build-the-zero-knowledge-proof-incentive-layer). (16.09.2024)
+* [Blockchain Account Abstraction Using ZKPs](https://www.novanet.xyz/blog/blockchain-account-abstraction-using-zkps). (16.09.2024)
+* [USDC and AI Agents: The Future of Trustless Payments](https://www.novanet.xyz/blog/usdc-ai-agents-and-trustless-payments). (16.09.2024)
+* [How to End Location Spoofing With Zero Knowledge Proofs](https://www.novanet.xyz/blog/how-to-end-location-spoofing). (16.09.2024)
+* [DePIN's Pinnacle: Machine-to-Machine Interactions With ZKPs](https://www.novanet.xyz/blog/depins-pinnacle-machine-to-machine-interactions-with-zkps). (16.09.2024)
+* [Stop the Spoof: How ZKPs Prevent GPU Spoofing](https://www.novanet.xyz/blog/stop-the-spoof-how-zero-knowledge-proofs-prevent-gpu-spoofing). (17.09.2024)
+* [Who's Afraid of ZKP? The Triumph of Memory-Efficient Proofs](https://www.novanet.xyz/blog/whos-afraid-of-zkp-the-triumph-of-memory-efficient-proofs). (17.09.2024)
+
 ### Watching materials
-* [Azure AI Engineer Associate Certification (AI-102) – Full Course](https://www.youtube.com/watch?v=scJ4mobwjBQ). (09.09.2024)
-* [Stanford ECON295/CS323 I 2024 I AI and Creativity, Anima Anandkumar](https://www.youtube.com/watch?v=6houmprGB-I). (09.09.2024)
-* [CodiumAI in action: Demo & Best practices](https://www.youtube.com/watch?v=Zqj1KWFzawU). (11.09.2024)
-* [Prompt Engineering 101](https://www.youtube.com/watch?v=tugUOUff2Uk). (12.09.2024)
-* [Prompt Engineering & Development Tools Part II](https://www.youtube.com/watch?v=tm5MtJIV6Xk). (13.09.2024)
-* [How to Use AI to Write Code | Tips & Techniques to Use ChatGPT o1 Claude 3.5 Sonnet & Cursor](https://www.youtube.com/watch?v=A1vU1pRPHks). (15.09.2024)
-* [Building a Real-World Web App with AI: Claude 3.5 Sonnet as My Pair Programmer](https://www.youtube.com/watch?v=xyFZftCbDPM). (15.09.2024)
+* [Overcoming Security Risks in zkSharding](https://www.youtube.com/watch?v=2qE9hjAzpHc). (12.09.2024)
+* [Michele Ciampi, From Sigma-Protocols to Zero-Knowledge in the Plain Model and Beyond](https://www.youtube.com/watch?v=uCjFo85-Lc4). (16.09.2024)
  
 ### Listening materials
-* [Scott Wu: OpenAI o1 & Coding](https://www.youtube.com/watch?v=wyuZzLfDhD8). (12.09.2024)
-* [Machine Learning Street Talk](https://www.youtube.com/watch?v=nO6sDk6vO0g) episode - *Is o1-preview reasoning?*. (15.09.2024)
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/339-2/) episode - *Episode 339: TEEs with Andrew Miller*. (11.09.2024)
+* [Expansion Podcast](https://www.youtube.com/watch?v=oukJRws3q88) episode - *Why All Blockchains Are Converging on Sharding | Avi Zurlo, Nil Foundation*. (11.09.2024)
+* [Jonathan Katz, Introduction to (Zero - Knowledge) Proofs](https://www.youtube.com/watch?v=nwt-3ayO9JE). (13.09.2024)
+* [Expansion Podcast](https://www.youtube.com/watch?v=N6MX1ZNhXlw) episode - *Is Low Data Demand Crypto's Biggest Blind Spot? | Roundup (Ft. Sunny Aggarwal)*. (14.09.2024)
+* [How Aligned Layer changes the future of Zero-Knowledge (ZK) ? | Interview: RJ from Aligned Layer](https://www.youtube.com/watch?v=kRR56SWKrG8). (16.09.2024)
+* [Jonathan Katz, The Sum-Check Protocol and Applications](https://www.youtube.com/watch?v=iSSUZEataIA). (16.09.2024)
 
-### Updates from codegen projects
-* [Larger context window, improved test generation, and more in VS Code’s Copilot Chat](https://github.blog/changelog/2024-09-09-larger-context-window-improved-test-generation-and-more-in-vs-codes-copilot-chat/). (09.09.2024)
-* [Copilot Chat in GitHub.com is now aware of common support scenarios and GitHub’s documentation](https://github.blog/changelog/2024-09-10-copilot-chat-in-github-com-is-now-aware-of-common-support-scenarios-and-githubs-documentation/). (10.09.2024)
-* [Inline Chat is now available in GitHub Copilot in JetBrains](https://github.blog/changelog/2024-09-11-inline-chat-is-now-available-in-github-copilot-in-jetbrains/). (11.09.2024)
-* [Introducing o1: OpenAI’s new reasoning model series for developers and enterprises on Azure](https://azure.microsoft.com/en-us/blog/introducing-o1-openais-new-reasoning-model-series-for-developers-and-enterprises-on-azure/). (12.09.2024)
+### MPC
+* [SLAMP-FSS: Two-Party Multi-Point Function Secret Sharing from Simple Linear Algebra](https://eprint.iacr.org/2024/1394.pdf) - academic text by Erki Külaots, Toomas Krips, Hendrik Eerikson and Pille Pullonen-Raudvere. (13.09.2024)
+* [Benchmarking Secure Sampling Protocols for Differential Privacy](https://arxiv.org/pdf/2409.10667) - academic text by Yucheng Fu and Tianhao Wang. (16.09.2024)
+
+### Updates of ZK projects
+* [Introduction to Aleo Tokenomics](https://aleo.org/post/introduction-to-aleo-tokenomics/). (16.09.2024)
+* [Chainlink CCIP Is Now Live on ZKsync To Power Cross-Chain Interoperability](https://zksync.mirror.xyz/uIAomPx9k53Zcl2MrCcBQ8tH2XZbcGtVWyoRG_51y8c). (16.09.2024)
+* [Introducing Programmatic Incentives v1](https://www.blog.eigenlayer.xyz/introducing-programmatic-incentives-v1/). (17.09.2024)
+* [How to Launch a Token Bridge with Hyperlane Warp Routes](https://medium.com/hyperlane/how-to-launch-a-token-bridge-with-hyperlane-warp-routes-befaf91217b5). (17.09.2024)
+* [How To Build a Simple Web3 Marketplace Dapp on Linea](https://linea.mirror.xyz/LKD0bDOioJC6oruRiK_1b_QvhbBACaKnUK12o3qxF_Q). (17.09.2024)
+
+### Upcoming events
+* [ETHGlobal Singapore](https://ethglobal.com/events/singapore2024) - conference on September 2024 in Singapore.
+* [ETH Rome](https://form.jotform.com/241011812625343) - hackathon on October 2024 in Rome, Paris.
+* [World Blockchain Summit 2024](https://worldblockchainsummit.com/dxb-oct-24/) - summit on October 2024 in Dubai, United Arab Emirates.
+* [ETHGlobal San Francisco](https://ethglobal.com/events/sanfrancisco2024) - conference on October 2024 in San Francisco, USA.
+* [zkSummit12](https://www.zksummit.com/) - a summit on Zero Knowledge on October 2024 in Lisbon, Portugal.
+* [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
+* [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
+* [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok) - conference on November 2024 in Bangkok, Thailand. 
+* [TCC 2024](https://tcc.iacr.org/2024/) - conference on December 2024 in Milan, Italy.
+* [The Ethereum Community Conference 2025](https://ethcc.io/) - conference in Summer 2025 in Cannes, France.
 
 ### Our Sponsors
+* **[Risc0](https://www.risczero.com/)** - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
+* **[NovaNet](https://www.novanet.xyz/)** - the world’s only peer-to-peer decentralized proving network.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
-
-To become a sponsor mail us: *contact@odra.dev*. 
