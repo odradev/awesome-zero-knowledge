@@ -1,9 +1,12 @@
 # ZK Newsletter for 2024-09-18
-This release details 
+This release details an article on provable watermark extraction, the introduction of Boundless as a verifiable compute layer, and a recap of the intersection of Web3 and zero-knowledge from the Google ZK Summit.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-09-16). 
 
 ### Top picks
+* [Provable Watermark Extraction](https://medium.com/@ingonyama/provable-watermark-extraction-e8ef9ee47f25) - article by Ingonyama. (12.09.2024)
+* [Introducing Boundless: The Verifiable Compute Layer](https://risczero.com/blog/boundless-the-verifiable-compute-layer). (16.09.2024)
+* [Web3, meet ZK: Recap from Google ZK Summit](https://blog.coinfund.io/web3-meet-zk-recap-from-google-zk-summit-a8ad2c53615f). (17.09.2024)
 
 ### Reading materials 
 * [New Techniques for Preimage Sampling: Improved NIZKs and More from LWE](https://eprint.iacr.org/2024/1401.pdf) - academic text by Brent Waters, Hoeteck Wee and David J. Wu. (11.09.2024)
