@@ -1,9 +1,13 @@
 # ZK Newsletter for 2024-09-25
-This release details...
+This release details execution of Solana Virtual Machine using RiscZero's zkVM, a16z's research on HyperNova for practical zero-knowledge virtual machines, an article on solving reproducibility challenges in deep learning and LLMs, and a talk on exact lattice-based zero-knowledge proofs by Ngoc Khanh Nguyen.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-09-23). 
 
 ### Top picks
+* [Solana Virtual Machine (SVM) execution using RiscZero's zkVM](https://x.com/ZpokenWeb3/status/1836752071065792689). (19.09.2024)
+* [HyperNova: Toward practical zero-knowledge virtual machines with Abhiram Kothapalli | a16z research](https://www.youtube.com/watch?v=TP1W-E2kuro). (20.09.2024)
+* [Solving Reproducibility Challenges in Deep Learning and LLMs: Our Journey](https://medium.com/@ingonyama/solving-reproducibility-challenges-in-deep-learning-and-llms-our-journey-5e9f1f111da2) - article by Ingonyama. (23.09.2024)
+* [Ngoc Khanh Nguyen, Exact Lattice-Based Zero-Knowledge Proofs](https://www.youtube.com/watch?v=g3anRq_RrG8). (24.09.2024)
 
 ### Reading materials 
 * [Artemis: Efficient Commit-and-Prove SNARKs for zkML](https://arxiv.org/pdf/2409.12055) - academic text by Hidde Lycklama, Alexander Viand, Nikolay Avramov, Nicolas Küchler and Anwar Hithnawi. (18.09.2024)
