@@ -1,16 +1,21 @@
-# ZK Newsletter for 2024-XX-XX
-This release details...
+# ZK Newsletter for 2024-10-02
+This release covers Darlo Flore's talk on zero-knowledge proofs for secure and private machine learning, Olaf van Wijk's article on self-recursive ZKP apps with Risc0, an exploration of honest online voting, the introduction of intents to zkLink Nova with actions and magicLinks, the release of Cairo VM, and Avi Dessauer's article on the Kairos Merkle Trie for ZK VMs.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-09-16). 
 
 ### Top picks
+* [Darlo Flore, Zero-Knowledge Proofs for Secure and Private Machine Learning](https://www.youtube.com/watch?v=S44CUxpV1Ac). (25.09.2024)
+* [Self-recursive ZKP apps with Risc0](https://ovanwijk.medium.com/self-recursive-zkp-apps-with-risc0-31a43491b485) - article by Olaf van Wijk. (27.09.2024)
+* [Honest Online Voting: Myth or Reality?](https://hackernoon.com/honest-online-voting-myth-or-reality) - article by Judge. (27.09.2024)
+* [Bringing Intents To zkLink Nova: Introducing Actions & magicLinks](https://blog.zk.link/bringing-intents-to-zklink-nova-introducing-actions-magiclinks-9a0a67baaea1). (27.09.2024)
+* [Release of Cairo VM Cairo VM](https://zksecurity.github.io/stark-book/cairo/cairo_vm.html) - article by Cairo. (28.09.2024)
+* [Kairos: Efficient Merkle Trie for ZK VMs](https://medium.com/casperblockchain/introducing-kairos-trie-an-efficient-merkle-trie-for-zk-vms-43e023786e64) - article by Avi Dessauer. (30.09.2024)
 
 ### Reading materials 
 * [The Proof Paradox: How Zero Knowledge Keeps Us Secure](https://medium.com/@ieee.wiemuj/the-proof-paradox-how-zero-knowledge-keeps-us-secure-c744901c80e2) - article by Iee Wie Muj. (25.09.2024)
-* [The intuition behind elliptic curve digital signatures (ECDSA)](https://www.rareskills.io/post/ecdsa-tutorial) - article by Team RareSkills. (25.09.2024)
 * [Why Use Circom to Generate Solidity Contracts for Zero-Knowledge Proofs?](https://coinsbench.com/why-use-circom-to-generate-solidity-contracts-for-zero-knowledge-proofs-263cea122b7d) - article by darkty. (26.09.2024)
 * [Honest Online Voting: Myth or Reality?](https://hackernoon.com/honest-online-voting-myth-or-reality) - article by Judge. (27.09.2024)
-* [Cairo VM](https://zksecurity.github.io/stark-book/cairo/cairo_vm.html) - article by Cairo. (28.09.2024)
+* [Release of Cairo VM Cairo VM](https://zksecurity.github.io/stark-book/cairo/cairo_vm.html) - article by Cairo. (28.09.2024)
 * [Making Ethereum alignment legible](https://vitalik.eth.limo/general/2024/09/28/alignment.html) - post by Vitalik Buterin. (28.09.2024)
 * [Kairos: Efficient Merkle Trie for ZK VMs](https://medium.com/casperblockchain/introducing-kairos-trie-an-efficient-merkle-trie-for-zk-vms-43e023786e64) - article by Avi Dessauer. (30.09.2024)
 * [Not for computation: ZK languages](https://medium.com/@laurippeltonen/not-for-computation-zk-languages-990ead4bdfeb) - article by Lauri Peltonen. (30.09.2024)
