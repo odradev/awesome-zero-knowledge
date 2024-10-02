@@ -26,6 +26,7 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain. **Check o
 * [Other awesomes](#other-awesomes)
 
 ### Introduction
+* [Zero Knowledge explained like I am 5!](https://eli5.zksync.io) - an easy-to-understand simple explanation of Zero Knowledge.
 * [Zero Knowledge What? An Introduction to Zero Knowledge by University of Stanford](https://codethechange.stanford.edu/guides/guide_zk.html) - Wikia by University of Stanford, explaining Proof Systems with math. 
 * [Zero Knowledge Proof Protocol: Beginner’s Guide by Ayushi Abrol Ayushi Abrol](https://www.blockchain-council.org/blockchain/zero-knowledge-proof-protocol/) - Beginner's Guide by Ayushi Abrol from Blockchain Council. 
 * [Intro to Zero-Knowledge Proofs](https://www.quicknode.com/guides/knowledge-base/intro-to-zero-knowledge-proofs) - short intro to the subject by Ferhat Kochan. 
