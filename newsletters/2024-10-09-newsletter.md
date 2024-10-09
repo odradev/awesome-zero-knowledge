@@ -1,9 +1,14 @@
-# ZK Newsletter for 2024-XX-XX
-This release details...
+# ZK Newsletter for 2024-10-09
+This release covers a ZK whiteboard session with David Wong, an academic text on dynamic zk-SNARKs, Risc0's introduction of Steel 1.0, Scroll's launch of the SCR token and an article on WE-KZG encryption.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-10-07). 
 
 ### Top picks
+* [ZK Whiteboard Sessions - S2M1: What is Zero-Knowledge (like, actually)? with David Wong](https://www.youtube.com/watch?v=ksTTyt0GTvQ). (03.10.2024)
+* [Dynamic zk-SNARKs](https://eprint.iacr.org/2024/1566.pdf) - academic text by Weijie Wang, Charalampos Papamanthou, Shravan Srinivasan and Dimitrios Papadopoulos. (05.10.2024)
+* [Risc0 introduces Steel 1.0](https://risczero.com/blog/introducing-steel-1.0). (07.10.2024)
+* [Scroll - SCR Token - Our First Step Toward Decentralization](https://scroll.io/blog/scr-token). (08.10.2024)
+* [WE-KZG: Encrypt to KZG.](https://www.zksecurity.xyz/blog/posts/kzg-we/) - article by ZK Security. (08.10.2024)
 
 ### Reading materials 
 * [Sharding Fee Models: Local vs Global Fee Market](https://nil.foundation/blog/post/sharding_fee_models) - article by Aleksandar Damjanovic. (02.10.2024)
@@ -16,12 +21,6 @@ If you like us are interested in how AI gets its way into software development, 
 * [WE-KZG: Encrypt to KZG.](https://www.zksecurity.xyz/blog/posts/kzg-we/) - article by ZK Security. (08.10.2024)
 * [Navigating Ethereum's World State: The Role of Merkle Patricia Tries in Proof of Reserve](https://hackernoon.com/navigating-ethereums-world-state-the-role-of-merkle-patricia-tries-in-proof-of-reserve) - article by  Solvency Ratio Technology. (08.10.2024)
 * [Zero Knowledge Proofs Made Easy: Understanding and Applying Zero Knowledge Proof in Machine Learning](https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2) - article by Ali Shahin Shamsabadi. (08.10.2024)
-
-### Risc0
-* [Risc0 introduces Steel 1.0](https://risczero.com/blog/introducing-steel-1.0). (07.10.2024)
- 
-### NovaNet 
-* [NovaNet hosts DePIN.NYC](https://x.com/NovaNet_zkp/status/1839755075587014969). (01.10.2024)
 
 ### Watching materials
 * [RANDAO Takeover - István András Seres](https://www.youtube.com/watch?v=pw5K_Olzsxs). (02.10.2024)
@@ -47,6 +46,7 @@ If you like us are interested in how AI gets its way into software development, 
 * [EigenLayer x LayerZero: The CryptoEconomic DVN Framework](https://www.blog.eigenlayer.xyz/dvn/). (02.10.2024)
 * [Dusk - Mainnet Milestone: Nocturne is Live](https://dusk.network/news/mainnet-milestone-nocturne-is-live/). (02.10.2024)
 * [Starknet Expansion: Hyperlane Adds CairoVM Support](https://medium.com/hyperlane/starknet-expansion-hyperlane-adds-cairovm-support-29a4cfd69114). (03.10.2024)
+* [Risc0 introduces Steel 1.0](https://risczero.com/blog/introducing-steel-1.0). (07.10.2024)
 * [Linea and Aryze Partner to Transform Digital Finance](https://linea.mirror.xyz/E_Z1rryhlGhMcCZaeeFtA_6xtK9Q8TLikyrg1bxHcYI). (07.10.2024)
 * [Chainlink CCIP Launches on Linea To Unlock A Secure Cross-Chain Ecosystem](https://linea.mirror.xyz/IhVOv6yESeYaSiFNiPrqPlncIaNAplW2hwtxxDB73Mg). (08.10.2024)
 * [Scroll - SCR Token - Our First Step Toward Decentralization](https://scroll.io/blog/scr-token). (08.10.2024)
@@ -65,6 +65,4 @@ If you like us are interested in how AI gets its way into software development, 
 * [The Ethereum Community Conference 2025](https://ethcc.io/) - conference in Summer 2025 in Cannes, France.
 
 ### Our Sponsors
-* **[Risc0](https://www.risczero.com/)** - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
-* **[NovaNet](https://www.novanet.xyz/)** - the world’s only peer-to-peer decentralized proving network.
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
