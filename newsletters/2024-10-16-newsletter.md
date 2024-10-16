@@ -1,9 +1,12 @@
-# ZK Newsletter for 2024-10-16
-This release details...
+# ZK Newsletter for 2024-10-16T
+his release covers a Zero Knowledge Podcast episode with Mikerah on mastering MPC and memes, a Verifiable Summit 2024 talk by Maciej Kalka on zkTLS, and an article by Vitalik Buterin discussing possible futures of the Ethereum protocol, focusing on "The Merge."
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-10-14). 
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/343-2/) episode - *Episode 343: Mastering MPC & Memes with Mikerah*. (09.10.2024)
+* [Where's ZK in zkTLS? | Maciej Kalka - vlayer | Verifiable Summit 2024](https://www.youtube.com/watch?v=sPfvC2fo_9k). (11.10.2024)
+* [Possible futures of the Ethereum protocol, part 1: The Merge](https://vitalik.eth.limo/general/2024/10/14/futures1.html) - article by Vitalik Buterin. (14.10.2024)
 
 ### Reading materials 
 * [DeepFold: Efficient Multilinear Polynomial Commitment from Reed-Solomon Code and Its Application to Zero-knowledge Proofs](https://eprint.iacr.org/2024/1595.pdf) - academic text by Yanpei Guo, Xuanming Liu, Kexi Huang, Wenjie Qu, Tianyang Tao and Jiaheng Zhang. (09.10.2024)
@@ -20,7 +23,6 @@ If you like us are interested in how AI gets its way into software development, 
 ### Watching materials
 * [Zero knowledge proofs in blockchain](https://www.youtube.com/watch?v=rTZhI61VjCU). (10.10.2024)
 * [Aleph ZK Week - Secure Multi-Party Computation](https://www.youtube.com/watch?v=Gb2QjePEvig). (10.10.2024)
-* [Aleph ZK Week - Why should care about trusted setup's decentralization](https://www.youtube.com/watch?v=U1Lh2fMcto8). (10.10.2024)
 * [zkLogin: Onboarding the next billion users to web3 with Deepak Maram | a16z crypto research talks](https://www.youtube.com/watch?v=IyTQ2FfglFE). (11.10.2024)
 * [Zero Knowledge Proofs: Alex Pruden, Aleo Network Foundation - Wyoming Blockchain Stampede](https://www.youtube.com/watch?v=cx7mlAIikmQ). (11.10.2024)
 * [Where's ZK in zkTLS? | Maciej Kalka - vlayer | Verifiable Summit 2024](https://www.youtube.com/watch?v=sPfvC2fo_9k). (11.10.2024)
