@@ -1,9 +1,12 @@
 # ZK Newsletter for 2024-10-30
-This release details...
+This release details developing web applications with zkWasm by Delphinus Lab, a fast hashing method for large primes and a low-degree extension method by Lauri Peltonen.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-10-28). 
 
 ### Top picks
+* [Delphinus Lab - How to develop a web aplication using zkWasm?](https://delphinuslab.com/2024/10/27/tutorial-2-how-to-develop-a-web-application-using-zkwasm/). (27.10.2024)
+* [ZK12: Skyscraper : Super Fast Hash for Big Primes - Katharina Koschatko](https://www.youtube.com/watch?v=rPdEStkr5iQ). (23.10.2024)
+* [Low Degree Extension for IQ < 200](https://medium.com/@laurippeltonen/low-degree-extension-for-iq-200-fd62e3ab2222) - article by Lauri Peltonen. (25.10.2024)
 
 ### Reading materials 
 * [Low Degree Extension for IQ < 200](https://medium.com/@laurippeltonen/low-degree-extension-for-iq-200-fd62e3ab2222) - article by Lauri Peltonen. (25.10.2024)
@@ -23,7 +26,6 @@ If you like us are interested in how AI gets its way into software development, 
 * [A happy family: ZK, TEE, and MPC! - Vanishree Rao](https://www.youtube.com/watch?v=PoOA6J-FLBY). (24.10.2024)
 * [Binary Field and Why it is Good for ZKSNARK](https://www.youtube.com/watch?v=W4Al0-251l0). (25.10.2024)
 * [Innovation in Blockchain Markets - Irfan Shaik](https://www.youtube.com/watch?v=Nza1SzA-V6I). (29.10.2024)
-* [Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs (Jens Ernstberger)](https://www.youtube.com/watch?v=NukjQTOVjjQ). (29.10.2024)
 
 ### Listening materials
 * [Expansion Podcast](https://www.youtube.com/watch?v=hjJxJZ-l8kg) episode - *The Death of Rollup Costs | Matt Katz, Caldera*. (26.10.2024)
