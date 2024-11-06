@@ -1,9 +1,12 @@
 # ZK Newsletter for 2024-11-06
-This release details...
+This release details historical and multichain storage proofs, ZK Email presented at EthDenver 2024, and Taiko's rollup-based economic model.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-11-04). 
 
 ### Top picks
+* [Historical and Multichain Storage Proofs](https://arxiv.org/pdf/2411.00193) - academic text by Marek Kirejczyk, Maciej Kalka and Leonid Logvinov. (31.10.2024)
+* [EthDenver 2024 - ZK Email at Axiom House Presentation](https://www.youtube.com/watch?v=KqyJxPsdx-0). (31.10.2024)
+* [Taiko - Based Rollup Economics](https://taiko.mirror.xyz/PhlvGdIaY3-ZQ1DqI9uM5LxrWGWLAzLI84rkxhvPKmM). (31.10.2024)
 
 ### Reading materials 
 * [Real-time Auctions Are Eating Up Blockchains!](https://pod.network/blog/real-time-auctions-are-eating-up-blockchains) - article by Pod.Network. (25.10.2024)
