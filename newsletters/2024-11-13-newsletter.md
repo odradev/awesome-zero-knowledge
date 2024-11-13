@@ -1,9 +1,13 @@
 # ZK Newsletter for 2024-11-13
-This release details...
+This release details advancements in zero-knowledge proofs with certified deletion, integer-focused SNARKs, public auditability in multiparty computation, and a modular Bitcoin rollup framework.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-10-28). 
 
 ### Top picks
+* [Non-Interactive Zero-Knowledge Proofs with Certified Deletion](https://eprint.iacr.org/2024/1848.pdf) - academic text by Kasra Abbaszadeh and Jonathan Katz. (11.11.2024)
+* [ZNARKs: SNARKs for The Integers](https://www.zksecurity.xyz/blog/posts/znarks/) - article by Mathias Hall-Andersen. (11.11.2024)
+* [ZKMPC: Bring public auditability into MPC](https://www.youtube.com/watch?v=aWQ8zzi1EAQ). (12.11.2024)
+* [Epicenter Podcast](https://www.youtube.com/watch?v=6Ww-JSgPprA) episode - *Citrea: Modular Rollup Framework on Bitcoin - Orkun Mahir Kilic. Ep. 573*. (12.11.2024)
 
 ### Reading materials 
 * [OPTIMSM: FPGA hardware accelerator for Zero-Knowledge MSM](https://eprint.iacr.org/2024/1827.pdf) - academic text by Xander Pottier, Thomas de Ruijter, Jonas Bertels, Wouter Legiest, Michiel Van Beirendonck and Ingrid Verbauwhede. (08.11.2024)
