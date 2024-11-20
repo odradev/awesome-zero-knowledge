@@ -4,6 +4,9 @@ This release details...
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-11-18). 
 
 ### Top picks 
+* [noname 3.0: Native Hints, Standard Library, Compiler Visualizer, And More!](https://www.zksecurity.xyz/blog/posts/noname-stdlib/) - article by ZKsecurity. (13.11.2024)
+* [zkProving the history of Ethereum in real time.](https://www.youtube.com/watch?v=boSCLHs30tk) (15.11.2024)
+* [Optimize zkEVM throughput: Series II](https://www.youtube.com/watch?v=EdUfOvoIhNc). (16.11.2024)
 
 ### Reading materials 
 * [noname 3.0: Native Hints, Standard Library, Compiler Visualizer, And More!](https://www.zksecurity.xyz/blog/posts/noname-stdlib/) - article by ZKsecurity. (13.11.2024)
@@ -21,13 +24,11 @@ If you like us are interested in how AI gets its way into software development, 
 * [ZK Whiteboard Sessions - S2M4: Risc-V ZKVMs with Uma Roy](https://www.youtube.com/watch?v=Y4kIgPm95WM). (13.11.2024)
 * [ZK Email: Fast Proofs and Production-Ready Account Recovery](https://www.youtube.com/watch?v=YvzdNMpynZM). (13.11.2024)
 * [Advancing OP Stack to ZK Rollup: Achieving Efficiency and Security with Zero Knowledge Proofs](https://www.youtube.com/watch?v=04Fis57TTHE). (13.11.2024)
-* [Copying Memory in EVM, how hard can that be?](https://www.youtube.com/watch?v=en-Oeie6ZEs). (13.11.2024)
 * [ZKpassport: Private Unforgeable Identity](https://www.youtube.com/watch?v=W6C-duDEiOU). (13.11.2024)
 * [Digital pheromones: MPC for human connection & coordination](https://www.youtube.com/watch?v=TY2ZWmR_UqM). (13.11.2024)
 * [Today Verkle + Tomorrow ZK = Everything Stateless, Everything Lightclient](https://www.youtube.com/watch?v=oRiShQ5LPqw). (15.11.2024)
 * [zkProving the history of Ethereum in real time.](https://www.youtube.com/watch?v=boSCLHs30tk) (15.11.2024)
 * [A Deep Dive into ZK Proofs of PODs](https://www.youtube.com/watch?v=gWoVrIO1tIE). (16.11.2024)
-* [Closing Ceremonies](https://www.youtube.com/watch?v=r5HBiNMh3Kc). (16.11.2024)
 * [Can zero-knowledge and blockchains help humanity survive?](https://www.youtube.com/watch?v=EyjhtZX_kWE) (16.11.2024)
 * [From MPC Wallets to Smart Contract Accounts](https://www.youtube.com/watch?v=Yr0AS9QifjU). (16.11.2024)
 * [Fuzzing Zero-Knowledge Infrastructure](https://www.youtube.com/watch?v=c0lmPEE6qDM). (16.11.2024)
@@ -46,7 +47,7 @@ If you like us are interested in how AI gets its way into software development, 
 * [Infura’s Decentralized Infrastructure Network Launches as an EigenLayer AVS](https://consensys.io/blog/infura-decentralized-infrastructure-network-launches-as-eigenlayer-avs). (14.11.2024)
 * [Introducing Kailua by RISC Zero: A Hybrid Architecture for OP Rollups](https://risczero.com/blog/introducing-kailua). (15.11.2024)
 * [Dusk Engineering Update: October](https://dusk.network/news/oct-engineering-update/). (15.11.2024)
-* [Risc0 - Boundless: Road to Mainnet]((https://risczero.com/blog/road-to-mainnet)). (18.11.2024)
+* [Risc0 - Boundless: Road to Mainnet](https://risczero.com/blog/road-to-mainnet). (18.11.2024)
 * [Risc0 - Why Kailua Unlocks Fast Finality](https://risczero.com/blog/why-kailua-unlocks-fast-finality). (19.11.2024)
 * [NuLink Monthly Report 2024.10](https://www.nulink.org/blog-posts/nulink-monthly-report-2024-10). (19.11.2024)
 * [Scroll x Tempest: Set-it-and-Forget-it with Automatic Liquidity](https://scroll.io/blog/scroll-x-tempest). (19.11.2024)
