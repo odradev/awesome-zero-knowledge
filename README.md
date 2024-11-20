@@ -98,8 +98,8 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain. **Check o
 * [EthPrague 2023](https://ethprague.com/) conference on June 2023. All recordings can be found [here](https://www.youtube.com/playlist?list=PLRUSTVWJngidPVV_JC89YsomwtryPGV74).
 * [The Ethereum Community Conference 2023](https://www.ethcc.io/) - conference on July 2023 in Paris, France. All recordings can be found [here](https://www.ethcc.io/livestreams).
 * [zkWarsaw Day 2023](https://zkwarsaw.dev/) - event on August 2023 in Warsaw, Poland.
-* [Korea Blockchain Week 2023](https://koreablockchainweek.com/) - conference week on September 2023 in Seoul, South Korea. 
-* [DappCon 2023](https://www.dappcon.io/#about) - conference on September 2023 in Berlin, Germany. Recording can be found [here](https://www.youtube.com/watch?v=jtYCkV1LjiU).
+* [Korea Blockchain Week](https://koreablockchainweek.com/) - conference week on September in Seoul, South Korea. 
+* [DappCon](https://www.dappcon.io/#about) - conference on September in Berlin, Germany. Recording can be found [here](https://www.youtube.com/watch?v=jtYCkV1LjiU).
 * [ETHGlobal NYC](https://ethglobal.com/events/newyork2023) - summit on September 2023 in New York, USA. Recordings can be found [here](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7hzYpBqmzRrHOEE4RGpppJ).
 * [Devconnect 2023](https://devconnect.org/) - conference on November 2023 in Istanbul, Türkiye. Recordings can be found [here](https://app.streameth.org/devconnect/ethconomics/archive). 
 * [ETHGlobal Istanbul](https://ethglobal.com/events/istanbul) - summit on November 2023 in Istanbul, Türkiye.
@@ -107,20 +107,19 @@ A curated list of Zero Knowledge links, mostly focusing on blockchain. **Check o
 * [World Blockchain Summit 2023](https://www.worldblockchainsummit.com/events/bkk-dec-23) - summit on December 2023 in Bangkok, Thailand.
 
 ### Upcoming events
-* [ZH Hack Kraków](https://www.zkkrakow.com/) - hackathon on May 2024 in Kraków, Poland.
-* [DappCon 2024](https://www.dappcon.io/) - conference on May 2024 in Berlin, Germany. 
-* [ZKproof 6](https://zkproof.org/events/zkproof-6-berlin/) - workshop on May 2024 in Berlin, Germany. 
-* [ETHBerlin](https://ethberlin.org/) - conference on May 2024 in Berlin, Germany.
-* [EthPrague 2024](https://ethprague.com/) - conference on May/June 2024.
-* [FHE Summit 2024](https://twitter.com/FHEOnchain/status/1777666116455911823/photo/1/) - summit on July 2024 in Brussels, Belgium. 
-* [ETHGlobal Brussels](https://ethglobal.com/events/brussels) - conference on July 2024 in Brussels, Belgium. 
-* [The Ethereum Community Conference 2024](https://ethcc.io/) - conference on July 2024 in Brussels, Belgium. 
-* [Korea Blockchain Week 2024](https://koreablockchainweek.com/) - conference week on September 2024 in Seoul, South Korea.
-* [ETHGlobal Singapore](https://ethglobal.com/events/singapore2024) - conference on September 2024 in Singapore.
-* [ETHGlobal San Francisco](https://ethglobal.com/events/sanfrancisco2024) - conference on October 2024 in San Francisco, USA.
-* [European WEB3 summit 2024](https://www.web3eurosummit.eu/) - summit on November 2024 in Brussels, Belgium.
-* [DevCon 2024](https://devcon.org/) - Devcon for new Ethereum explorers on November 2024 in Bangkok, Thailand.
-* [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok) - conference on November 2024 in Bangkok, Thailand. 
+* [ZK Hack V](https://zkhack.dev/zkhackV/) - a virtual event featuring workshops and advanced puzzle-solving competitions on November/December 2024.
+* [TCC 2024](https://tcc.iacr.org/2024/) - conference on December 2024 in Milan, Italy.
+* [ETHDenver](https://www.ethdenver.com/) - yearly Ethereum event on February/March 2025 in Denver, United States.
+* [ZKProof 7](https://zkproof.org/events/zkproof-7-sofia/) - conference in March 2025 in Sofia, Bulgaria. 
+* [ETHGlobal Taipei](https://ethglobal.com/events/taipei) - summit on April 2025 in Taipei, Taiwan.
+* [World Blockchain Summit 2025](https://worldblockchainsummit.com/dxb-oct-24/) - summit on April 2025 in Dubai, United Arab Emirates.
+* [EthPrague 2025](https://ethprague.com/) - conference on May 2025 in Prague, Czechia.
+* [DappCon 2025](https://dappcon.io/#about) - conference on June 2025 in Berlin, Germany.
+* [The Ethereum Community Conference 2025](https://ethcc.io/) - conference in June/July 2025 in Cannes, France.
+* [ETHGlobal Cannes](https://ethglobal.com/events/cannes) - summit on July 2025 in Cannes, France.
+* [ETHGlobal New York](https://ethglobal.com/events/newyork2025) - summit on August 2025 in New York, United States.
+* [Korea Blockchain Week 2025](https://koreablockchainweek.com/) - conference week on September 2025 in Seoul, South Korea.
+* [ETHGlobal New Delhi](https://ethglobal.com/events/newdelhi) - summit on September 2025 in New Delhi, India.
 
 ### Articles
 * [Zero Knowledge Proofs for Games](https://blog.o1labs.org/zero-knowledge-proofs-for-games-f8b690a2c1ef) - article about building and running ZK elements within games by Phil Kelly from January 2023.
