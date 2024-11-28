@@ -1,14 +1,18 @@
 # ZK Newsletter for 2024-11-27
-This release details...
+This release includes practical MP-FHE, zkVM security insights and Cardano's first ZK smart contract deployment.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-11-25). 
 
 ### Top picks
+* [Multi-Party Fully Homomorphic Encryption (MP-FHE) in Practice](https://www.youtube.com/watch?v=uNDFmC4NHkM). (20.11.2024)
+* [zkVM Security: What Could Go Wrong?](https://www.zksecurity.xyz/blog/posts/zkvm-security/) - article by Suneal Gong. (21.11.2024)
+* [Datapalooza 2024 | Aayush Gupta ZK](https://www.youtube.com/watch?v=L6JOlr94rVY). (25.11.2024)
+* [The first ZK smart contract has been deployed on the Cardano](https://x.com/SebastienGllmt/status/1861441757977944132). (26.11.2024)
 
 ### Reading materials 
 * [ZK hardware architecture is weird](https://medium.com/@laurippeltonen/zk-hardware-architecture-is-weird-9bced56d5513) - article by Lauri Peltonen. (20.11.2024)
 * [ZKP Meets ML in Verifiability: Existing Scheme & Experimental Analysis](https://hackernoon.com/zkp-meets-ml-in-verifiability-existing-scheme-and-experimental-analysis) - article by EScholar. (20.11.2024)
-* [zkGPU - On the State of the Art for Verifiable Compute of GPU Execution.](https://blog.icme.io/zkgpu-on-the-state-of-the-art-for-verifiable-compute-of-gpu-execution-2/) - article by Wyatt Benno. (21.11.2024)
+* [zkGPU - On the State of the Art for Verifiable Compute of GPU Execution](https://blog.icme.io/zkgpu-on-the-state-of-the-art-for-verifiable-compute-of-gpu-execution-2/) - article by Wyatt Benno. (21.11.2024)
 * [zkVM Security: What Could Go Wrong?](https://www.zksecurity.xyz/blog/posts/zkvm-security/) - article by Suneal Gong. (21.11.2024)
 * [Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption](https://eprint.iacr.org/2024/1879.pdf) - academic text by Intak Hwang, Hyeonbum Lee, Jinyeong Seo and Yongsoo Song. (22.11.2024)
 * [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](https://arxiv.org/pdf/2411.15031) - academic text by Binbin Gu, Juncheng Fang and Faisal Nawab. (22.11.2024)
