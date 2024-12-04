@@ -1,9 +1,12 @@
 # ZK Newsletter for 2024-12-04
-This release details...
+This release details secure payment protocols using zk-proofs, Plonky2/3 that enables efficient recursive proofs for blockchain scalability, and Vitalik Buterin's post about wallets that should enhance user security and flexibility.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-12-02). 
 
 ### Top picks
+* [Building with Plonky3 & Plonky2 | Aggregation Summit 2024](https://www.youtube.com/watch?v=HPu_fSvjAV0). (27.11.2024)
+* [Algebraic Zero Knowledge Contingent Payment](https://eprint.iacr.org/2024/1930.pdf) - academic text by Javier Gomez-Martinez, Dimitrios Vasilopoulos, Pedro Moreno-Sanchez and Dario Fiore. (29.11.2024)
+* [What I would love to see in a wallet](https://vitalik.eth.limo/general/2024/12/03/wallets.html) - post by Vitalik Buterin. (03.12.2024)
 
 ### Reading materials 
 * [ZKPs and Quantum Computing: Formidable Allies for Lightyear Innovations](https://hackernoon.com/zkps-and-quantum-computing-formidable-allies-for-lightyear-innovations) - article by Samuel Bassey. (27.11.2024)
