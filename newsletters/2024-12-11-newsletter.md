@@ -1,10 +1,11 @@
 # ZK Newsletter for 2024-12-11
-This release details...
-
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-12-09). 
 
 ### Top picks
-
+* [Epicenter Podcast](https://www.youtube.com/watch?v=Gjn6rtMtitg) episode - *Bitcoin OS: Bitcoin Block 853626 Changed Everything For BTC Smart Contracts - Edan Yago. Ep. 576*. (03.12.2024)
+* [Zain Cheng on zkVerify, Rollups, and the Future of Zero-Knowledge Tech | Horizen Labs Interview](https://www.youtube.com/watch?v=K3_VzKfz3JM). (05.12.2024)
+* [A Technical Dive into Jolt: The RISC-V zkVM](https://www.zksecurity.xyz/blog/posts/how-jolt-works/) - article by Imam Al-Fath. (09.12.2024)
+ 
 ### Reading materials 
 * [Efficient Succinct Zero-Knowledge Arguments in the CL Framework](https://eprint.iacr.org/2024/1966.pdf) - academic text by Agathe Beaugrand, Guilhem Castagnos and Fabien Laguillaumie. (06.12.2024)
 * [Scribe: Low-memory SNARKs via Read-Write Streaming](https://eprint.iacr.org/2024/1970.pdf) - academic text by Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, Karan Newatia and Steve Wang. (06.12.2024)
@@ -23,7 +24,7 @@ If you like us are interested in how AI gets its way into software development, 
 * [ZK Hack V - Workshop: Range Checks using Polygon Plonky3 + Puzzle V-3](https://www.youtube.com/watch?v=c8y7l3Ee70g). (10.12.2024)
 
 ### Listening materials
-* [Epicenter Podcast](https://www.youtube.com/watch?v=Gjn6rtMtitg) episode - * Bitcoin OS: Bitcoin Block 853626 Changed Everything For BTC Smart Contracts - Edan Yago. Ep. 576*. (03.12.2024)
+* [Epicenter Podcast](https://www.youtube.com/watch?v=Gjn6rtMtitg) episode - *Bitcoin OS: Bitcoin Block 853626 Changed Everything For BTC Smart Contracts - Edan Yago. Ep. 576*. (03.12.2024)
 * [Expansion Podcast](https://www.youtube.com/watch?v=npib_1gK_es) eoisode - *Exploring the Hidden Costs of Decentralization and Bitcoin's ZK Revival | Roundup*. (07.12.2024)
 * [Epicenter Podcast](https://www.youtube.com/watch?v=SuzmcFBDbpk) episode - *Succinct: Every Rollup Will Be a ZK Rollup! - Uma Roy. Ep. 577*. (10.12.2024)
 * [Expansion Pocast](https://www.youtube.com/watch?v=W6UZ6xGoDfE) episode - *The Case for Application Specific Sequencing | Ben Livshits & Terry Chung*. (10.12.2024) 
