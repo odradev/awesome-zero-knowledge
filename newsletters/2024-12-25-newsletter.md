@@ -1,9 +1,11 @@
 # ZK Newsletter for 2024-12-25
-This release details...
+This release details what quantum computing means for Starknet and article about Cartesian Merkle Tree.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2024-12-23). 
 
 ### Top picks
+* [Quantum computing is coming. What does it mean for Starknet?](https://starkware.co/blog/quantum-computing-is-starknet-prepared/). (18.12.2024)
+* [Cartesian Merkle Tree — The New Breed](https://medium.com/@Arvolear/cartesian-merkle-tree-the-new-breed-a30b005ecf27) - article by Artem Chystiakov. (22.12.2024)
 
 ### Reading materials 
 * [Can ZKPs Redefine User Privacy? How zkPass is Shaping the Future of Data Security](https://docs.envio.dev/blog/zkpass-shaping-future-of-data-privacy) - article by Envio. (18.12.2024)
