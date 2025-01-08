@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-01-08
-This release details...
+This release details on-chain ZK-Powered Unified ID, d/acc and Dusk: Post-Mainnet Roadmap.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-01-07). 
 
 ### Top picks
+* [Epicenter Podcast](https://www.youtube.com/watch?v=oNTFzyiakWI) episode - *Privado ID & Quark ID: On-Chain ZK-Powered Unified ID - Diego Fernandez & Evin McMullen. Ep. 580*. (01.01.2025)
+* [d/acc: one year later](https://vitalik.eth.limo/general/2025/01/05/dacc2.html) - post by Vitalik Buterin. (05.01.2025)
+* [Dusk: Post-Mainnet Roadmap](https://dusk.network/news/post-mainnet-roadmap). (06.01.2025)
 
 ### Reading materials 
 * [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](https://eprint.iacr.org/2024/2084.pdf) - academic text by Alexander Frolov. (27.12.2025)
@@ -34,7 +37,6 @@ If you like us are interested in how AI gets its way into software development, 
 * [Building Trust in Mina’s Development Processes](https://minaprotocol.com/blog/building-trust-in-minas-development-processes). (31.12.2024)
 * [A new funding process for Mina’s ecosystem](https://minaprotocol.com/blog/a-new-funding-process-for-minas-ecosystem). (03.01.2025)
 * [ARC-101: Establishing standards for Aleo validators](https://aleo.org/post/arc-101-aleo-validators/). (03.01.2025)
-* [Announcing Heurist Agent Framework](https://heuristai.medium.com/announcing-heurist-agent-framework-bcd68d2d391f). (04.01.2025)
 * [The Citrea Recap — December](https://www.blog.citrea.xyz/the-citrea-recap-december/). (05.01.2025)
 * [Dusk: Post-Mainnet Roadmap](https://dusk.network/news/post-mainnet-roadmap). (06.01.2025)
 * [Dusk Mainnet is Live](https://dusk.network/news/mainnet-is-live/). (07.01.2025)
