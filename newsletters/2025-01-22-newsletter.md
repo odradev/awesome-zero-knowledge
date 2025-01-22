@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-01-22
-This release details...
+This release details elliptic curves, ZkNoid and Trusted Machine Learning.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-01-20). 
 
 ### Top picks
+* [Elliptic Curves In-Depth (Part 1)](https://medium.com/@francomangone18/elliptic-curves-in-depth-part-1-a9c2d37bf484) - article by Frank Mangone. (14.01.2025)
+* [Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography](https://arxiv.org/pdf/2501.08970) - academic text by Ilia Shumailov, Daniel Ramage, Sarah Meiklejohn, Peter Kairouz, Florian Hartmann, Borja Balle and Eugene Bagdasarian. (15.01.2025)
+* [How ZkNoid utilizes ZK proofs to ensure fairness and transparency in online gaming](https://minaprotocol.com/blog/how-zknoid-uses-zk-proofs-for-fair-and-transparent-online-gaming). (20.01.2025)
 
 ### Reading materials 
 * [Elliptic Curves In-Depth (Part 1)](https://medium.com/@francomangone18/elliptic-curves-in-depth-part-1-a9c2d37bf484) - article by Frank Mangone. (14.01.2025)
