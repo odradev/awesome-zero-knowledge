@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-01-15
-This release details...
+This release details Bitcoin's L2 Opportunity, ZK Secret Santa and ZKsync Trusted Execution Environment Proofs.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-01-14). 
 
 ### Top picks
+* [Expansion Podcast](https://www.youtube.com/watch?v=yFdwamz8ZLM) episode - *Bitcoin's L2 Opportunity and Evolving Crypto Beyond Asset Ledgers | Roundup*. (10.01.2025)
+* [ZK Secret Santa](https://arxiv.org/pdf/2501.06515) - academic text by Artem Chystiakov and Kyrylo Riabov. (11.01.2025)
+* [ZKsync Trusted Execution Environment Proofs](https://zksync.mirror.xyz/RlVZHqwt8lO7vYLN-r3156HrEjjBIFd02zYk3jZhleQ). (13.01.2025)
 
 ### Reading materials 
 * [VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning](https://arxiv.org/pdf/2501.04319) - academic text by Ahmed Ayoub Bellachia, Mouhamed Amine Bouchiha, Yacine Ghamri-Doudane and Mourad Rabah. (08.01.2025)
@@ -55,4 +58,3 @@ If you like us are interested in how AI gets its way into software development, 
 
 ### Our Sponsors
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
-
