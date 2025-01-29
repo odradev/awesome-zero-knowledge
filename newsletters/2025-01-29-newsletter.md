@@ -1,9 +1,13 @@
 # ZK Newsletter for 2025-01-29
-This release details...
+This release details indistinguishability obfuscation, payments in asynchronous networks and how to hallucinate a server.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-01-28). 
 
 ### Top picks
+* [Indistinguishability Obfuscation — wait, what?](https://medium.com/@laurippeltonen/indistinguishable-obfuscation-wait-what-49ed87a445aa) - article by Lauri Peltonen. (27.01.2025)
+* [Fast, private and regulated payments in asynchronous networks](https://eprint.iacr.org/2025/098.pdf) - academic text by Maxence Brugeres, Victor Languille, Petr Kuznetsov and Hamza Zarfaoui. (22.01.2025)
+* [How To Hallucinate A Server by gubsheep | Devcon SEA](https://www.youtube.com/watch?v=FvLpfGP8Lrk). (27.01.2025)
+ 
 
 ### Reading materials 
 * [Fast, private and regulated payments in asynchronous networks](https://eprint.iacr.org/2025/098.pdf) - academic text by Maxence Brugeres, Victor Languille, Petr Kuznetsov and Hamza Zarfaoui. (22.01.2025)
@@ -18,6 +22,7 @@ If you like us are interested in how AI gets its way into software development, 
 * [2024/25 CACR Speaker Series | Taylor Reynolds](https://www.youtube.com/watch?v=Yg1dn8XtNZg). (23.01.2025)
 * [Explore Expander Bootcamp: Anonymous Credentials from ECDSA](https://www.youtube.com/watch?v=dlO91d1ZYso). (24.01.2025)
 * [Graduate Seminar - Zero Knowledge in Streaming Interactive Proofs](https://www.youtube.com/watch?v=1fRSE9utxfY). (27.01.2025)
+* [How To Hallucinate A Server by gubsheep | Devcon SEA](https://www.youtube.com/watch?v=FvLpfGP8Lrk). (27.01.2025)
  
 ### Listening materials
 * [STARK Spaces | The Diverse Flavors of the SN Stack](https://www.youtube.com/watch?v=7bKyn1G5Kgc). (26.01.2025)
