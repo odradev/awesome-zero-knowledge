@@ -1,10 +1,12 @@
 # ZK Newsletter for 2025-02-12
-This release details...
-
+This release details securing AI agents, ZK-Prover Network and efficient pseudorandom correlation generators.
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-02-11). 
 
 ### Top picks
-
+* [Securing AI Agents with Multi-Party Computation w/ David Lachmish](https://www.youtube.com/watch?v=HUaYO68vqkQ). (06.02.2025)
+* [If A 'ZK'-Prover Network Asks For Your Data. Don’t Give It to Them.](https://blog.icme.io/zk-prover-networks-want-your-data-dont-give-it-to-them-2/) - article by Wyatt Benno. (06.02.2025)
+* [Efficient Pseudorandom Correlation Generators for Any Finite Field](https://eprint.iacr.org/2025/169.pdf) - academic text by Zhe Li, Chaoping Xing, Yizhou Yao and Chen Yuan. (07.02.2025)
+ 
 ### Reading materials 
 * [If A 'ZK'-Prover Network Asks For Your Data. Don’t Give It to Them.](https://blog.icme.io/zk-prover-networks-want-your-data-dont-give-it-to-them-2/) - article by Wyatt Benno. (06.02.2025)
 * [ExpProof : Operationalizing Explanations for Confidential Models with ZKPs](https://arxiv.org/pdf/2502.03773) - academic text by Chhavi Yadav, Evan Monroe Laufer, Dan Boneh and Kamalika Chaudhuri. (06.02.2025)
@@ -36,10 +38,8 @@ If you like us are interested in how AI gets its way into software development, 
 * [Ingonyama - Introducing ICICLE-Stwo: A GPU-Accelerated Stwo Prover](https://medium.com/@ingonyama/introducing-icicle-stwo-a-gpu-accelerated-stwo-prover-550b413d4f88). (07.02.2025)
 * [Fermah Generates Proofs for a16z’s Jolt](https://www.fermah.xyz/blog-posts/jolt-x-fermah). (10.02.2025)
 * [Citrea's BitVM-Based Bitcoin Bridge - Clementine's Latest Design](https://www.blog.citrea.xyz/citrea-bitvm-bitcoin-bridge-clementine-latest-design/). (10.02.2025)
-* [Introducing the New Gnosis DAO Documentation](https://www.gnosis.io/blog/introducing-the-new-gnosis-dao-documentation). (11.02.2025)
 * [Manta - Achieving Fast Finality on Manta Network: A Dual-Layer Approach](https://mantanetwork.medium.com/achieving-fast-finality-on-manta-network-a-dual-layer-approach-84f1ee74375b). (11.02.2025)
-* [Is Push Chain Another L1?](https://push.org/blog/another-l1/). (11.02.2025)
-
+ 
 ### Upcoming events
 * [ETHDenver](https://www.ethdenver.com/) - yearly Ethereum event on February/March 2025 in Denver, United States.
 * [ZKProof 7](https://zkproof.org/events/zkproof-7-sofia/) - conference in March 2025 in Sofia, Bulgaria. 
