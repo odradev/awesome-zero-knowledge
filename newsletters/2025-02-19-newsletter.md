@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-02-19
-This release details...
+This release details librustzcash, a knowledge base for ZK bugs and verifiable streaming computation.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-02-17). 
 
 ### Top picks
+* [librustzcash: a Rust Crates Walkthrough w/ nuttycom](https://www.youtube.com/watch?v=My2VXNfrxOQ). (12.02.2025)
+* [Introducing bugs.zksecurity.xyz a knowledge base for ZK bugs](https://www.zksecurity.xyz/blog/posts/zkbugs-website/) - article by Stefanos Chaliasos. (17.02.2025)
+* [Verifiable Streaming Computation and Step-by-Step Zero-Knowledge](https://eprint.iacr.org/2025/251.pdf) - academic text by Abtin Afshar and Rishab Goyal. (18.02.2025)
 
 ### Reading materials 
 * [Reasons to have higher L1 gas limits even in an L2-heavy Ethereum](https://vitalik.eth.limo/general/2025/02/14/l1scaling.html) - post by Vitalik Buterin. (14.02.2025)
