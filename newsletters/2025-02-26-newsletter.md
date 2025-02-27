@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-02-26
-This release details...
+This release details R1CS, claim reduction protocolsa= and attack surfaces on proof systems.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-02-25). 
 
 ### Top picks
+* [Bulletproofs for R1CS: Bridging the Completeness-Soundness Gap and a ZK Extension](https://eprint.iacr.org/2025/327.pdf) - academic text by Gil Segev. (23.02.2025)
+* [Practical Attacks on Claim Reduction Protocols with Lev Soukhanov](https://www.youtube.com/watch?v=vfBi4PpMds4). (25.02.2025)
+* [Proof is in the Pudding 03: Attack Surfaces on Proof Systems](https://www.youtube.com/watch?v=ZYlkhL1l9lA). (25.02.2025)
 
 ### Reading materials 
 * [Uncovering and Fixing an Inflation Bug in Aleo](https://blog.zksecurity.xyz/posts/aleo-bug/) - article by Suneal Gong. (19.02.2025)
