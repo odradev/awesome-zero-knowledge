@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-03-05
-This release details...
+This release details alternative to RISC-V Based zkVM, using CUDA and BitVM.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-03-04). 
 
 ### Top picks
+* [Alternative to RISC-V Based zkVM: AI Based Transpiler W/ Fuzz Diff Testing | Clement Walter -Kakarot](https://www.youtube.com/watch?v=ZR21KY_3ZVQ). (28.02.2025)
+* [Using CUDA to accelerate ZKPs](https://medium.com/@ronantech/using-cuda-to-accelerate-zkps-6fc1213daa31) - article by Ronan Takizawa. (02.03.2025)
+* [BitVM: Unlocking Arbitrary Computation on Bitcoin Through Circuit Abstractions](https://blog.zksecurity.xyz/posts/bitvm/) - article by Katat Choi. (03.03.2025)
 
 ### Reading materials 
 * [A Survey of Zero-Knowledge Proof Based Verifiable Machine Learning](https://arxiv.org/pdf/2502.18535) - acadmiec text by Zhizhi Peng, Taotao Wang, Chonghe Zhao, Guofu Liao, Zibin Lin, Yifeng Liu, Bin Cao, Long Shi, Qing Yang and Shengli Zhang. (25.02.2025)
@@ -42,7 +45,6 @@ If you like us are interested in how AI gets its way into software development, 
 * [Ethereum - Audit Results for the Pectra System Contracts](https://blog.ethereum.org/2025/02/28/pectra-audit-results). (28.02.2025)
 * [Taiko - Revisit Native Rollups](https://taiko.mirror.xyz/Mr5Fl0epl7ooCr5199yVrmGXWUV-IdYBHHtAwLXrp58). (03.03.2025)
 * [Case Study: Accelerating Zircuit’s Zero-Knowledge Proofs with ICICLE](https://medium.com/@ingonyama/case-study-accelerating-zircuits-zero-knowledge-proofs-with-icicle-a86beaca7fbe). (03.03.2025)
-* [DeGate officially upgrades cross-chain trading, now supporting Base and BSC Chains](https://medium.com/degate/degate-officially-upgrades-cross-chain-trading-now-supporting-base-and-bsc-chains-8fbb03c425c7). (04.03.2025)
 * [Expanding the Aleo validator set: A step toward greater decentralization](https://aleo.org/post/new-aleo-validators/). (04.03.2025)
 * [Hyperlane - Introducing OpenUSDT: The Scalable Stablecoin for the Superchain](https://medium.com/hyperlane/introducing-openusdt-the-scalable-stablecoin-for-the-superchain-7a2d5de135be). (04.03.2025)
  
