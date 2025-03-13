@@ -4,6 +4,10 @@ This release details...
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-03-11). 
 
 ### Top picks
+* [Lite-PoT: Practical Powers-of-Tau Setup Ceremony](https://arxiv.org/pdf/2503.04549) - academic text by Lucien K. L. Ng, Pedro Moreno-Sanchez, Mohsen Minaei, Panagiotis Chatzigiannis, Adithya Bhat and Duc V. Le. (06.03.2025)
+* [Introducing Pico: A Modular and Performant zkVM by Alan Li, Brevis | Modular & L2 Day, Denver](https://www.youtube.com/watch?v=SYNlCT23J0c). (06.03.2025)
+* [Starknet: Bringing Bitcoin and Ethereum Together | Oren Katz | BASS Denver 2025](https://www.youtube.com/watch?v=HSJthoLWZSw). (11.03.2025)
+* [The Hybrid L2: Putting BTC at the Center of DeFi - Alexei Zamyatin, Co-founder of BOB](https://www.youtube.com/watch?v=Cn0evv2SqzU). (11.03.2025)
 
 ### Reading materials 
 * [The Barrett-Montgomery duality and a New Multi-Precision Modular Reduction Scheme with only n²+1 Digit Multiplications](https://hackmd.io/@Ingonyama/Barret-Montgomery) - article by Yuval Domb. (04.03.2025)
@@ -38,7 +42,6 @@ Midnight](https://www.youtube.com/watch?v=pD5g-iZUo_A). (11.03.2025)
 * [A Unified Framework for Succinct Garbling from Homomorphic Secret Sharing](https://eprint.iacr.org/2025/442.pdf) - academic text by Yuval Ishai, Hanjun Li and Huijia Lin. (07.03.2025)
  
 ### Updates of ZK projects
-* [Hyperlane - Introducing OpenUSDT: The Scalable Stablecoin for the Superchain](https://medium.com/hyperlane/introducing-openusdt-the-scalable-stablecoin-for-the-superchain-7a2d5de135be). (05.03.2025) (?)
 * [Push Chain Joins Forces With Gaia Network](https://push.org/blog/push-chain-joins-forces-with-gaia/). (06.03.2025)
 * [Scroll Roadmap 2025: Security, Scaling, and Better UX](https://scroll.io/blog/scroll-roadmap-2025). (06.03.2025)
 * [EigenLayer Update: Holesky Network Instability and Upcoming Sepolia Support](https://www.blog.eigenlayer.xyz/eigenlayer-update-holesky-network-instability-and-upcoming-sepolia-support/). (07.03.2025)
