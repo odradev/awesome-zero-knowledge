@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-03-19
-This release details...
+This release details Learning ZK, zkAML anf privacy with Aleo and zPass.
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-03-18). 
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/352/) episode - *Learning ZK with Jeffrey from RareSkills*. (12.03.2025)
+* [zkAML: Zero-knowledge Anti Money Laundering in Smart Contracts with whitelist approach](https://eprint.iacr.org/2025/465.pdf) - academic text by Donghwan Oh, Semin Han, Jihye Kim, Hyunok Oh, Jiyeal Chung, Jieun Lee, Hee-jun Yoo and Tae wan Kim. (13.03.2025)
+* [Privacy with Aleo and zPass - Zk Lim, DevRel Engineer at Aleo](https://www.youtube.com/watch?v=cGXdZmkRqHs). (17.03.2025)
 
 ### Reading materials 
 * [zkVM Overview](https://medium.com/@ProjectZKM/zkvm-overview-ee5351848c3c) - article by ZKM. (12.03.2025)
