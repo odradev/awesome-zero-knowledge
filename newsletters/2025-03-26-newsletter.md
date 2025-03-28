@@ -1,9 +1,12 @@
 # ZK Newsletter for 2025-03-26
-This release details...
+This release details ZK Proof 7, elliptic curve gas optimization and foundational maths. 
 
 If you like us are interested in how AI gets its way into software development, you might be interested in our new newsletter: [CodeGen New](https://codegen.substack.com/p/codegen-news-for-2025-03-25). 
 
 ### Top picks
+* Recordings from ZK Proof 7 - [Day 1](https://www.youtube.com/playlist?list=PLOEty2U8Y69Vbi7AzfLLc7X-xjCuzOa6B), [Day 2](https://www.youtube.com/playlist?list=PLOEty2U8Y69V6_OJNHTFiQPKH9zQlsBZa) and [Day 3](https://www.youtube.com/playlist?list=PLOEty2U8Y69VryJipVF4CW8wlIDZAbUPj). (25.03.2025)
+* [Zk-Rollup’s Elliptic Curve gas optimization](https://medium.com/tokamak-network/zk-rollups-elliptic-curve-gas-optimization-6520bf4373f1) - article by Tokamak Network. (21.03.2025)
+* [Foundational Maths for Zero-Knowledge Proofs — Part 1](https://medium.com/@biswashreedey/foundational-maths-for-zero-knowledge-proofs-part-1-081f824853ac) - article by Biswashree Dey. (24.03.2025)
 
 ### Reading materials 
 * [zkSNARK 1: Polynomials](https://medium.com/@olusojiobah/zksnark-1-polynomials-ce86d464504c) - article by Obaloluwa Olusoji. (20.03.2025)
