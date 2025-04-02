@@ -1,7 +1,10 @@
 # ZK Newsletter for 2025-04-02
-This release details...
+This release details distributed SNARKs, zkMIPS Precompire and hardware-friendliness of HyperPlonk.
 
 ### Top picks
+* [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf) - academic text by Weihan Li, Zongyang Zhang, Yun Li, Pengfei Zhu, Cheng Hong and Jianwei Liu. (28.03.2025)
+* [An Introduction to the zkMIPS Precompile - Vanhger Pham, ZK Engineer at ZKM](https://www.youtube.com/watch?v=_Vm3XH-ygJk). (01.04.2025)
+* [Hardware-friendliness of HyperPlonk, Part2](https://hackmd.io/@Ingonyama/Hardware-Friendliness-HyperPlonk-Part2) - article by Elan Neiger. (01.04.2025)
 
 ### Reading materials 
 * [FeatherWallet: A Lightweight Mobile Cryptocurrency Wallet Using zk-SNARKs](https://arxiv.org/pdf/2503.22717) - academic text by Martin Perešíni, Ivan Homoliak, Samuel Olekšák and Samuel Slávka. (25.03.2025)
@@ -56,5 +59,5 @@ This release details...
 ### Our Sponsors
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
 
-Check out also our other Newsletter - [CodeGen News](https://codegen.substack.com/p/codegen-news-for-2025-04-01). 
+Check out also our other Newsletter - [CodeGen News](https://codegen.substack.com/p/codegen-news-for-2025-04-02). 
 
