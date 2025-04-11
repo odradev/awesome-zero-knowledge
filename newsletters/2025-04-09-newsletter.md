@@ -1,11 +1,15 @@
 # ZK Newsletter for 2025-04-09
-This release details...
+This release details zkVMs, experimenting with zk-SNARKs, Boojum 2.0 and ZK Smart Contracts.
 
 ### Top picks
+* [Agglayer Education Series | zkVMs Are Eating Crypto](https://www.youtube.com/watch?v=QBC8PsNy-TE). (02.04.2025)
+* [Experimenting with zk-SNARKs](https://medium.com/@excid/experimenting-with-zk-snarks-527d13705d3c) - article by ExclID. (03.04.2025)
+* [Boojum 2.0: The Future of High-Speed ZK Proofs](https://www.youtube.com/watch?v=r7NOSRJya4g). (04.04.2025)
+* [Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](https://arxiv.org/pdf/2504.04322) - academic text by Pei Xu. (05.04.2025)
 
 ### Reading materials 
 * [Coinductive Proofs of Regular Expression Equivalence in Zero Knowledge](https://arxiv.org/pdf/2504.01198) - academic text by John Kolesar, Shan Ali, Timos Antonopoulos and Ruzica Piskac. (01.04.2025)
-* [Proof Parties - zero knowledge proofs with friends](httsps://blog.icme.io/proof-parties-zero-knowledge-proofs-with-friends/) - article by Wyatt Benno. (02.04.2025)
+* [Proof Parties - zero knowledge proofs with friends](https://blog.icme.io/proof-parties-zero-knowledge-proofs-with-friends/) - article by Wyatt Benno. (02.04.2025)
 * [BaseFold±: A Simple Improvement to BaseFold's Multilinear Polynomial Commitment Scheme using Point-Check](https://hackmd.io/@Ingonyama/point-check) - article by Yuval Domb. (03.04.2025)
 * [Experimenting with zk-SNARKs](https://medium.com/@excid/experimenting-with-zk-snarks-527d13705d3c) - article by ExclID. (03.04.2025)
 * [Smart Contracts Were Just the Beginning: Why Ethereum’s Future Is ZK-Proven Execution](https://blog.kakarot.org/smart-contracts-were-just-the-beginning-why-ethereums-future-is-zk-proven-execution-3ffc7197a8ed) - article by Kakarot Team. (05.04.2025)
