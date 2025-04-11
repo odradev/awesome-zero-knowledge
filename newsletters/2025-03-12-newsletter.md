@@ -24,7 +24,7 @@ If you like us are interested in how AI gets its way into software development, 
 ### Watching materials
 * [Privacy: The Missing Link - Zac Williamson, CEO of Aztec](https://www.youtube.com/watch?v=lphZP5dIzoQ). (04.03.2025)
 * [Introducing Pico: A Modular and Performant zkVM by Alan Li, Brevis | Modular & L2 Day, Denver](https://www.youtube.com/watch?v=SYNlCT23J0c). (06.03.2025)
-* [The Zero-Knowledge Supply Chain, with Vanishree Rao, Founder of Fermah](https://www.youtube.com/watch?v=qjBkb3rI7H4. (10.03.2025)
+* [The Zero-Knowledge Supply Chain, with Vanishree Rao, Founder of Fermah](https://www.youtube.com/watch?v=qjBkb3rI7H4). (10.03.2025)
 * [Brandon & Austin of o1Labs @ ZK Hack Meetup in Denver, 24 Feb 2025](https://www.youtube.com/watch?v=5UdGxo10Gws). (10.03.2025)
 * [Starknet: Bringing Bitcoin and Ethereum Together | Oren Katz | BASS Denver 2025](https://www.youtube.com/watch?v=HSJthoLWZSw). (11.03.2025)
 * [The Hybrid L2: Putting BTC at the Center of DeFi - Alexei Zamyatin, Co-founder of BOB](https://www.youtube.com/watch?v=Cn0evv2SqzU). (11.03.2025)
