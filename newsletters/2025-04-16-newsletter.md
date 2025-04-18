@@ -1,7 +1,9 @@
 # ZK Newsletter for 2025-04-16
-This release details...
+This release detail threshold multiparty homomorphic encryption and zkRollup Economics on Bitcoin.
 
 ### Top picks
+* [Compact 1-Round Threshold Multiparty Homomorphic Encryption From Public Aggregatable Transcripts](https://www.youtube.com/watch?v=9Jsk6b4mFy0). (11.04.2025)
+* [Presentation by Dr. Redouane Elkamhi, Chief Economist at GOAT Network](https://www.youtube.com/watch?v=g0RFy5SJEhE). (11.04.2025)
 
 ### Reading materials 
 * [GIGA Protocol: Unlocking Trustless Parallel Computation in Blockchains](https://eprint.iacr.org/2025/645.pdf) - academic text by Alberto Garoffolo, Dmytro Kaidalov, Roman Oliynykov, Daniele Di Tullio and Mariia Rodinko. (12.04.2025)
