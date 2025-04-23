@@ -1,7 +1,11 @@
 # ZK Newsletter for 2025-04-23
-This release details...
+This release details quantum engineering, ZK and AI, CoSNARKs in halo2 and interview with Jordi Baylina from Polygon.
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/357/) episode - *Quantum Engineering with Jelena Vučković*. (16.04.2025)
+* [When ZK meets AI - Brandon Kase, CEO at o1 Labs](https://www.youtube.com/watch?v=HJ-Q0SWIV2M). (16.04.2025)
+* [CoSNARKs in halo2 | Ying Tong, Independent Researcher | ETHTaipei 2025](https://www.youtube.com/watch?v=3FjjtXO7vgU). (20.04.2025)
+* [#44: Jordi Baylina, Co-founder of Polygon](https://www.youtube.com/watch?v=pJX_6UdHgXs). (21.04.2025)
 
 ### Reading materials 
 * [Benchmarking Bionetta, the client-side zkML framework](https://medium.com/@rarimo/benchmarking-bionetta-the-client-side-zkml-framework-b3c4beee58e3) - article by Rarimo. (16.04.2025)
@@ -29,7 +33,6 @@ This release details...
 ### Listening materials
 * [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/357/) episode - *Quantum Engineering with Jelena Vučković*. (16.04.2025)
 * [Privacy By Design: ZK, MPC, TEE | Funding the Commons SF 2025](https://www.youtube.com/watch?v=nlB4hyIh23M). (16.04.2025)
-* [A New Spin on Quantum Computing with Photonic](https://www.youtube.com/watch?v=yCwwD2pkN9c). (16.04.2025)
 * [When ZK meets AI - Brandon Kase, CEO at o1 Labs](https://www.youtube.com/watch?v=HJ-Q0SWIV2M). (16.04.2025)
 * [Epicenter Podcast](https://www.youtube.com/watch?v=sOw2R1EMKqw) episode - *Tally: The Software Layer for Tokenized Organizations - Dennison Bertram. Ep. 594*. (17.04.2025)
 * [Panel 2: Applications of ZK](https://www.youtube.com/watch?v=mhBDy20XILc). (18.04.2025)
@@ -64,5 +67,5 @@ This release details...
 ### Our Sponsors
 * **[Odra.dev](https://odra.dev)** - cutting-edge smart contract development tools for professionals with deadlines.
 
-Check out also our other Newsletter - [CodeGen News](https://codegen.substack.com/p/codegen-news-for-2025-04-01). 
+Check out also our other Newsletter - [CodeGen News](https://codegen.substack.com/p/codegen-news-for-2025-04-23). 
 
