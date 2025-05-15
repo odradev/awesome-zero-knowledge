@@ -1,7 +1,10 @@
 # ZK Newsletter for 2025-05-14
-This release details...
+This release details quantum punks, decentralized proof generation and Polyhedra Network.
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/360/) episode - *Quantum Punks with Alex and Nicola*. (07.05.2025)
+* [The Holy Grail of Decentralized Proof Generation at Scale - Ismael H-R, CEO of Lagrange](https://www.youtube.com/watch?v=zv1JsaI775Y). (09.05.2025)
+* [Polyhedra Network: Verifiable AI, zkBridge, and the Future of Cross-Chain Privacy | Blockchain](https://www.youtube.com/watch?v=u4e7Z9dUjM0). (12.05.2025)
 
 ### Reading materials 
 * [From Sui’s Sub-Second MPC Network Ika to the Technical Contest Among FHE, TEE, ZKP, and MPC](https://medium.com/ybbcapital/from-suis-sub-second-mpc-network-ika-to-the-technical-contest-among-fhe-tee-zkp-and-mpc-d3376a5c397c) - article by YBS. (08.05.2025)
