@@ -1,7 +1,11 @@
 # ZK Newsletter for 2025-05-21
-This release details...
+This release details LatticeFold, Bitcoin dApp and Self-Custody.s
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/361/) episode - *Implementing LatticeFold with Matthew and Albert from Nethermind*. (14.05.2025)
+* [Verifiable compute is eating the world - Presentation by Wyatt Benno, Core Contributor at NovaNet](https://www.youtube.com/watch?v=h7Bzeu__pos). (13.05.2025)
+* [Building a Bitcoin dApp- Broly Demo and Dev Libraries | Starknet](https://www.youtube.com/watch?v=xsh3q8d0LZw). (18.05.2025)
+* [Self-Custody. No Seed Phrase. w/ Ouriel Ohayon (Zengo)](https://solana.com/validated/episodes/self-custody-no-seed-phrase-w-ouriel-ohayon-zengo). (20.05.2025)
 
 ### Reading materials 
 * [Valida ISA Spec, version 1.0: A zk-Optimized Instruction Set Architecture](https://arxiv.org/pdf/2505.08114) - academic text by Morgan Thomas, Mamy Ratsimbazafy, Marcin Bugaj, Lewis Revill, Carlo Modica, Sebastian Schmidt, Ventali Tan, Daniel Lubarov, Max Gillett and Wei Dai. (12.05.2025)
