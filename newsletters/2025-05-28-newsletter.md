@@ -1,8 +1,11 @@
 # ZK Newsletter for 2025-05-28
-This release details...
+This release details Polocolo, KZH-Fold and Solana on MetaMask. 
 
 ### Top picks
-
+* [Polocolo: A ZK-Friendly Hash Function Based on S-boxes Using Power Residues](https://eprint.iacr.org/2025/926.pdf) - academic text by Jincheol Ha, Seongha Hwang, Jooyoung Lee, Seungmin Park and Mincheol Son. (23.05.2025)
+* [KZH-Fold: Accountable Voting from Sublinear Accumulation](https://www.youtube.com/watch?v=vnz05W3ten0). (27.05.2025)
+* [Introducing Solana on MetaMask](https://metamask.io/en-GB/news/solana-on-metamask-sol-wallet). (27.05.2025)
+ 
 ### Reading materials 
 * [Automated Verification of Consistency in Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2025/916.pdf) - academic text by Kostas Kryptos Chalkias, Deepak Maram, Arnab Roy, Joy Wang and Aayush Yadav. (21.05.2025)
 * [Programmable privacy: how zk and FHE can coexist in smart contracts](https://medium.com/@swapspace-co/programmable-privacy-how-zk-and-fhe-can-coexist-in-smart-contracts-0cfddf5f672c) - article by SwapSpace. (22.05.2025)
