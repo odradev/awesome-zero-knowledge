@@ -1,7 +1,9 @@
 # ZK Newsletter for 2025-06-11
-This release details...
+This release details zkTLS and interview with Rob Viglione.
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/362/) episode - *zkTLS with Maddy from Reclaim*. (04.06.2025)
+* [Zero Knowledge Proofs: The Game-Changer for Digital Privacy You Need to Know, Featuring Rob Viglione](https://www.youtube.com/watch?v=CFXg5E34AcY). (04.06.2025)
 
 ### Reading materials 
 * [ZK Tech is the Tool that will Mass Onboard Web3 Users](https://hackernoon.com/zk-tech-is-the-tool-that-will-mass-onboard-web3-users) - article by Galxe. (04.06.2025)

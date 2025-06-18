@@ -1,7 +1,8 @@
 # ZK Newsletter for 2025-06-04
-This release details...
-
 ### Top picks
+* [Zk validation module for contract accounts - Eugenio Reggianini](https://www.youtube.com/watch?v=eoQnATfPSTY). (29.05.2025)
+* [Zero-Knowledge Polynomial Commitment in Binary Fields](https://eprint.iacr.org/2025/1015.pdf) - academic text by Benjamin E. Diamond. (02.06.2025)
+* [Proofs On A Leash: Post-Quantum Lattice SNARK With Greyhound](https://blog.zksecurity.xyz/posts/greyhound/) - article by zksecurity. (03.06.2025)
 
 ### Reading materials 
 * [Justvengers: Batched VOLE ZK Disjunctions in O(R+B+C) Communication](https://eprint.iacr.org/2025/936.pdf) - academic text by Yibin Yang. (23.05.2025)
