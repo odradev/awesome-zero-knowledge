@@ -1,7 +1,11 @@
 # ZK Newsletter for 2025-06-18
-This release details...
+This release details zkVM Interoperability, Keynote, EigenCloud and Sum-Check Proving.
 
 ### Top picks
+* [Panel 6: The Future of zkVM Interoperability and Proof Liquidity](https://www.youtube.com/watch?v=8Uh2N2fAKxc). (11.06.2025)
+* [Keynote by Porter Adams, Core Contributor of Matter Labs & ZKsync](https://www.youtube.com/watch?v=Sz3-By2mvxo). (12.06.2025)
+* [EigenCloud: Cloud-Scale Programmability, Crypto-Grade Verifiability](https://blog.eigencloud.xyz/eigencloud-technical-blog/). (17.06.2025)
+* [Speeding Up Sum-Check Proving](https://eprint.iacr.org/2025/1117.pdf) - academic text by Suyash Bagad, Quang Dao, Yuval Domb, Justin Thaler. (17.06.2025)
 
 ### Reading materials 
 * [On the Performance of Cloud-based ARM SVE for Zero-Knowledge Proving Systems](https://arxiv.org/pdf/2506.09505) - academic text by Dumitrel Loghin, Shuang Liang, Shengwei Liu, Xiong Liu, Pingcheng Ruan and Zhigang Ye. (11.06.2025)
