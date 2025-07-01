@@ -1,7 +1,12 @@
 # ZK Newsletter for 2025-06-25
-This release details...
+This release details LZKSA, Fuzzy Extractors in zkML, Common Circom Pitfalls, scalin oracles for L2 and ZisK.
 
 ### Top picks
+* [LZKSA: Lattice-Based Special Zero-Knowledge Proofs for Secure Aggregation's Input Verification](https://eprint.iacr.org/2025/1141.pdf) - academic text by Zhi Lu and Songfeng Lu. (19.06.2025)
+* [Not All Noise Is Entropy: On the Limits of Fuzzy Extractors in zkML](https://tunnelid.medium.com/not-all-noise-is-entropy-on-the-limits-of-fuzzy-extractors-in-zkml-c7ea39544053) - article by Tunnel ID. (24.06.2025)
+* [Common Circom Pitfalls and How to Dodge Them — Part 1](https://blog.zksecurity.xyz/posts/circom-pitfalls-1/) - article by Marco Besier. (24.06.2025)
+* [DAPPCON 2025: Scaling Oracles for L2s and Beyond - Brenda Loya](https://www.youtube.com/watch?v=OwYbVj4NRjs). (24.06.2025)
+* [DAPPCON 2025: Zisk, zkProving in real time - Jordi Baylina](https://www.youtube.com/watch?v=5Fs0BIMqPyo). (24.06.2025)
 
 ### Reading materials
 * [LZKSA: Lattice-Based Special Zero-Knowledge Proofs for Secure Aggregation's Input Verification](https://eprint.iacr.org/2025/1141.pdf) - academic text by Zhi Lu and Songfeng Lu. (19.06.2025)
