@@ -1,7 +1,11 @@
 # ZK Newsletter for 2025-07-02
-This release details...
+This release details ZKPROV, ZK Coprocessor and leveraging AI.
 
 ### Top picks
+* [ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models](https://arxiv.org/pdf/2506.20915) - academic text by Mina Namazi, Alexander Nemecek and Erman Ayday. (25.06.2025)
+* [Uncovering the Phantom Challenge Soundness Bug in Solana's ZK ElGamal Proof Program](https://blog.zksecurity.xyz/posts/solana-phantom-challenge-bug/) - article by Suneal Gong. (26.06.2025)
+* [BartolomeoDiaz (Herodotus) - Securing Cross-Chain Interactions with ZK Coprocessor](https://www.youtube.com/watch?v=4wL1ym_QyT4). (30.06.2025)
+* [mimoo (zkSecurity) - Leveraging AI for Automated Vulnerability Detection in Zero-Knowledge Proof Sys](https://www.youtube.com/watch?v=RRWhJm9MTpQ). (30.06.2025)
 
 ### Reading materials
 * [Folding schemes in the lattice setting: pay-per-bit and NTTs](https://blog.icme.io/folding-schemes-in-the-lattice-setting-pay-per-bit-and-ntts/) - article by Alberto Centelles. (25.06.2025)
