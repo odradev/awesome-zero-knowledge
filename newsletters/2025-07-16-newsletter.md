@@ -1,50 +1,40 @@
-# ZK Newsletter for 2025-07-09
-This release details Optimising AI Verifiability with zkML, Binius Proof System and Public & Private Inputs.
+# ZK Newsletter for 2025-07-16
+This release details...
 
 ### Top picks
-* [Ismael Hishon-Rezaizadeh (Lagrange) - Optimising AI Verifiability with zkML Proofs](https://www.youtube.com/watch?v=yQb-eZxGLV8). (03.07.2025)
-* [Binius Proof System, PCS](https://medium.com/@CFrontier_Labs/binius-proof-system-pcs-f04bf3f22e18) - article by Computation Frontier. (04.07.2025)
-* [Public and Private Inputs](https://rareskills.io/post/circom-public-private-inputs) - article by rareskills. (08.07.2025)
 
 ### Reading materials 
-* [Bug Hunt: Zero-Knowledge, Full-Paranoia, and the AI That Stares Back](https://blog.zksecurity.xyz/posts/snarksentinel/) - article by zksecurity. (03.07.2025)
-* [Binius Proof System, PCS](https://medium.com/@CFrontier_Labs/binius-proof-system-pcs-f04bf3f22e18) - article by Computation Frontier. (04.07.2025)
-* [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://medium.com/@alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-01993255b4bf) - article by Alex Sofroniev. (05.07.2025)
-* [zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection](https://arxiv.org/pdf/2507.05294) - academic text by  William Law. (05.07.2025)
-* [Hobbit: Space-Efficient zkSNARK with Optimal Prover Time](https://eprint.iacr.org/2025/1214.pdf) - academic text by Christodoulos Pappas and Dimitrios Papadopoulos. (07.07.2025)
-* [Ring-LWR based Commitments and ZK-PoKs with Application to Verifiable Quantum-Safe Searchable Symmetric Encryption](https://eprint.iacr.org/2025/1216.pdf) - academic text by Debadrita Talapatra, Nimish Mishra and Debdeep Mukhopadhyay. (07.07.2025)
-* [Circle FFT — Part 1: Building the Circle Domain](https://rareskills.io/post/circle-starks) - article by rareskills. (08.07.2025)
-* [Public and Private Inputs](https://rareskills.io/post/circom-public-private-inputs) - article by rareskills. (08.07.2025)
-
+* [Uncovering the Query Collision Bug in Halo2: How a Single Extra Query Breaks Soundness](https://blog.zksecurity.xyz/posts/halo2-query-collision/) - article by Suneal Gong. (09.07.2025)
+* [Efficiently parsing existing eID documents for zero-knowledge proofs](https://eprint.iacr.org/2025/1266.pdf) - academic text by Tom Godden, Ruben De Smet, Kris Steenhaut and An Braeken. (09.07.2025)
+* [ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation](https://arxiv.org/pdf/2507.07031) - academic text by Bing-Jyue Chen, Lilia Tang and Daniel Kang. (10.07.2025)
+* [Applications Of Zero-Knowledge Proofs On Bitcoin](https://eprint.iacr.org/2025/1271.pdf) - academic text by Yusuf Ozmiş. (10.07.2025)
+* [On Weak NIZKs, One-way Functions and Amplification](https://eprint.iacr.org/2025/1276.pdf) - academic text by Suvradip Chakraborty, James Hulett and Dakshita Khurana. (11.07.2025)
+* [SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity](https://arxiv.org/pdf/2507.09453) - academic text by Michał Jóźwik and Johan Pouwelse. (13.07.2025)
+* [Let's Labrador](https://hackmd.io/@Ingonyama/fast-labrador-prover) - article by Ashutosh Marwah. (15.07.2025)
+ 
 ### Watching materials
-* [Kostas Ferles (Veridise) - ZKVM Determinism That Lasts: From Audits to Continuous Verification](https://www.youtube.com/watch?v=Z6ynw9I78u8). (02.07.2025)
-* [Ismael Hishon-Rezaizadeh (Lagrange) - Optimising AI Verifiability with zkML Proofs](https://www.youtube.com/watch?v=yQb-eZxGLV8). (03.07.2025)
-* [Mopro Workshop: Build a mobile native ZK app](https://www.youtube.com/watch?v=AfbawUoMntc). (04.07.2025)
-* [Introducing Bionetta and Client-Side ZKML with Oleks Kurbatov | NoirCon2 2025](https://www.youtube.com/watch?v=e7Pj79YOftU). (08.07.2025)
+* [ZKPassport: Private Identity Verification with Michael Elliot | NoirCon2 2025](https://www.youtube.com/watch?v=D9G_Jc0HviA). (15.07.2025)
+* [Private Machine Learning with ZKML - Laurence Kirk | Extropy.IO](https://www.youtube.com/watch?v=LzQ9sbVYsfE). (15.07.2025)
  
 ### Listening materials
-* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/366/) episode - *Bringing ID Onchain with Self*. (02.07.2025)
-* [#56: Muthu Venkitasubramaniam, CEO of Ligero, & Carmit Hazay, Chief Cryptographer at Ligero](https://www.youtube.com/watch?v=koUBorhapo0). (02.07.2025)
-* [Interview with Ming Guo, Chief Scientist at ZKM, & Stephen Duan, Core Contributor at GOAT Network](https://www.youtube.com/watch?v=2Y8oWp5gnp8). (03.07.2025)
-* [The Race to Real-Time: How to Ensure ZK Proofs Keep Up](https://www.youtube.com/watch?v=Aw6hPrsoOyk). (07.07.2025)
-* [Aztec vs StarkWare with Maya Dotan and Joe Andrews | NoirCon2 2025](https://www.youtube.com/watch?v=KIbsPcWsakQ). (08.07.2025)
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/367/) episode - *Local-First with grjte and Goblin Oats*. (09.07.2025)
+* [Epicenter Podcast](https://www.youtube.com/watch?v=yQqYtkCIZns) episode - *Vitalik Buterin: Ethereum, The [LAST] Steward of Decentralisation. Ep. 607*. (09.07.2025)
+* [Nori | Ethereum to Mina ZK Bridge](https://www.youtube.com/watch?v=Wbs8kMRHKYs). (09.07.2025)
+* [#57: Ming Guo, Chief Scientist at ZKM, & Stephen Duan, Core Contributor at GOAT Network](https://www.youtube.com/watch?v=rIO0UQXnB3Y). (09.07.2025)
+* [#58: Michael Blind, Co-founder of Hibachi](https://www.youtube.com/watch?v=Dl4RZOVngeQ). (11.07.2025)
+* [Between Two Chains Ep 3: Future of Blockchain Interoperability with Zero Knowledge (Reka, RISC Zero)](https://www.youtube.com/watch?v=iEWxEgMwJso). (15.07.2025)
 
 ### MPC
-* [Linearly Homomorphic Ring Signature Scheme over Lattices](https://arxiv.org/pdf/2507.02281) - academic text by Heng Guo, Kun Tian, Fengxia Liu and Zhiyong Zheng. (02.07.2025)
-* [Cascade: Token-Sharded Private LLM Inference](https://arxiv.org/pdf/2507.05228) - academic text by Rahul Thomas, Louai Zahran, Erica Choi, Akilesh Potti, Micah Goldblum, Arka Pal. (07.07.2025)
-* [Revisiting Module Lattice-based Homomorphic Encryption and Application to Secure-MPC](https://eprint.iacr.org/2025/1218.pdf) - academic text by Anisha Mukherjee and Sujoy Sinha Roy. (07.07.2025)
+* [SMOOTHIE: (Multi-)Scalar Multiplication Optimizations On TFHE](https://eprint.iacr.org/2025/1267.pdf) - academic text by Xander Pottier, Jan-Pieter D'Anvers, Thomas de Ruijter and Ingrid Verbauwhede. (10.07.2025)
+* [Multi-Party Computations: Oblivious Transfer](https://medium.com/@cryptofairy/multi-party-computations-oblivious-transfer-81efb872c8eb) - article by Taras Shchybovyk. (14.07.2025)
  
 ### Updates of ZK projects
-* [Guide to blockchain virtual machines: Comparing AleoVM](https://aleo.org/post/guide-to-blockchain-virtual-machines-comparing-aleovm/). (01.07.2025)
-* [Countdown to Citrea Mainnet](https://www.blog.citrea.xyz/countdown-to-citrea-mainnet/). (02.07.2025)
-* [Snarkify Joins the Succinct Prover Network](https://blog.succinct.xyz/snarkify/). (03.07.2025)
-* [Kakarot x S-two: Bringing ZK to everyday devices](https://starkware.co/blog/kakarot-x-s-two-bringing-zk-to-everyday-devices/). (03.07.2025)
-* [Ziren: What’s new?](https://www.zkm.io/blog/ziren-whats-new) (07.07.2025)
+* [Deep dive: Hyligotchi, your testnet companion](https://blog.hyli.org/deep-dive-hyligotchi/). (09.07.2025)
+* [Proving World Chain: Scaling ZK to All Humans](https://blog.succinct.xyz/world-pilot/). (10.07.2025)
+* [Why ZKM Chose MIPS32r2 Over RISC-V (Part 3): Proof Longevity and Circuit Stability](https://www.zkm.io/blog/why-zkm-chose-mips32r2-over-risc-v-part-3-proof-longevity-and-circuit-stability). (11.07.2025)
+* [solx Beta: No stack too deep. No semantic changes](https://zksync.mirror.xyz/2e9iV3D4gTVKgNDus4VN-fZ6_9BszY2qvQEfpOvgNLQ). (11.07.2025)
+* [Unfreeze ₿apps: Community March Toward Citrea Mainnet](https://www.blog.citrea.xyz/unfreeze-bapps-campaign/). (15.07.2025)
  
-### Current events
-* [The Ethereum Community Conference 2025](https://ethcc.io/) - conference in June/July 2025 in Cannes, France. Recordings can be found [here](https://www.youtube.com/playlist?list=PL-owlDp9BBauKAqrg_KZvcHr8Si4jbuIK).
-* [ETHGlobal Cannes](https://ethglobal.com/events/cannes) - summit on July 2025 in Cannes, France.
-
 ### Upcoming events
 * [The Science of Blockchain Conference 2025](https://www.sbc-conference.com/2025/) - conference on August 2025 in Berkeley, USA
 * [Workshop on Elliptic Curve Cryptography ECC 2025](https://eccworkshop.org/2025/index.html) - online workshop on August 2025.
