@@ -1,7 +1,10 @@
 # ZK Newsletter for 2025-07-16
-This release details...
+This release detaild Halo2, ZK on Bitcoin and private Machine Learning with ZKML. 
 
 ### Top picks
+* [Uncovering the Query Collision Bug in Halo2: How a Single Extra Query Breaks Soundness](https://blog.zksecurity.xyz/posts/halo2-query-collision/) - article by Suneal Gong. (09.07.2025)
+* [Applications Of Zero-Knowledge Proofs On Bitcoin](https://eprint.iacr.org/2025/1271.pdf) - academic text by Yusuf Ozmiş. (10.07.2025)
+* [Private Machine Learning with ZKML - Laurence Kirk | Extropy.IO](https://www.youtube.com/watch?v=LzQ9sbVYsfE). (15.07.2025)
 
 ### Reading materials 
 * [Uncovering the Query Collision Bug in Halo2: How a Single Extra Query Breaks Soundness](https://blog.zksecurity.xyz/posts/halo2-query-collision/) - article by Suneal Gong. (09.07.2025)
