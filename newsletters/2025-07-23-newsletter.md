@@ -1,8 +1,11 @@
 # ZK Newsletter for 2025-07-23
-This release details...
+This release details TLSNotary, BitVM3 garbling scheme and Protocol Berg v2. 
 
 ### Top picks
-
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/368/) episode - *TLSNotary with Dan and Sinu*. (16.07.2025)
+* [A note on the security of the BitVM3 garbling scheme](https://eprint.iacr.org/2025/1291.pdf) - academic text by Ariel Futoransky, Gabriel Larotonda and Fadi Barbara. (18.07.2025)
+* [Protocol Berg v2: Norbert Vadas - Economic security behind ZK proof generation](https://www.youtube.com/watch?v=bACwz6fWERQ). (20.07.2025)
+s
 ### Reading materials 
 * [Gödel in Cryptography: Effectively Zero-Knowledge Proofs for NP with No Interaction, No Setup, and Perfect Soundness](https://eprint.iacr.org/2025/1296.pdf) - academic text by Rahul Ilango. (16.07.2025)
 * [ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs](https://arxiv.org/pdf/2507.11649) - academic text by Daniel Commey, Benjamin Appiah, Griffith S. Klogo and Garth V. Crosby. (17.07.2025)
@@ -21,7 +24,6 @@ This release details...
 * [#40 | Silence Labs: Reinvents Trust with MPC](https://www.youtube.com/watch?v=RzzB8Ryh3zw). (16.07.2025)
 * [#59: Eric Vreeland, CSO at Polyhedra](https://www.youtube.com/watch?v=JQD1S2L-z34). (16.07.2025)
 * [[SheFi Summit Seoul 2025] Fireside Chat : Bridging to a zkVM](https://www.youtube.com/watch?v=PdOqBirD850). (17.07.2025)
-* [Expansion Podcast](https://www.youtube.com/watch?v=4N4KQYQAhLU) episode - *The Mechanics Behind The Pump ICO | Roundup*. (18.07.2025)
 * [#60: Franklin Delehelle, Research Engineer at Lagrange](https://www.youtube.com/watch?v=i1eI9m9jYtQ). (22.07.2025)
 
 ### MPC
