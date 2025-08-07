@@ -1,7 +1,11 @@
-# ZK Newsletter for 2025-08-06
-This release details...
+# ZK Newsletter for 2025-08-07
+This release details Cryptographic Data Exchange, Verifiable AI Memory, ZK Email and STARKs in Simplicity.
 
 ### Top picks
+* [Cryptographic Data Exchange for Nuclear Warheads](https://arxiv.org/pdf/2507.20074) - academic text by Neil Perry and Daniil Zhukov. (26.07.2025)
+* [Verifiable AI Memory — When AI Remembers, Who Controls the Truth?](https://blog.icme.io/verifiable-ai-memory-when-ai-remembers-who-controls-the-truth/) - article by Wyatt Benno. (29.07.2025)
+* [ZK Email: Digital Provenance by Aayush Gupta, Co-founder of ZK Email](https://www.youtube.com/watch?v=UGrWhRmInEg). (30.07.2025)
+* [Building STARKs in Simplicity](https://starkware.co/blog/building-starks-in-simplicity/). (04.08.2025)
 
 ### Reading materials 
 * [Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs](https://arxiv.org/pdf/2507.17010) - academic text by H M Mohaimanul Islam, Huynh Q. N. Vo and Aditya Rane. (22.07.2025)
@@ -27,7 +31,7 @@ This release details...
 * [The Privacy Revolution - What is Zero Knowledge and How Will it Change Everything with Jens Groth](https://www.youtube.com/watch?v=oOq4cj-7vDY). (23.07.2025)
 * [Interview with Lukas Helminger, CEO of Taceo - Noircon 2, Berlin](https://www.youtube.com/watch?v=ELmO0kYkZcU). (24.07.2025)
 * [Interview with Michael Elliot & Theo Madzou, ZKPassport - Noircon 2, Berlin](https://www.youtube.com/watch?v=q_DH5UT2y88). (28.07.2025)
-* [Presentation by Aayush Gupta, Co-founder of ZK Email](https://www.youtube.com/watch?v=UGrWhRmInEg). (30.07.2025)
+* [ZK Email: Digital Provenance by Aayush Gupta, Co-founder of ZK Email](https://www.youtube.com/watch?v=UGrWhRmInEg). (30.07.2025)
 * [Presentation by Alice Liu, Education Lead at ZKM](https://www.youtube.com/watch?v=wBi8RvutVN0). (01.08.2025)
 
 ### Listening materials
