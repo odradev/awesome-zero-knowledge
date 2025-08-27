@@ -1,16 +1,17 @@
 # ZK Newsletter for 2025-08-20
-This release details...
+This release details zkPDF, zkID, Sdperse framework for ZKML and zk-Apps on Algorand.
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/372/) episode - *zkPDF and zkID with Vikas Rushi and Ying Tong*. (13.08.2025)
+* [DSperse: A Framework for Targeted Verification in Zero-Knowledge Machine Learning](https://arxiv.org/pdf/2508.06972) - academic text by Dan Ivanov, Tristan Freiberg, Shirin Shahabi, Jonathan Gold and Haruna Isah. (15.08.2025)
+* [Zero-Knowledge, Real World: Building zk-Apps on Algorand | AlgoCan[nes]](https://www.youtube.com/watch?v=JEO-p0OJq5Y). (18.08.2025)
 
 ### Reading materials 
 * [AI-Driven Blockchain on the Internet Computer with zkVM Integration](https://medium.com/@gwrx2005/ai-driven-blockchain-on-the-internet-computer-with-zkvm-integration-23af3dde7bfc) - article by Jung-Hua Liu. (07.08.2025)
 * [Design ZK-NR: A Post-Quantum Layered Protocol for Legally Explainable Zero-Knowledge Non-Repudiation Attestation](https://eprint.iacr.org/2025/1422.pdf) - academic text by Minka Mi Nguidjoi Thierry Emmanuel, Mani Onana Flavien Serge, Djotio Ndié Thomas and Atsa Etoundi Roger. (07.08.2025)
-* [How to Design Low-Gas Tokenomics Using Layer 2 Innovations?](https://medium.com/digitalcurrencytraders/how-to-design-low-gas-tokenomics-using-layer-2-innovations-c130585412df) - article by Blockchain App Factory. (07.08.2025)
 * [DIMSEPP: A Decentralized Identity Management System with Enhanced Privacy Protection](https://eprint.iacr.org/2025/1441.pdf) - academic text by Yu Zhang and Zongbin Wang. (08.08.2025)
 * [DSperse: A Framework for Targeted Verification in Zero-Knowledge Machine Learning](https://arxiv.org/pdf/2508.06972) - academic text by Dan Ivanov, Tristan Freiberg and Haruna Isah. (09.08.2025)
 * [Noirky2: how we made a Plonky2 proving backend for Noir](https://medium.com/eryxcoop/noirky2-how-we-made-a-plonky2-proving-backend-for-noir-a2fbce7a490b) - article by Bruno Weisz. (12.08.2025)
-* [DSperse: A Framework for Targeted Verification in Zero-Knowledge Machine Learning](https://arxiv.org/pdf/2508.06972) - academic text by Dan Ivanov, Tristan Freiberg, Shirin Shahabi, Jonathan Gold and Haruna Isah. (15.08.2025)
 * [ToxiEval-ZKP: A Structure-Private Verification Framework for Molecular Toxicity Repair Tasks](https://arxiv.org/pdf/2508.12035) - academic text by  Fei Lin, Tengchao Zhang, Ziyang Gong, Fei-Yue Wang. (16.08.2025)
 * [ZKPs: The Cryptographic Backbone for Private Online Age Verification](https://medium.com/@concordium/zkps-the-cryptographic-backbone-for-private-online-age-verification-e2222c18d250) - article by Concordium. (16.08.2025)
 * [Polygon zkEVM Research Notes](https://medium.com/@cesarschneider/polygon-zkevm-research-notes-cc4778fa8b3d) - article by Cesar Schneider. (17.08.2025)
