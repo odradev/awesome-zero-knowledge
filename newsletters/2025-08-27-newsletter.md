@@ -1,7 +1,10 @@
 # ZK Newsletter for 2025-08-27
-This release details...
+This release details Ethproofs, zkVM Benchmarks, sumcheck and multilinear polynomials.
 
 ### Top picks
+* [Zero Knowledge Podcast](https://zeroknowledge.fm/podcast/373/) episode - *Ethproofs, zkVM Benchmarks & the Unstoppable Rise of ZK with Justin Drake*. (20.08.2025)
+* [Sumcheck good. Lookups good. JOLT good. Particularly for zero-knowledge machine learning](https://blog.icme.io/sumcheck-good-lookups-good-jolt-good-particularly-for-zero-knowledge-machine-learning/) - article by Wyatt Benno. (25.08.2025)
+* [Multilinear polynomials: survival kit](https://blog.lambdaclass.com/multilinear-polynomials-survival-kit/) - article by LambdaClass. (26.08.2025)
 
 ### Reading materials 
 * [zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates](https://arxiv.org/pdf/2508.16738) - academic text by Alhad Daftardar, Jianqiao Mo, Joey Ah-kiow, Benedikt Bünz, Siddharth Garg and Brandon Reagen. (22.08.2025)
