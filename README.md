@@ -2,6 +2,7 @@
 A curated list of Zero Knowledge links, mostly focusing on blockchain. **Check out also our weekly [ZK Newsletter](https://zknewsletter.com/)!**
 
 ## Index
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 * [Introduction](#introduction)
 * [Tutorials](#tutorials)
 * [Conferences and workshops](#conferences-and-workshops)
