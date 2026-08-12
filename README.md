@@ -350,6 +350,7 @@ List of whitepapers to the described projects.
 
 ### Benchmarks
 * [ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
+* [OpenChainBench](https://openchainbench.com) - Continuous live benchmarks for ZK rollup finality time, block time, and RPC latency — network-level performance as a complement to prover benchmarks.
 
 ### YouTube clips
 #### Easy
