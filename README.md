@@ -306,6 +306,7 @@ Projects that are using ZK-technology.
 * [Qredo](https://www.qredo.com/) - The Qredo Network is an institutional-grade clearing and settlement network for digital assets.
 
 #### Tools
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 * [Taiko](https://taiko.xyz) - Taiko is a fully decentralized, Ethereum-equivalent ZK-Rollup (a Type 1 ZK-EVM).
 * [Risc Zero ZKEVM](https://www.risczero.com/) - an open-source, zero-knowledge virtual machine that lets building trustless, verifiable software.
 * [Horizen](https://www.horizen.io/) - the zero-knowledge enabled network of blockchains.
