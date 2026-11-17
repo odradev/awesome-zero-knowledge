@@ -312,6 +312,7 @@ Projects that are using ZK-technology.
 * [Axiom](https://www.axiom.xyz/) - ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it.
 * [Sovereign](https://www.sovereign.xyz) - an ecosystem of seamlessly interoperable and scalable rollups that can run on any blockchain.
 * [Hyper Oracle](https://www.hyperoracle.io/) - Hyper Oracle is a programmable zkOracle network that safeguards blockchain security and decentralization.
+* [zkDatabase](https://www.zkdatabase.org/) - verifiable database by Orochi Network that generates a Zero-Knowledge Proof for every operation, so anyone can check each data change without seeing the raw data.
 * [QED](https://www.qedprotocol.com/) - zk-Native blockchain protocol.
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) - a toolbox for zkSNARKs on Ethereum.
 * [Circom](https://github.com/iden3/circom) - zkSnark circuit compiler.
