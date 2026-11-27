@@ -284,6 +284,7 @@ Projects that are using ZK-technology.
 * [Mina](https://minaprotocol.com) - layer one protocol designed to deliver on the original promise of blockchain — true decentralization, scale and security.
 * [Ziesha Network](https://ziesha.network/) - layer-1 cryptocurrency which uses Zero Knowledge proofs as the back-end of its smart-contracts, focusing on a more scalable (Yet maintainable) blockchain by compressing transactions through zkRollup-like circuits.
 * [Dusk Network](https://dusk.network) - layer-1 blockchain protocol capable of powering privacy-preserving smart contracts that satisfy business compliance criteria.
+* [Newsatoshi](https://newsatoshi.org/) - post-quantum Layer-1 shielded electronic cash built strictly on pure FIPS SHA-2/SHA-384 Quartic Goldilocks STARKs (Winterfell, 100–104b QROM) with all 249 spend AIR constraints and semantic spend soundness mechanized in zero-dependency Lean 4.
 
 #### Layer 2
 * [Coingecko](https://www.coingecko.com/en/categories/zero-knowledge-zk?) - list of top Zero Knowledge Coins by Coingecko.
@@ -337,6 +338,7 @@ List of whitepapers to the described projects.
 * [Scroll.io](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
 * [Loopring](https://whitepaper.io/document/26/loopring-whitepaper)
 * [ZKSpace](https://github.com/l2labs/zkspace-whitepaper/)
+* [Newsatoshi](https://newsatoshi.org/newsatoshi-v2.2.pdf)
 * [Aztec Connect](https://eprint.iacr.org/2019/953.pdf)
 * [Polygon](https://whitepaper.io/document/646/polygon-whitepaper)
 * [Arbitrum Nova](https://github.com/OffchainLabs/nitro/blob/master/docs/Nitro-whitepaper.pdf)
